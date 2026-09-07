@@ -1,0 +1,884 @@
+[
+  {
+    "holding_end_date": "2016-03-31",
+    "portfolio_size": 20,
+    "model_value": 10114.03,
+    "sp500_value": 10132.93,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-06-30",
+    "portfolio_size": 20,
+    "model_value": 10433.04,
+    "sp500_value": 10381.88,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-09-30",
+    "portfolio_size": 20,
+    "model_value": 10666.69,
+    "sp500_value": 10774.03,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-12-30",
+    "portfolio_size": 20,
+    "model_value": 11133.87,
+    "sp500_value": 11199.78,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-03-31",
+    "portfolio_size": 20,
+    "model_value": 12557.78,
+    "sp500_value": 11862.95,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-06-30",
+    "portfolio_size": 20,
+    "model_value": 13138.1,
+    "sp500_value": 12227.24,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-09-30",
+    "portfolio_size": 20,
+    "model_value": 13599.42,
+    "sp500_value": 12767.14,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-12-30",
+    "portfolio_size": 20,
+    "model_value": 15009.09,
+    "sp500_value": 13630.74,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-03-31",
+    "portfolio_size": 20,
+    "model_value": 15920.37,
+    "sp500_value": 13495.08,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-06-30",
+    "portfolio_size": 20,
+    "model_value": 18240.96,
+    "sp500_value": 13974.48,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-09-30",
+    "portfolio_size": 20,
+    "model_value": 19746.11,
+    "sp500_value": 15043.69,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-12-30",
+    "portfolio_size": 20,
+    "model_value": 16116.79,
+    "sp500_value": 13007.96,
+    "model_drawdown_pct": -18.38
+  },
+  {
+    "holding_end_date": "2019-03-31",
+    "portfolio_size": 20,
+    "model_value": 19210.85,
+    "sp500_value": 14767.42,
+    "model_drawdown_pct": -2.71
+  },
+  {
+    "holding_end_date": "2019-06-30",
+    "portfolio_size": 20,
+    "model_value": 20585.54,
+    "sp500_value": 15391.88,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2019-09-30",
+    "portfolio_size": 20,
+    "model_value": 20207.58,
+    "sp500_value": 15661.92,
+    "model_drawdown_pct": -1.84
+  },
+  {
+    "holding_end_date": "2019-12-30",
+    "portfolio_size": 20,
+    "model_value": 23632.89,
+    "sp500_value": 17069.55,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2020-03-31",
+    "portfolio_size": 20,
+    "model_value": 19345.82,
+    "sp500_value": 13749.91,
+    "model_drawdown_pct": -18.14
+  },
+  {
+    "holding_end_date": "2020-06-30",
+    "portfolio_size": 20,
+    "model_value": 28462.97,
+    "sp500_value": 16522.14,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2020-09-30",
+    "portfolio_size": 20,
+    "model_value": 35329.82,
+    "sp500_value": 18015.47,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2020-12-30",
+    "portfolio_size": 20,
+    "model_value": 42093.18,
+    "sp500_value": 20198.67,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-03-31",
+    "portfolio_size": 20,
+    "model_value": 47321.89,
+    "sp500_value": 21481.65,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-06-30",
+    "portfolio_size": 20,
+    "model_value": 51472.54,
+    "sp500_value": 23277.36,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-09-30",
+    "portfolio_size": 20,
+    "model_value": 51787.69,
+    "sp500_value": 23410.86,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-12-30",
+    "portfolio_size": 20,
+    "model_value": 50912.5,
+    "sp500_value": 26001.5,
+    "model_drawdown_pct": -1.69
+  },
+  {
+    "holding_end_date": "2022-03-31",
+    "portfolio_size": 20,
+    "model_value": 48182.49,
+    "sp500_value": 24801.67,
+    "model_drawdown_pct": -6.96
+  },
+  {
+    "holding_end_date": "2022-06-30",
+    "portfolio_size": 20,
+    "model_value": 32565.85,
+    "sp500_value": 20806.05,
+    "model_drawdown_pct": -37.12
+  },
+  {
+    "holding_end_date": "2022-09-30",
+    "portfolio_size": 20,
+    "model_value": 33786.82,
+    "sp500_value": 19780.08,
+    "model_drawdown_pct": -34.76
+  },
+  {
+    "holding_end_date": "2022-12-30",
+    "portfolio_size": 20,
+    "model_value": 33076.5,
+    "sp500_value": 21275.63,
+    "model_drawdown_pct": -36.13
+  },
+  {
+    "holding_end_date": "2023-03-31",
+    "portfolio_size": 20,
+    "model_value": 43017.13,
+    "sp500_value": 22862.42,
+    "model_drawdown_pct": -16.94
+  },
+  {
+    "holding_end_date": "2023-06-30",
+    "portfolio_size": 20,
+    "model_value": 52971.47,
+    "sp500_value": 24846.96,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2023-09-30",
+    "portfolio_size": 20,
+    "model_value": 50606.0,
+    "sp500_value": 24045.85,
+    "model_drawdown_pct": -4.47
+  },
+  {
+    "holding_end_date": "2023-12-30",
+    "portfolio_size": 20,
+    "model_value": 57842.98,
+    "sp500_value": 26844.69,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2024-03-31",
+    "portfolio_size": 20,
+    "model_value": 61022.78,
+    "sp500_value": 29633.89,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2024-06-30",
+    "portfolio_size": 20,
+    "model_value": 58978.01,
+    "sp500_value": 30931.58,
+    "model_drawdown_pct": -3.35
+  },
+  {
+    "holding_end_date": "2024-09-30",
+    "portfolio_size": 20,
+    "model_value": 63653.09,
+    "sp500_value": 32710.56,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2024-12-30",
+    "portfolio_size": 20,
+    "model_value": 65588.29,
+    "sp500_value": 33525.39,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2025-03-31",
+    "portfolio_size": 20,
+    "model_value": 63671.57,
+    "sp500_value": 32094.91,
+    "model_drawdown_pct": -2.92
+  },
+  {
+    "holding_end_date": "2025-06-30",
+    "portfolio_size": 20,
+    "model_value": 90564.08,
+    "sp500_value": 35553.84,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2025-09-30",
+    "portfolio_size": 20,
+    "model_value": 119208.53,
+    "sp500_value": 38441.24,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2025-12-30",
+    "portfolio_size": 20,
+    "model_value": 135690.75,
+    "sp500_value": 39465.78,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2026-03-31",
+    "portfolio_size": 20,
+    "model_value": 123991.05,
+    "sp500_value": 37740.89,
+    "model_drawdown_pct": -8.62
+  },
+  {
+    "holding_end_date": "2026-06-30",
+    "portfolio_size": 20,
+    "model_value": 173612.25,
+    "sp500_value": 43448.62,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-03-31",
+    "portfolio_size": 30,
+    "model_value": 10118.1,
+    "sp500_value": 10132.93,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-06-30",
+    "portfolio_size": 30,
+    "model_value": 10483.2,
+    "sp500_value": 10381.88,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-09-30",
+    "portfolio_size": 30,
+    "model_value": 10718.42,
+    "sp500_value": 10774.03,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-12-30",
+    "portfolio_size": 30,
+    "model_value": 10977.72,
+    "sp500_value": 11199.78,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-03-31",
+    "portfolio_size": 30,
+    "model_value": 12153.97,
+    "sp500_value": 11862.95,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-06-30",
+    "portfolio_size": 30,
+    "model_value": 12773.9,
+    "sp500_value": 12227.24,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-09-30",
+    "portfolio_size": 30,
+    "model_value": 13134.02,
+    "sp500_value": 12767.14,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-12-30",
+    "portfolio_size": 30,
+    "model_value": 14429.38,
+    "sp500_value": 13630.74,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-03-31",
+    "portfolio_size": 30,
+    "model_value": 15211.08,
+    "sp500_value": 13495.08,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-06-30",
+    "portfolio_size": 30,
+    "model_value": 17068.49,
+    "sp500_value": 13974.48,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-09-30",
+    "portfolio_size": 30,
+    "model_value": 18292.11,
+    "sp500_value": 15043.69,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-12-30",
+    "portfolio_size": 30,
+    "model_value": 14807.7,
+    "sp500_value": 13007.96,
+    "model_drawdown_pct": -19.05
+  },
+  {
+    "holding_end_date": "2019-03-31",
+    "portfolio_size": 30,
+    "model_value": 17510.84,
+    "sp500_value": 14767.42,
+    "model_drawdown_pct": -4.27
+  },
+  {
+    "holding_end_date": "2019-06-30",
+    "portfolio_size": 30,
+    "model_value": 18504.02,
+    "sp500_value": 15391.88,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2019-09-30",
+    "portfolio_size": 30,
+    "model_value": 17690.39,
+    "sp500_value": 15661.92,
+    "model_drawdown_pct": -4.4
+  },
+  {
+    "holding_end_date": "2019-12-30",
+    "portfolio_size": 30,
+    "model_value": 20583.88,
+    "sp500_value": 17069.55,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2020-03-31",
+    "portfolio_size": 30,
+    "model_value": 16281.83,
+    "sp500_value": 13749.91,
+    "model_drawdown_pct": -20.9
+  },
+  {
+    "holding_end_date": "2020-06-30",
+    "portfolio_size": 30,
+    "model_value": 23007.58,
+    "sp500_value": 16522.14,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2020-09-30",
+    "portfolio_size": 30,
+    "model_value": 26983.17,
+    "sp500_value": 18015.47,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2020-12-30",
+    "portfolio_size": 30,
+    "model_value": 33037.37,
+    "sp500_value": 20198.67,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-03-31",
+    "portfolio_size": 30,
+    "model_value": 37374.45,
+    "sp500_value": 21481.65,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-06-30",
+    "portfolio_size": 30,
+    "model_value": 40848.77,
+    "sp500_value": 23277.36,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-09-30",
+    "portfolio_size": 30,
+    "model_value": 40435.84,
+    "sp500_value": 23410.86,
+    "model_drawdown_pct": -1.01
+  },
+  {
+    "holding_end_date": "2021-12-30",
+    "portfolio_size": 30,
+    "model_value": 40918.4,
+    "sp500_value": 26001.5,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2022-03-31",
+    "portfolio_size": 30,
+    "model_value": 38704.7,
+    "sp500_value": 24801.67,
+    "model_drawdown_pct": -5.41
+  },
+  {
+    "holding_end_date": "2022-06-30",
+    "portfolio_size": 30,
+    "model_value": 27411.34,
+    "sp500_value": 20806.05,
+    "model_drawdown_pct": -33.01
+  },
+  {
+    "holding_end_date": "2022-09-30",
+    "portfolio_size": 30,
+    "model_value": 27468.89,
+    "sp500_value": 19780.08,
+    "model_drawdown_pct": -32.87
+  },
+  {
+    "holding_end_date": "2022-12-30",
+    "portfolio_size": 30,
+    "model_value": 27737.26,
+    "sp500_value": 21275.63,
+    "model_drawdown_pct": -32.21
+  },
+  {
+    "holding_end_date": "2023-03-31",
+    "portfolio_size": 30,
+    "model_value": 34913.72,
+    "sp500_value": 22862.42,
+    "model_drawdown_pct": -14.67
+  },
+  {
+    "holding_end_date": "2023-06-30",
+    "portfolio_size": 30,
+    "model_value": 42383.82,
+    "sp500_value": 24846.96,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2023-09-30",
+    "portfolio_size": 30,
+    "model_value": 40810.03,
+    "sp500_value": 24045.85,
+    "model_drawdown_pct": -3.71
+  },
+  {
+    "holding_end_date": "2023-12-30",
+    "portfolio_size": 30,
+    "model_value": 47105.92,
+    "sp500_value": 26844.69,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2024-03-31",
+    "portfolio_size": 30,
+    "model_value": 49450.63,
+    "sp500_value": 29633.89,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2024-06-30",
+    "portfolio_size": 30,
+    "model_value": 48953.12,
+    "sp500_value": 30931.58,
+    "model_drawdown_pct": -1.01
+  },
+  {
+    "holding_end_date": "2024-09-30",
+    "portfolio_size": 30,
+    "model_value": 51323.36,
+    "sp500_value": 32710.56,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2024-12-30",
+    "portfolio_size": 30,
+    "model_value": 52169.76,
+    "sp500_value": 33525.39,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2025-03-31",
+    "portfolio_size": 30,
+    "model_value": 51194.39,
+    "sp500_value": 32094.91,
+    "model_drawdown_pct": -1.87
+  },
+  {
+    "holding_end_date": "2025-06-30",
+    "portfolio_size": 30,
+    "model_value": 69449.73,
+    "sp500_value": 35553.84,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2025-09-30",
+    "portfolio_size": 30,
+    "model_value": 84658.14,
+    "sp500_value": 38441.24,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2025-12-30",
+    "portfolio_size": 30,
+    "model_value": 91917.96,
+    "sp500_value": 39465.78,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2026-03-31",
+    "portfolio_size": 30,
+    "model_value": 88294.07,
+    "sp500_value": 37740.89,
+    "model_drawdown_pct": -3.94
+  },
+  {
+    "holding_end_date": "2026-06-30",
+    "portfolio_size": 30,
+    "model_value": 112915.67,
+    "sp500_value": 43448.62,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-03-31",
+    "portfolio_size": 50,
+    "model_value": 10109.57,
+    "sp500_value": 10132.93,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-06-30",
+    "portfolio_size": 50,
+    "model_value": 10550.55,
+    "sp500_value": 10381.88,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-09-30",
+    "portfolio_size": 50,
+    "model_value": 10800.05,
+    "sp500_value": 10774.03,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2016-12-30",
+    "portfolio_size": 50,
+    "model_value": 11051.27,
+    "sp500_value": 11199.78,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-03-31",
+    "portfolio_size": 50,
+    "model_value": 12208.14,
+    "sp500_value": 11862.95,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-06-30",
+    "portfolio_size": 50,
+    "model_value": 12834.82,
+    "sp500_value": 12227.24,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-09-30",
+    "portfolio_size": 50,
+    "model_value": 13510.79,
+    "sp500_value": 12767.14,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2017-12-30",
+    "portfolio_size": 50,
+    "model_value": 14838.62,
+    "sp500_value": 13630.74,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-03-31",
+    "portfolio_size": 50,
+    "model_value": 15460.64,
+    "sp500_value": 13495.08,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-06-30",
+    "portfolio_size": 50,
+    "model_value": 16732.92,
+    "sp500_value": 13974.48,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-09-30",
+    "portfolio_size": 50,
+    "model_value": 17996.18,
+    "sp500_value": 15043.69,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2018-12-30",
+    "portfolio_size": 50,
+    "model_value": 14558.46,
+    "sp500_value": 13007.96,
+    "model_drawdown_pct": -19.1
+  },
+  {
+    "holding_end_date": "2019-03-31",
+    "portfolio_size": 50,
+    "model_value": 17280.8,
+    "sp500_value": 14767.42,
+    "model_drawdown_pct": -3.98
+  },
+  {
+    "holding_end_date": "2019-06-30",
+    "portfolio_size": 50,
+    "model_value": 18128.47,
+    "sp500_value": 15391.88,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2019-09-30",
+    "portfolio_size": 50,
+    "model_value": 17734.12,
+    "sp500_value": 15661.92,
+    "model_drawdown_pct": -2.18
+  },
+  {
+    "holding_end_date": "2019-12-30",
+    "portfolio_size": 50,
+    "model_value": 20688.85,
+    "sp500_value": 17069.55,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2020-03-31",
+    "portfolio_size": 50,
+    "model_value": 16168.98,
+    "sp500_value": 13749.91,
+    "model_drawdown_pct": -21.85
+  },
+  {
+    "holding_end_date": "2020-06-30",
+    "portfolio_size": 50,
+    "model_value": 23849.36,
+    "sp500_value": 16522.14,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2020-09-30",
+    "portfolio_size": 50,
+    "model_value": 26774.41,
+    "sp500_value": 18015.47,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2020-12-30",
+    "portfolio_size": 50,
+    "model_value": 32417.22,
+    "sp500_value": 20198.67,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-03-31",
+    "portfolio_size": 50,
+    "model_value": 36737.49,
+    "sp500_value": 21481.65,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-06-30",
+    "portfolio_size": 50,
+    "model_value": 40672.42,
+    "sp500_value": 23277.36,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-09-30",
+    "portfolio_size": 50,
+    "model_value": 40689.35,
+    "sp500_value": 23410.86,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2021-12-30",
+    "portfolio_size": 50,
+    "model_value": 42951.06,
+    "sp500_value": 26001.5,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2022-03-31",
+    "portfolio_size": 50,
+    "model_value": 40126.29,
+    "sp500_value": 24801.67,
+    "model_drawdown_pct": -6.58
+  },
+  {
+    "holding_end_date": "2022-06-30",
+    "portfolio_size": 50,
+    "model_value": 29116.89,
+    "sp500_value": 20806.05,
+    "model_drawdown_pct": -32.21
+  },
+  {
+    "holding_end_date": "2022-09-30",
+    "portfolio_size": 50,
+    "model_value": 28786.38,
+    "sp500_value": 19780.08,
+    "model_drawdown_pct": -32.98
+  },
+  {
+    "holding_end_date": "2022-12-30",
+    "portfolio_size": 50,
+    "model_value": 29609.18,
+    "sp500_value": 21275.63,
+    "model_drawdown_pct": -31.06
+  },
+  {
+    "holding_end_date": "2023-03-31",
+    "portfolio_size": 50,
+    "model_value": 35467.38,
+    "sp500_value": 22862.42,
+    "model_drawdown_pct": -17.42
+  },
+  {
+    "holding_end_date": "2023-06-30",
+    "portfolio_size": 50,
+    "model_value": 42416.46,
+    "sp500_value": 24846.96,
+    "model_drawdown_pct": -1.24
+  },
+  {
+    "holding_end_date": "2023-09-30",
+    "portfolio_size": 50,
+    "model_value": 40878.41,
+    "sp500_value": 24045.85,
+    "model_drawdown_pct": -4.83
+  },
+  {
+    "holding_end_date": "2023-12-30",
+    "portfolio_size": 50,
+    "model_value": 47084.45,
+    "sp500_value": 26844.69,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2024-03-31",
+    "portfolio_size": 50,
+    "model_value": 50434.58,
+    "sp500_value": 29633.89,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2024-06-30",
+    "portfolio_size": 50,
+    "model_value": 49946.95,
+    "sp500_value": 30931.58,
+    "model_drawdown_pct": -0.97
+  },
+  {
+    "holding_end_date": "2024-09-30",
+    "portfolio_size": 50,
+    "model_value": 52901.96,
+    "sp500_value": 32710.56,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2024-12-30",
+    "portfolio_size": 50,
+    "model_value": 52178.28,
+    "sp500_value": 33525.39,
+    "model_drawdown_pct": -1.37
+  },
+  {
+    "holding_end_date": "2025-03-31",
+    "portfolio_size": 50,
+    "model_value": 49359.31,
+    "sp500_value": 32094.91,
+    "model_drawdown_pct": -6.7
+  },
+  {
+    "holding_end_date": "2025-06-30",
+    "portfolio_size": 50,
+    "model_value": 64475.74,
+    "sp500_value": 35553.84,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2025-09-30",
+    "portfolio_size": 50,
+    "model_value": 76114.37,
+    "sp500_value": 38441.24,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2025-12-30",
+    "portfolio_size": 50,
+    "model_value": 82117.31,
+    "sp500_value": 39465.78,
+    "model_drawdown_pct": 0.0
+  },
+  {
+    "holding_end_date": "2026-03-31",
+    "portfolio_size": 50,
+    "model_value": 80934.08,
+    "sp500_value": 37740.89,
+    "model_drawdown_pct": -1.44
+  },
+  {
+    "holding_end_date": "2026-06-30",
+    "portfolio_size": 50,
+    "model_value": 97491.31,
+    "sp500_value": 43448.62,
+    "model_drawdown_pct": 0.0
+  }
+]
