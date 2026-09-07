@@ -1,0 +1,36 @@
+{
+  "model_version": "2.0",
+  "regression_target": "target_stock_return_12m_pct",
+  "numeric_features": [
+    "return_1m_pct",
+    "return_3m_pct",
+    "return_6m_pct",
+    "return_12m_pct",
+    "relative_return_sp500_pct",
+    "volatility_12m_pct",
+    "max_drawdown_12m_pct",
+    "volume_change_3m_pct",
+    "spy_return_3m_pct",
+    "spy_return_6m_pct",
+    "spy_return_12m_pct"
+  ],
+  "categorical_features": [
+    "sector_sp500"
+  ],
+  "classification_threshold": 0.5500000000000003,
+  "export_date_utc": "2026-09-07T07:24:56.952291+00:00",
+  "backtest_method": "quarterly_walk_forward_ml_only",
+  "backtest_portfolio_sizes": [
+    20,
+    30,
+    50
+  ],
+  "backtest_holding_months": 3,
+  "backtest_transaction_cost_rate": 0.001,
+  "backtest_max_stock_weight": 0.05,
+  "backtest_max_sector_weight": 0.25,
+  "backtest_limitations": [
+    "current_constituent_survivorship_bias",
+    "no_point_in_time_analyst_or_fundamental_history"
+  ]
+}
