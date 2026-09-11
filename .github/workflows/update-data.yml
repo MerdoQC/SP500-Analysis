@@ -1,0 +1,42 @@
+name: Günlük S&P 500 Fiyat Güncellemesi
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Hafta içi 22:30 UTC = Türkiye saatiyle 01:30
+    - cron: "30 22 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Projeyi indir
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Gerekli paketleri kur
+        run: pip install -r requirements.txt
+
+      - name: Güncel borsa fiyatlarını çek
+        run: python -m backend.update_data
+
+      - name: Güncel veriyi siteye aktar
+        run: cp data/latest_results.json docs/latest_results.json
+
+      - name: Güncellenen verileri GitHub'a kaydet
+        run: |
+          git config user.name "sp500-analysis-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/latest_results.json data/history data/forecasts docs/latest_results.json
+          git diff --cached --quiet || git commit -m "Günlük piyasa fiyatları güncellendi"
+          git push
