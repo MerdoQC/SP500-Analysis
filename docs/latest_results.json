@@ -57,7 +57,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 315.36667,
     "fundamental_target_price": 315.19235,
-    "last_market_update_utc": "2026-09-20T11:27:37.873483+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322370+00:00"
   },
   {
     "ticker": "MU",
@@ -117,7 +117,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 1513.092556,
     "fundamental_target_price": 1407.6721730000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.873504+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322395+00:00"
   },
   {
     "ticker": "ON",
@@ -177,7 +177,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 107.07744799999999,
     "fundamental_target_price": 106.05844199999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.873513+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322408+00:00"
   },
   {
     "ticker": "NXPI",
@@ -237,7 +237,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 311.11552,
     "fundamental_target_price": 377.37139199999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.873521+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322419+00:00"
   },
   {
     "ticker": "FSLR",
@@ -297,7 +297,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 275.31237,
     "fundamental_target_price": 444.51518999999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.873528+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322429+00:00"
   },
   {
     "ticker": "HPE",
@@ -357,7 +357,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 67.78200000000001,
     "fundamental_target_price": 95.11840000000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.873535+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322439+00:00"
   },
   {
     "ticker": "DECK",
@@ -417,7 +417,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 122.811272,
     "fundamental_target_price": 147.42158,
-    "last_market_update_utc": "2026-09-20T11:27:37.873542+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322448+00:00"
   },
   {
     "ticker": "INTU",
@@ -477,7 +477,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 405.59457000000003,
     "fundamental_target_price": 572.41035,
-    "last_market_update_utc": "2026-09-20T11:27:37.873556+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322466+00:00"
   },
   {
     "ticker": "ALB",
@@ -537,7 +537,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 172.56162,
     "fundamental_target_price": 225.510824,
-    "last_market_update_utc": "2026-09-20T11:27:37.873564+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322476+00:00"
   },
   {
     "ticker": "HON",
@@ -597,7 +597,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 263.416887,
     "fundamental_target_price": 272.094741,
-    "last_market_update_utc": "2026-09-20T11:27:37.873571+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322486+00:00"
   },
   {
     "ticker": "PTC",
@@ -657,7 +657,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 173.35588600000003,
     "fundamental_target_price": 225.87173400000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.873577+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322495+00:00"
   },
   {
     "ticker": "BR",
@@ -717,7 +717,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 213.368496,
     "fundamental_target_price": 262.51828,
-    "last_market_update_utc": "2026-09-20T11:27:37.873597+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322504+00:00"
   },
   {
     "ticker": "FIS",
@@ -777,7 +777,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 50.347591,
     "fundamental_target_price": 74.50136499999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.873604+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322512+00:00"
   },
   {
     "ticker": "GEV",
@@ -837,7 +837,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1236.40357,
     "fundamental_target_price": 860.471325,
-    "last_market_update_utc": "2026-09-20T11:27:37.873610+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322521+00:00"
   },
   {
     "ticker": "ZTS",
@@ -897,7 +897,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 95.998203,
     "fundamental_target_price": 123.10785899999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.873617+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322550+00:00"
   },
   {
     "ticker": "LVS",
@@ -957,7 +957,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 59.069781000000006,
     "fundamental_target_price": 74.838879,
-    "last_market_update_utc": "2026-09-20T11:27:37.873623+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322560+00:00"
   },
   {
     "ticker": "LMT",
@@ -1017,7 +1017,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 632.9624,
     "fundamental_target_price": 671.675536,
-    "last_market_update_utc": "2026-09-20T11:27:37.873629+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322568+00:00"
   },
   {
     "ticker": "XYL",
@@ -1077,7 +1077,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 153.874071,
     "fundamental_target_price": 137.61894900000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.873635+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322576+00:00"
   },
   {
     "ticker": "EXPE",
@@ -1137,7 +1137,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 339.795404,
     "fundamental_target_price": 488.368344,
-    "last_market_update_utc": "2026-09-20T11:27:37.873641+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322584+00:00"
   },
   {
     "ticker": "PNR",
@@ -1197,7 +1197,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 76.310154,
     "fundamental_target_price": 102.51354599999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.873647+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322593+00:00"
   },
   {
     "ticker": "EIX",
@@ -1257,7 +1257,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 68.214832,
     "fundamental_target_price": 105.08694700000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.873653+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322601+00:00"
   },
   {
     "ticker": "DD",
@@ -1317,7 +1317,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 170.001121,
     "fundamental_target_price": 252.46857400000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.873659+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322608+00:00"
   },
   {
     "ticker": "FICO",
@@ -1377,7 +1377,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 1463.834652,
     "fundamental_target_price": 994.25529,
-    "last_market_update_utc": "2026-09-20T11:27:37.873665+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322616+00:00"
   },
   {
     "ticker": "JBL",
@@ -1437,7 +1437,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 441.444198,
     "fundamental_target_price": 363.739584,
-    "last_market_update_utc": "2026-09-20T11:27:37.873671+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322624+00:00"
   },
   {
     "ticker": "AKAM",
@@ -1497,7 +1497,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 155.125846,
     "fundamental_target_price": 130.15714,
-    "last_market_update_utc": "2026-09-20T11:27:37.873676+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322632+00:00"
   },
   {
     "ticker": "QCOM",
@@ -1557,7 +1557,7 @@
     "qualified_strong_candidate": true,
     "analyst_target_price": 193.899134,
     "fundamental_target_price": 232.8612,
-    "last_market_update_utc": "2026-09-20T11:27:37.873682+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322640+00:00"
   },
   {
     "ticker": "CCL",
@@ -1617,7 +1617,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 35.295563,
     "fundamental_target_price": 44.92290800000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.873687+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322648+00:00"
   },
   {
     "ticker": "NOC",
@@ -1677,7 +1677,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 647.123868,
     "fundamental_target_price": 629.099568,
-    "last_market_update_utc": "2026-09-20T11:27:37.873693+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322655+00:00"
   },
   {
     "ticker": "TRMB",
@@ -1737,7 +1737,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 80.183401,
     "fundamental_target_price": 78.45282399999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.873699+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322663+00:00"
   },
   {
     "ticker": "UNH",
@@ -1797,7 +1797,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 475.21772400000003,
     "fundamental_target_price": 498.450414,
-    "last_market_update_utc": "2026-09-20T11:27:37.873705+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322671+00:00"
   },
   {
     "ticker": "EFX",
@@ -1857,7 +1857,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 212.33606500000002,
     "fundamental_target_price": 225.402355,
-    "last_market_update_utc": "2026-09-20T11:27:37.873711+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322679+00:00"
   },
   {
     "ticker": "DVA",
@@ -1917,7 +1917,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 218.432928,
     "fundamental_target_price": 396.7744350000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.873717+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322686+00:00"
   },
   {
     "ticker": "TPR",
@@ -1977,7 +1977,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 167.40508400000002,
     "fundamental_target_price": 149.816924,
-    "last_market_update_utc": "2026-09-20T11:27:37.873722+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322694+00:00"
   },
   {
     "ticker": "DAL",
@@ -2037,7 +2037,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 105.191057,
     "fundamental_target_price": 156.59606100000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.873728+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322702+00:00"
   },
   {
     "ticker": "CVS",
@@ -2097,7 +2097,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 116.03962999999999,
     "fundamental_target_price": 152.83952599999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.873734+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322710+00:00"
   },
   {
     "ticker": "BSX",
@@ -2157,7 +2157,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 62.6897,
     "fundamental_target_price": 51.28462,
-    "last_market_update_utc": "2026-09-20T11:27:37.873740+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322718+00:00"
   },
   {
     "ticker": "APTV",
@@ -2217,7 +2217,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 66.61214,
     "fundamental_target_price": 164.66989,
-    "last_market_update_utc": "2026-09-20T11:27:37.873745+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322725+00:00"
   },
   {
     "ticker": "NTAP",
@@ -2277,7 +2277,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 194.182817,
     "fundamental_target_price": 199.56492699999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.873751+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322733+00:00"
   },
   {
     "ticker": "CSGP",
@@ -2337,7 +2337,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 37.299097,
     "fundamental_target_price": 34.269917,
-    "last_market_update_utc": "2026-09-20T11:27:37.873757+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322741+00:00"
   },
   {
     "ticker": "UBER",
@@ -2397,7 +2397,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 101.80628800000001,
     "fundamental_target_price": 84.04814400000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.873763+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322749+00:00"
   },
   {
     "ticker": "ADBE",
@@ -2457,7 +2457,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 276.58407800000003,
     "fundamental_target_price": 566.280448,
-    "last_market_update_utc": "2026-09-20T11:27:37.873768+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322756+00:00"
   },
   {
     "ticker": "LDOS",
@@ -2517,7 +2517,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 156.59985000000003,
     "fundamental_target_price": 267.92278500000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.873774+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322764+00:00"
   },
   {
     "ticker": "AIZ",
@@ -2577,7 +2577,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 330.001126,
     "fundamental_target_price": 498.81631799999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.873780+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322771+00:00"
   },
   {
     "ticker": "CRM",
@@ -2637,7 +2637,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 272.13965400000006,
     "fundamental_target_price": 410.724012,
-    "last_market_update_utc": "2026-09-20T11:27:37.873785+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322779+00:00"
   },
   {
     "ticker": "FANG",
@@ -2697,7 +2697,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 232.529584,
     "fundamental_target_price": 297.63468,
-    "last_market_update_utc": "2026-09-20T11:27:37.873791+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322788+00:00"
   },
   {
     "ticker": "ORCL",
@@ -2757,7 +2757,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 242.044232,
     "fundamental_target_price": 180.05651999999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.873796+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322796+00:00"
   },
   {
     "ticker": "IP",
@@ -2817,7 +2817,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 47.998636,
     "fundamental_target_price": 71.143296,
-    "last_market_update_utc": "2026-09-20T11:27:37.873802+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322804+00:00"
   },
   {
     "ticker": "AMT",
@@ -2877,7 +2877,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 215.69760999999997,
     "fundamental_target_price": 195.1935,
-    "last_market_update_utc": "2026-09-20T11:27:37.873807+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322812+00:00"
   },
   {
     "ticker": "ALGN",
@@ -2937,7 +2937,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 208.59844999999999,
     "fundamental_target_price": 212.24694,
-    "last_market_update_utc": "2026-09-20T11:27:37.873813+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322819+00:00"
   },
   {
     "ticker": "CPAY",
@@ -2997,7 +2997,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 461.004864,
     "fundamental_target_price": 449.055045,
-    "last_market_update_utc": "2026-09-20T11:27:37.873818+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322827+00:00"
   },
   {
     "ticker": "WDAY",
@@ -3057,7 +3057,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 207.106662,
     "fundamental_target_price": 253.66552399999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.873824+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322836+00:00"
   },
   {
     "ticker": "ZBRA",
@@ -3117,7 +3117,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 412.87066799999997,
     "fundamental_target_price": 405.43449799999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.873831+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322843+00:00"
   },
   {
     "ticker": "ROP",
@@ -3177,7 +3177,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 445.19776799999994,
     "fundamental_target_price": 562.6573199999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.873836+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322851+00:00"
   },
   {
     "ticker": "WYNN",
@@ -3237,7 +3237,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 132.357686,
     "fundamental_target_price": 114.93762400000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.873842+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322859+00:00"
   },
   {
     "ticker": "UAL",
@@ -3297,7 +3297,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 160.765892,
     "fundamental_target_price": 233.407928,
-    "last_market_update_utc": "2026-09-20T11:27:37.873848+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322866+00:00"
   },
   {
     "ticker": "VRSK",
@@ -3357,7 +3357,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 237.699726,
     "fundamental_target_price": 194.55928799999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.873853+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322874+00:00"
   },
   {
     "ticker": "NEM",
@@ -3417,7 +3417,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 132.867757,
     "fundamental_target_price": 204.13703300000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.873859+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322882+00:00"
   },
   {
     "ticker": "LII",
@@ -3477,7 +3477,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 505.38487299999997,
     "fundamental_target_price": 425.6777,
-    "last_market_update_utc": "2026-09-20T11:27:37.873865+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322890+00:00"
   },
   {
     "ticker": "WDC",
@@ -3537,7 +3537,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 664.915104,
     "fundamental_target_price": 348.30444600000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.873871+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322898+00:00"
   },
   {
     "ticker": "CBRE",
@@ -3597,7 +3597,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 182.92002,
     "fundamental_target_price": 187.192885,
-    "last_market_update_utc": "2026-09-20T11:27:37.873876+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322906+00:00"
   },
   {
     "ticker": "NRG",
@@ -3657,7 +3657,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 188.753818,
     "fundamental_target_price": 165.49730999999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.873882+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322913+00:00"
   },
   {
     "ticker": "KEYS",
@@ -3717,7 +3717,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 415.09860599999996,
     "fundamental_target_price": 261.44078999999994,
-    "last_market_update_utc": "2026-09-20T11:27:37.873887+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322921+00:00"
   },
   {
     "ticker": "INVH",
@@ -3777,7 +3777,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 33.608082,
     "fundamental_target_price": 34.945251000000006,
-    "last_market_update_utc": "2026-09-20T11:27:37.873893+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322929+00:00"
   },
   {
     "ticker": "CSCO",
@@ -3837,7 +3837,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 137.62476,
     "fundamental_target_price": 93.01656,
-    "last_market_update_utc": "2026-09-20T11:27:37.873898+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322937+00:00"
   },
   {
     "ticker": "CAH",
@@ -3897,7 +3897,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 270.93399800000003,
     "fundamental_target_price": 343.654354,
-    "last_market_update_utc": "2026-09-20T11:27:37.873904+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322945+00:00"
   },
   {
     "ticker": "NFLX",
@@ -3957,7 +3957,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 93.657425,
     "fundamental_target_price": 74.0245,
-    "last_market_update_utc": "2026-09-20T11:27:37.873910+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322953+00:00"
   },
   {
     "ticker": "BLDR",
@@ -4017,7 +4017,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 80.711172,
     "fundamental_target_price": 110.30351400000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.873915+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322961+00:00"
   },
   {
     "ticker": "SNPS",
@@ -4077,7 +4077,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 544.9564079999999,
     "fundamental_target_price": 349.80868799999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.873921+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322968+00:00"
   },
   {
     "ticker": "HAS",
@@ -4137,7 +4137,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 109.63879700000001,
     "fundamental_target_price": 113.451033,
-    "last_market_update_utc": "2026-09-20T11:27:37.873926+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322976+00:00"
   },
   {
     "ticker": "APA",
@@ -4197,7 +4197,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 44.45941500000001,
     "fundamental_target_price": 100.13740100000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.873932+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322984+00:00"
   },
   {
     "ticker": "APP",
@@ -4257,7 +4257,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 514.4988,
     "fundamental_target_price": 233.88057600000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.873938+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322991+00:00"
   },
   {
     "ticker": "AOS",
@@ -4317,7 +4317,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 69.90883199999999,
     "fundamental_target_price": 94.27622400000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.873944+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.322999+00:00"
   },
   {
     "ticker": "MGM",
@@ -4377,7 +4377,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 50.626403999999994,
     "fundamental_target_price": 44.591796,
-    "last_market_update_utc": "2026-09-20T11:27:37.873949+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323007+00:00"
   },
   {
     "ticker": "SNDK",
@@ -4437,7 +4437,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 2125.062,
     "fundamental_target_price": 2720.3160000000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.873954+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323015+00:00"
   },
   {
     "ticker": "EXE",
@@ -4497,7 +4497,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 124.84504100000001,
     "fundamental_target_price": 158.898139,
-    "last_market_update_utc": "2026-09-20T11:27:37.873960+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323023+00:00"
   },
   {
     "ticker": "CHTR",
@@ -4557,7 +4557,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 184.409467,
     "fundamental_target_price": 781.8365600000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.873966+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323031+00:00"
   },
   {
     "ticker": "TMUS",
@@ -4617,7 +4617,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 243.38201600000002,
     "fundamental_target_price": 242.183984,
-    "last_market_update_utc": "2026-09-20T11:27:37.873972+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323038+00:00"
   },
   {
     "ticker": "OXY",
@@ -4677,7 +4677,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 67.082692,
     "fundamental_target_price": 76.90523599999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.873978+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323047+00:00"
   },
   {
     "ticker": "HII",
@@ -4737,7 +4737,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 368.42080500000003,
     "fundamental_target_price": 419.116194,
-    "last_market_update_utc": "2026-09-20T11:27:37.873983+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323054+00:00"
   },
   {
     "ticker": "CI",
@@ -4797,7 +4797,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 341.42542,
     "fundamental_target_price": 666.238664,
-    "last_market_update_utc": "2026-09-20T11:27:37.873989+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323062+00:00"
   },
   {
     "ticker": "TEL",
@@ -4857,7 +4857,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 246.79122,
     "fundamental_target_price": 268.78293,
-    "last_market_update_utc": "2026-09-20T11:27:37.873994+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323069+00:00"
   },
   {
     "ticker": "ALL",
@@ -4917,7 +4917,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 274.780802,
     "fundamental_target_price": 745.718653,
-    "last_market_update_utc": "2026-09-20T11:27:37.874000+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323077+00:00"
   },
   {
     "ticker": "TTD",
@@ -4977,7 +4977,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 13.552656,
     "fundamental_target_price": 20.282808,
-    "last_market_update_utc": "2026-09-20T11:27:37.874006+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323086+00:00"
   },
   {
     "ticker": "CINF",
@@ -5037,7 +5037,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 191.66622,
     "fundamental_target_price": 272.44253,
-    "last_market_update_utc": "2026-09-20T11:27:37.874011+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323093+00:00"
   },
   {
     "ticker": "CMI",
@@ -5097,7 +5097,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 757.0125,
     "fundamental_target_price": 586.824875,
-    "last_market_update_utc": "2026-09-20T11:27:37.874016+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323101+00:00"
   },
   {
     "ticker": "MAS",
@@ -5157,7 +5157,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 80.60976000000001,
     "fundamental_target_price": 114.72059999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874022+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323108+00:00"
   },
   {
     "ticker": "VICI",
@@ -5217,7 +5217,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 32.33424,
     "fundamental_target_price": 51.572096,
-    "last_market_update_utc": "2026-09-20T11:27:37.874028+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323116+00:00"
   },
   {
     "ticker": "GEN",
@@ -5277,7 +5277,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 33.000855,
     "fundamental_target_price": 68.99008500000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.874033+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323124+00:00"
   },
   {
     "ticker": "PYPL",
@@ -5337,7 +5337,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 57.07596,
     "fundamental_target_price": 85.688136,
-    "last_market_update_utc": "2026-09-20T11:27:37.874039+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323132+00:00"
   },
   {
     "ticker": "SBAC",
@@ -5397,7 +5397,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 226.399744,
     "fundamental_target_price": 213.30943999999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.874044+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323140+00:00"
   },
   {
     "ticker": "OTIS",
@@ -5457,7 +5457,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 88.250553,
     "fundamental_target_price": 100.07141299999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874051+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323148+00:00"
   },
   {
     "ticker": "GL",
@@ -5517,7 +5517,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 193.91022900000002,
     "fundamental_target_price": 238.50592200000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.874056+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323155+00:00"
   },
   {
     "ticker": "URI",
@@ -5577,7 +5577,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1272.4236,
     "fundamental_target_price": 996.832806,
-    "last_market_update_utc": "2026-09-20T11:27:37.874062+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323163+00:00"
   },
   {
     "ticker": "GNRC",
@@ -5637,7 +5637,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 283.87272,
     "fundamental_target_price": 182.160405,
-    "last_market_update_utc": "2026-09-20T11:27:37.874068+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323171+00:00"
   },
   {
     "ticker": "ADI",
@@ -5697,7 +5697,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 470.23672500000004,
     "fundamental_target_price": 276.577875,
-    "last_market_update_utc": "2026-09-20T11:27:37.874074+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323179+00:00"
   },
   {
     "ticker": "NCLH",
@@ -5757,7 +5757,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 20.600666999999998,
     "fundamental_target_price": 36.018081,
-    "last_market_update_utc": "2026-09-20T11:27:37.874079+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323187+00:00"
   },
   {
     "ticker": "REG",
@@ -5817,7 +5817,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 87.05324200000001,
     "fundamental_target_price": 88.302558,
-    "last_market_update_utc": "2026-09-20T11:27:37.874085+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323195+00:00"
   },
   {
     "ticker": "AVGO",
@@ -5877,7 +5877,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 533.3992559999999,
     "fundamental_target_price": 252.813496,
-    "last_market_update_utc": "2026-09-20T11:27:37.874090+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323202+00:00"
   },
   {
     "ticker": "T",
@@ -5937,7 +5937,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 28.707671999999995,
     "fundamental_target_price": 43.363248,
-    "last_market_update_utc": "2026-09-20T11:27:37.874096+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323210+00:00"
   },
   {
     "ticker": "DVN",
@@ -5997,7 +5997,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 59.815476,
     "fundamental_target_price": 50.304402,
-    "last_market_update_utc": "2026-09-20T11:27:37.874102+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323218+00:00"
   },
   {
     "ticker": "ACGL",
@@ -6057,7 +6057,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 111.87324,
     "fundamental_target_price": 183.77073,
-    "last_market_update_utc": "2026-09-20T11:27:37.874107+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323225+00:00"
   },
   {
     "ticker": "JBHT",
@@ -6117,7 +6117,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 305.44518899999997,
     "fundamental_target_price": 259.013797,
-    "last_market_update_utc": "2026-09-20T11:27:37.874113+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323233+00:00"
   },
   {
     "ticker": "REGN",
@@ -6177,7 +6177,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 840.466888,
     "fundamental_target_price": 851.392792,
-    "last_market_update_utc": "2026-09-20T11:27:37.874119+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323241+00:00"
   },
   {
     "ticker": "FLEX",
@@ -6237,7 +6237,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 160.497856,
     "fundamental_target_price": 95.459867,
-    "last_market_update_utc": "2026-09-20T11:27:37.874124+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323249+00:00"
   },
   {
     "ticker": "MCHP",
@@ -6297,7 +6297,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 108.63679900000001,
     "fundamental_target_price": 68.703671,
-    "last_market_update_utc": "2026-09-20T11:27:37.874130+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323257+00:00"
   },
   {
     "ticker": "BRO",
@@ -6357,7 +6357,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 76.690796,
     "fundamental_target_price": 78.56200000000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.874135+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323265+00:00"
   },
   {
     "ticker": "BMY",
@@ -6417,7 +6417,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 66.20525599999999,
     "fundamental_target_price": 112.95921,
-    "last_market_update_utc": "2026-09-20T11:27:37.874141+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323272+00:00"
   },
   {
     "ticker": "TPL",
@@ -6477,7 +6477,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 442.00743200000005,
     "fundamental_target_price": 562.584566,
-    "last_market_update_utc": "2026-09-20T11:27:37.874146+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323279+00:00"
   },
   {
     "ticker": "EOG",
@@ -6537,7 +6537,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 159.883228,
     "fundamental_target_price": 195.904867,
-    "last_market_update_utc": "2026-09-20T11:27:37.874152+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323287+00:00"
   },
   {
     "ticker": "IR",
@@ -6597,7 +6597,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 96.25178,
     "fundamental_target_price": 80.74306399999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874158+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323295+00:00"
   },
   {
     "ticker": "LYB",
@@ -6657,7 +6657,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 68.35387200000001,
     "fundamental_target_price": 104.20456,
-    "last_market_update_utc": "2026-09-20T11:27:37.874163+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323303+00:00"
   },
   {
     "ticker": "STZ",
@@ -6717,7 +6717,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 170.825486,
     "fundamental_target_price": 217.611186,
-    "last_market_update_utc": "2026-09-20T11:27:37.874168+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323310+00:00"
   },
   {
     "ticker": "HUM",
@@ -6777,7 +6777,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 418.60545,
     "fundamental_target_price": 411.37773,
-    "last_market_update_utc": "2026-09-20T11:27:37.874174+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323318+00:00"
   },
   {
     "ticker": "HST",
@@ -6837,7 +6837,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 25.141410000000004,
     "fundamental_target_price": 45.394335,
-    "last_market_update_utc": "2026-09-20T11:27:37.874179+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323325+00:00"
   },
   {
     "ticker": "FIX",
@@ -6897,7 +6897,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 2196.986862,
     "fundamental_target_price": 1246.725228,
-    "last_market_update_utc": "2026-09-20T11:27:37.874185+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323333+00:00"
   },
   {
     "ticker": "DUK",
@@ -6957,7 +6957,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 137.279218,
     "fundamental_target_price": 142.003864,
-    "last_market_update_utc": "2026-09-20T11:27:37.874191+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323341+00:00"
   },
   {
     "ticker": "BKNG",
@@ -7017,7 +7017,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 238.67449199999996,
     "fundamental_target_price": 216.581445,
-    "last_market_update_utc": "2026-09-20T11:27:37.874196+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323348+00:00"
   },
   {
     "ticker": "FDX",
@@ -7077,7 +7077,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 356.3846,
     "fundamental_target_price": 617.690304,
-    "last_market_update_utc": "2026-09-20T11:27:37.874201+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323356+00:00"
   },
   {
     "ticker": "PCG",
@@ -7137,7 +7137,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 19.65678,
     "fundamental_target_price": 31.94191,
-    "last_market_update_utc": "2026-09-20T11:27:37.874207+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323363+00:00"
   },
   {
     "ticker": "HIG",
@@ -7197,7 +7197,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 149.85471,
     "fundamental_target_price": 262.653934,
-    "last_market_update_utc": "2026-09-20T11:27:37.874212+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323371+00:00"
   },
   {
     "ticker": "IBM",
@@ -7257,7 +7257,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 245.342605,
     "fundamental_target_price": 306.907274,
-    "last_market_update_utc": "2026-09-20T11:27:37.874218+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323378+00:00"
   },
   {
     "ticker": "CF",
@@ -7317,7 +7317,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 125.042295,
     "fundamental_target_price": 238.80317999999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.874223+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323386+00:00"
   },
   {
     "ticker": "STX",
@@ -7377,7 +7377,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1125.0412159999998,
     "fundamental_target_price": 550.2485119999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874229+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323394+00:00"
   },
   {
     "ticker": "ACN",
@@ -7437,7 +7437,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 184.18060799999998,
     "fundamental_target_price": 433.526496,
-    "last_market_update_utc": "2026-09-20T11:27:37.874234+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323401+00:00"
   },
   {
     "ticker": "AIG",
@@ -7497,7 +7497,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 88.50267299999999,
     "fundamental_target_price": 185.487519,
-    "last_market_update_utc": "2026-09-20T11:27:37.874240+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323408+00:00"
   },
   {
     "ticker": "TXT",
@@ -7557,7 +7557,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 102.06355599999999,
     "fundamental_target_price": 124.09245799999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.874245+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323416+00:00"
   },
   {
     "ticker": "CTSH",
@@ -7617,7 +7617,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 64.185531,
     "fundamental_target_price": 147.313302,
-    "last_market_update_utc": "2026-09-20T11:27:37.874250+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323423+00:00"
   },
   {
     "ticker": "IT",
@@ -7677,7 +7677,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 185.15234399999997,
     "fundamental_target_price": 406.06004399999995,
-    "last_market_update_utc": "2026-09-20T11:27:37.874256+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323432+00:00"
   },
   {
     "ticker": "IQV",
@@ -7737,7 +7737,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 276.285086,
     "fundamental_target_price": 260.888311,
-    "last_market_update_utc": "2026-09-20T11:27:37.874262+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323440+00:00"
   },
   {
     "ticker": "COP",
@@ -7797,7 +7797,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 145.33644999999999,
     "fundamental_target_price": 142.9869,
-    "last_market_update_utc": "2026-09-20T11:27:37.874267+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323448+00:00"
   },
   {
     "ticker": "UPS",
@@ -7857,7 +7857,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 116.078692,
     "fundamental_target_price": 190.024133,
-    "last_market_update_utc": "2026-09-20T11:27:37.874273+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323455+00:00"
   },
   {
     "ticker": "LULU",
@@ -7917,7 +7917,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 110.751488,
     "fundamental_target_price": 234.572215,
-    "last_market_update_utc": "2026-09-20T11:27:37.874278+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323463+00:00"
   },
   {
     "ticker": "EQT",
@@ -7977,7 +7977,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 67.439808,
     "fundamental_target_price": 71.130681,
-    "last_market_update_utc": "2026-09-20T11:27:37.874284+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323470+00:00"
   },
   {
     "ticker": "CPRT",
@@ -8037,7 +8037,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 41.000147999999996,
     "fundamental_target_price": 35.416116,
-    "last_market_update_utc": "2026-09-20T11:27:37.874289+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323478+00:00"
   },
   {
     "ticker": "ADP",
@@ -8097,7 +8097,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 287.586558,
     "fundamental_target_price": 311.850546,
-    "last_market_update_utc": "2026-09-20T11:27:37.874295+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323486+00:00"
   },
   {
     "ticker": "INCY",
@@ -8157,7 +8157,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 127.73865,
     "fundamental_target_price": 156.99255,
-    "last_market_update_utc": "2026-09-20T11:27:37.874300+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323493+00:00"
   },
   {
     "ticker": "VLO",
@@ -8217,7 +8217,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 325.195584,
     "fundamental_target_price": 446.34688,
-    "last_market_update_utc": "2026-09-20T11:27:37.874306+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323502+00:00"
   },
   {
     "ticker": "BXP",
@@ -8277,7 +8277,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 76.50323799999998,
     "fundamental_target_price": 92.00424799999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874311+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323509+00:00"
   },
   {
     "ticker": "DOV",
@@ -8337,7 +8337,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 246.8864,
     "fundamental_target_price": 221.04047999999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.874316+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323517+00:00"
   },
   {
     "ticker": "NKE",
@@ -8397,7 +8397,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 50.4576,
     "fundamental_target_price": 38.20416,
-    "last_market_update_utc": "2026-09-20T11:27:37.874322+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323525+00:00"
   },
   {
     "ticker": "TROW",
@@ -8457,7 +8457,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 109.747066,
     "fundamental_target_price": 162.55124600000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.874327+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323548+00:00"
   },
   {
     "ticker": "UDR",
@@ -8517,7 +8517,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 42.022538000000004,
     "fundamental_target_price": 36.056218,
-    "last_market_update_utc": "2026-09-20T11:27:37.874333+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323557+00:00"
   },
   {
     "ticker": "LUV",
@@ -8577,7 +8577,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 50.788878,
     "fundamental_target_price": 85.04036799999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874338+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323564+00:00"
   },
   {
     "ticker": "MAA",
@@ -8637,7 +8637,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 143.64140799999998,
     "fundamental_target_price": 150.05740799999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.874344+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323572+00:00"
   },
   {
     "ticker": "EXR",
@@ -8697,7 +8697,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 158.49435,
     "fundamental_target_price": 155.2916,
-    "last_market_update_utc": "2026-09-20T11:27:37.874349+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323580+00:00"
   },
   {
     "ticker": "GD",
@@ -8757,7 +8757,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 420.019093,
     "fundamental_target_price": 418.725289,
-    "last_market_update_utc": "2026-09-20T11:27:37.874355+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323587+00:00"
   },
   {
     "ticker": "TXN",
@@ -8817,7 +8817,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 324.70401599999997,
     "fundamental_target_price": 170.44118,
-    "last_market_update_utc": "2026-09-20T11:27:37.874360+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323595+00:00"
   },
   {
     "ticker": "TRV",
@@ -8877,7 +8877,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 360.33786000000003,
     "fundamental_target_price": 762.0429200000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.874366+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323603+00:00"
   },
   {
     "ticker": "FOXA",
@@ -8937,7 +8937,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 75.33113,
     "fundamental_target_price": 74.081608,
-    "last_market_update_utc": "2026-09-20T11:27:37.874371+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323611+00:00"
   },
   {
     "ticker": "CB",
@@ -8997,7 +8997,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 366.116162,
     "fundamental_target_price": 431.35985199999993,
-    "last_market_update_utc": "2026-09-20T11:27:37.874377+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323619+00:00"
   },
   {
     "ticker": "PNC",
@@ -9057,7 +9057,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 277.72448,
     "fundamental_target_price": 284.94512000000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.874383+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323627+00:00"
   },
   {
     "ticker": "GDDY",
@@ -9117,7 +9117,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 104.53165800000001,
     "fundamental_target_price": 229.912914,
-    "last_market_update_utc": "2026-09-20T11:27:37.874389+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323634+00:00"
   },
   {
     "ticker": "KIM",
@@ -9177,7 +9177,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 27.010200000000005,
     "fundamental_target_price": 29.238040000000005,
-    "last_market_update_utc": "2026-09-20T11:27:37.874394+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323642+00:00"
   },
   {
     "ticker": "TDY",
@@ -9237,7 +9237,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 757.267065,
     "fundamental_target_price": 579.2625899999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874400+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323650+00:00"
   },
   {
     "ticker": "PGR",
@@ -9297,7 +9297,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 231.99942000000001,
     "fundamental_target_price": 328.11846999999995,
-    "last_market_update_utc": "2026-09-20T11:27:37.874405+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323657+00:00"
   },
   {
     "ticker": "ECHO",
@@ -9357,7 +9357,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 128.43196,
     "fundamental_target_price": 128.18949999999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.874410+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323665+00:00"
   },
   {
     "ticker": "HAL",
@@ -9417,7 +9417,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 43.119824,
     "fundamental_target_price": 39.905855,
-    "last_market_update_utc": "2026-09-20T11:27:37.874416+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323672+00:00"
   },
   {
     "ticker": "GEHC",
@@ -9477,7 +9477,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 82.501166,
     "fundamental_target_price": 94.882194,
-    "last_market_update_utc": "2026-09-20T11:27:37.874421+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323679+00:00"
   },
   {
     "ticker": "TYL",
@@ -9537,7 +9537,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 426.64315999999997,
     "fundamental_target_price": 312.920188,
-    "last_market_update_utc": "2026-09-20T11:27:37.874427+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323687+00:00"
   },
   {
     "ticker": "DOC",
@@ -9597,7 +9597,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 23.05366,
     "fundamental_target_price": 30.34311,
-    "last_market_update_utc": "2026-09-20T11:27:37.874432+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323695+00:00"
   },
   {
     "ticker": "OMC",
@@ -9657,7 +9657,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 102.085272,
     "fundamental_target_price": 210.37530600000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.874438+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323702+00:00"
   },
   {
     "ticker": "EME",
@@ -9717,7 +9717,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1033.274616,
     "fundamental_target_price": 723.842768,
-    "last_market_update_utc": "2026-09-20T11:27:37.874443+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323710+00:00"
   },
   {
     "ticker": "CHRW",
@@ -9777,7 +9777,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 199.84550399999998,
     "fundamental_target_price": 130.971444,
-    "last_market_update_utc": "2026-09-20T11:27:37.874449+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323718+00:00"
   },
   {
     "ticker": "RCL",
@@ -9837,7 +9837,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 346.921558,
     "fundamental_target_price": 306.58615899999995,
-    "last_market_update_utc": "2026-09-20T11:27:37.874454+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323726+00:00"
   },
   {
     "ticker": "ALLE",
@@ -9897,7 +9897,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 174.63888,
     "fundamental_target_price": 184.14463999999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.874459+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323733+00:00"
   },
   {
     "ticker": "BDX",
@@ -9957,7 +9957,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 195.658134,
     "fundamental_target_price": 312.83871600000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.874464+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323741+00:00"
   },
   {
     "ticker": "MPC",
@@ -10017,7 +10017,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 333.40396999999996,
     "fundamental_target_price": 467.49668999999994,
-    "last_market_update_utc": "2026-09-20T11:27:37.874470+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323748+00:00"
   },
   {
     "ticker": "BBY",
@@ -10077,7 +10077,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 86.704335,
     "fundamental_target_price": 149.93847,
-    "last_market_update_utc": "2026-09-20T11:27:37.874475+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323755+00:00"
   },
   {
     "ticker": "CVX",
@@ -10137,7 +10137,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 221.19944,
     "fundamental_target_price": 198.44118,
-    "last_market_update_utc": "2026-09-20T11:27:37.874481+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323763+00:00"
   },
   {
     "ticker": "ELV",
@@ -10197,7 +10197,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 449.10575000000006,
     "fundamental_target_price": 544.62375,
-    "last_market_update_utc": "2026-09-20T11:27:37.874486+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323770+00:00"
   },
   {
     "ticker": "AMGN",
@@ -10257,7 +10257,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 389.703099,
     "fundamental_target_price": 412.220444,
-    "last_market_update_utc": "2026-09-20T11:27:37.874491+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323778+00:00"
   },
   {
     "ticker": "NUE",
@@ -10317,7 +10317,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 282.81713099999996,
     "fundamental_target_price": 220.682471,
-    "last_market_update_utc": "2026-09-20T11:27:37.874497+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323786+00:00"
   },
   {
     "ticker": "KDP",
@@ -10377,7 +10377,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 36.20749,
     "fundamental_target_price": 43.302333000000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.874502+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323793+00:00"
   },
   {
     "ticker": "MRK",
@@ -10437,7 +10437,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 149.50318500000003,
     "fundamental_target_price": 160.477275,
-    "last_market_update_utc": "2026-09-20T11:27:37.874508+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323802+00:00"
   },
   {
     "ticker": "CNC",
@@ -10497,7 +10497,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 71.66576,
     "fundamental_target_price": 255.985536,
-    "last_market_update_utc": "2026-09-20T11:27:37.874513+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323809+00:00"
   },
   {
     "ticker": "CFG",
@@ -10557,7 +10557,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 80.82368199999999,
     "fundamental_target_price": 87.080634,
-    "last_market_update_utc": "2026-09-20T11:27:37.874519+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323816+00:00"
   },
   {
     "ticker": "GPN",
@@ -10617,7 +10617,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 103.14508400000001,
     "fundamental_target_price": 288.51195800000005,
-    "last_market_update_utc": "2026-09-20T11:27:37.874524+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323824+00:00"
   },
   {
     "ticker": "CRH",
@@ -10677,7 +10677,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 138.317124,
     "fundamental_target_price": 102.64914,
-    "last_market_update_utc": "2026-09-20T11:27:37.874530+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323832+00:00"
   },
   {
     "ticker": "APO",
@@ -10737,7 +10737,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 153.05214999999998,
     "fundamental_target_price": 143.20067099999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.874535+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323839+00:00"
   },
   {
     "ticker": "MMM",
@@ -10797,7 +10797,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 185.567704,
     "fundamental_target_price": 254.913288,
-    "last_market_update_utc": "2026-09-20T11:27:37.874540+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323847+00:00"
   },
   {
     "ticker": "ULTA",
@@ -10857,7 +10857,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 624.48084,
     "fundamental_target_price": 546.463044,
-    "last_market_update_utc": "2026-09-20T11:27:37.874546+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323854+00:00"
   },
   {
     "ticker": "SW",
@@ -10917,7 +10917,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 56.719208,
     "fundamental_target_price": 67.072205,
-    "last_market_update_utc": "2026-09-20T11:27:37.874551+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323862+00:00"
   },
   {
     "ticker": "NVDA",
@@ -10977,7 +10977,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 327.134236,
     "fundamental_target_price": 166.296884,
-    "last_market_update_utc": "2026-09-20T11:27:37.874557+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323869+00:00"
   },
   {
     "ticker": "USB",
@@ -11037,7 +11037,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 70.31535199999999,
     "fundamental_target_price": 77.235356,
-    "last_market_update_utc": "2026-09-20T11:27:37.874562+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323877+00:00"
   },
   {
     "ticker": "TSN",
@@ -11097,7 +11097,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 68.74854,
     "fundamental_target_price": 71.633202,
-    "last_market_update_utc": "2026-09-20T11:27:37.874568+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323884+00:00"
   },
   {
     "ticker": "FITB",
@@ -11157,7 +11157,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 62.897481,
     "fundamental_target_price": 65.882409,
-    "last_market_update_utc": "2026-09-20T11:27:37.874574+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323892+00:00"
   },
   {
     "ticker": "PSA",
@@ -11217,7 +11217,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 336.28813499999995,
     "fundamental_target_price": 315.238038,
-    "last_market_update_utc": "2026-09-20T11:27:37.874579+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323900+00:00"
   },
   {
     "ticker": "VRT",
@@ -11277,7 +11277,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 338.15086199999996,
     "fundamental_target_price": 170.45002799999995,
-    "last_market_update_utc": "2026-09-20T11:27:37.874595+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323907+00:00"
   },
   {
     "ticker": "UNP",
@@ -11337,7 +11337,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 329.240016,
     "fundamental_target_price": 279.222642,
-    "last_market_update_utc": "2026-09-20T11:27:37.874601+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323915+00:00"
   },
   {
     "ticker": "GILD",
@@ -11397,7 +11397,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 157.4175,
     "fundamental_target_price": 178.5877,
-    "last_market_update_utc": "2026-09-20T11:27:37.874606+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323923+00:00"
   },
   {
     "ticker": "AVY",
@@ -11457,7 +11457,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 201.791662,
     "fundamental_target_price": 259.0888,
-    "last_market_update_utc": "2026-09-20T11:27:37.874612+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323931+00:00"
   },
   {
     "ticker": "BAC",
@@ -11517,7 +11517,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 68.772496,
     "fundamental_target_price": 70.596484,
-    "last_market_update_utc": "2026-09-20T11:27:37.874618+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323938+00:00"
   },
   {
     "ticker": "PODD",
@@ -11577,7 +11577,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 171.90268799999998,
     "fundamental_target_price": 116.155248,
-    "last_market_update_utc": "2026-09-20T11:27:37.874624+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323946+00:00"
   },
   {
     "ticker": "PPG",
@@ -11637,7 +11637,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 126.202395,
     "fundamental_target_price": 135.474867,
-    "last_market_update_utc": "2026-09-20T11:27:37.874629+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323954+00:00"
   },
   {
     "ticker": "C",
@@ -11697,7 +11697,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 154.494296,
     "fundamental_target_price": 171.847016,
-    "last_market_update_utc": "2026-09-20T11:27:37.874635+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323961+00:00"
   },
   {
     "ticker": "BRK.B",
@@ -11757,7 +11757,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 547.6762689999999,
     "fundamental_target_price": 583.199575,
-    "last_market_update_utc": "2026-09-20T11:27:37.874640+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323969+00:00"
   },
   {
     "ticker": "EMR",
@@ -11817,7 +11817,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 171.815526,
     "fundamental_target_price": 169.09533,
-    "last_market_update_utc": "2026-09-20T11:27:37.874646+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323977+00:00"
   },
   {
     "ticker": "FTV",
@@ -11877,7 +11877,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 64.308036,
     "fundamental_target_price": 72.37074,
-    "last_market_update_utc": "2026-09-20T11:27:37.874651+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323984+00:00"
   },
   {
     "ticker": "VLTO",
@@ -11937,7 +11937,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 114.002147,
     "fundamental_target_price": 95.086863,
-    "last_market_update_utc": "2026-09-20T11:27:37.874657+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323992+00:00"
   },
   {
     "ticker": "WM",
@@ -11997,7 +11997,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 259.919231,
     "fundamental_target_price": 209.376339,
-    "last_market_update_utc": "2026-09-20T11:27:37.874664+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.323999+00:00"
   },
   {
     "ticker": "HBAN",
@@ -12057,7 +12057,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 20.29976,
     "fundamental_target_price": 25.037506,
-    "last_market_update_utc": "2026-09-20T11:27:37.874669+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324007+00:00"
   },
   {
     "ticker": "APH",
@@ -12117,7 +12117,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 99.145606,
     "fundamental_target_price": 59.071808000000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.874675+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324015+00:00"
   },
   {
     "ticker": "RTX",
@@ -12177,7 +12177,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 234.823905,
     "fundamental_target_price": 184.706721,
-    "last_market_update_utc": "2026-09-20T11:27:37.874681+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324023+00:00"
   },
   {
     "ticker": "SWK",
@@ -12237,7 +12237,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 99.36561599999999,
     "fundamental_target_price": 193.473792,
-    "last_market_update_utc": "2026-09-20T11:27:37.874686+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324030+00:00"
   },
   {
     "ticker": "BAX",
@@ -12297,7 +12297,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 28.728126,
     "fundamental_target_price": 41.963418,
-    "last_market_update_utc": "2026-09-20T11:27:37.874691+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324038+00:00"
   },
   {
     "ticker": "DASH",
@@ -12357,7 +12357,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 254.43594099999999,
     "fundamental_target_price": 160.872454,
-    "last_market_update_utc": "2026-09-20T11:27:37.874697+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324046+00:00"
   },
   {
     "ticker": "MDT",
@@ -12417,7 +12417,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 104.764125,
     "fundamental_target_price": 109.199532,
-    "last_market_update_utc": "2026-09-20T11:27:37.874702+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324053+00:00"
   },
   {
     "ticker": "AMAT",
@@ -12477,7 +12477,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 640.8682739999999,
     "fundamental_target_price": 236.403729,
-    "last_market_update_utc": "2026-09-20T11:27:37.874708+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324061+00:00"
   },
   {
     "ticker": "SWKS",
@@ -12537,7 +12537,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 68.350068,
     "fundamental_target_price": 99.675332,
-    "last_market_update_utc": "2026-09-20T11:27:37.874713+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324068+00:00"
   },
   {
     "ticker": "AMCR",
@@ -12597,7 +12597,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 49.935900000000004,
     "fundamental_target_price": 76.298985,
-    "last_market_update_utc": "2026-09-20T11:27:37.874719+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324076+00:00"
   },
   {
     "ticker": "ROL",
@@ -12657,7 +12657,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 45.588818,
     "fundamental_target_price": 28.54456,
-    "last_market_update_utc": "2026-09-20T11:27:37.874724+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324084+00:00"
   },
   {
     "ticker": "TT",
@@ -12717,7 +12717,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 526.99914,
     "fundamental_target_price": 364.72497,
-    "last_market_update_utc": "2026-09-20T11:27:37.874730+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324091+00:00"
   },
   {
     "ticker": "FOX",
@@ -12777,7 +12777,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": null,
     "fundamental_target_price": 73.731882,
-    "last_market_update_utc": "2026-09-20T11:27:37.874735+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324098+00:00"
   },
   {
     "ticker": "DG",
@@ -12837,7 +12837,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 138.924709,
     "fundamental_target_price": 143.773553,
-    "last_market_update_utc": "2026-09-20T11:27:37.874741+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324106+00:00"
   },
   {
     "ticker": "FRT",
@@ -12897,7 +12897,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 133.494309,
     "fundamental_target_price": 121.117896,
-    "last_market_update_utc": "2026-09-20T11:27:37.874746+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324114+00:00"
   },
   {
     "ticker": "GOOG",
@@ -12957,7 +12957,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 422.322945,
     "fundamental_target_price": 148.54233,
-    "last_market_update_utc": "2026-09-20T11:27:37.874752+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324121+00:00"
   },
   {
     "ticker": "CMCSA",
@@ -13017,7 +13017,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 30.082043999999996,
     "fundamental_target_price": 75.11239499999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874757+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324129+00:00"
   },
   {
     "ticker": "DXCM",
@@ -13077,7 +13077,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 94.12332,
     "fundamental_target_price": 60.62463,
-    "last_market_update_utc": "2026-09-20T11:27:37.874763+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324136+00:00"
   },
   {
     "ticker": "IVZ",
@@ -13137,7 +13137,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 33.374244000000004,
     "fundamental_target_price": 42.408968,
-    "last_market_update_utc": "2026-09-20T11:27:37.874768+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324144+00:00"
   },
   {
     "ticker": "AZO",
@@ -13197,7 +13197,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 3941.8210769999996,
     "fundamental_target_price": 2936.750676,
-    "last_market_update_utc": "2026-09-20T11:27:37.874773+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324151+00:00"
   },
   {
     "ticker": "SJM",
@@ -13257,7 +13257,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 141.436544,
     "fundamental_target_price": 217.97971199999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.874779+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324159+00:00"
   },
   {
     "ticker": "UHS",
@@ -13317,7 +13317,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 193.655475,
     "fundamental_target_price": 410.72265000000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.874784+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324166+00:00"
   },
   {
     "ticker": "SNA",
@@ -13377,7 +13377,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 413.7932,
     "fundamental_target_price": 514.1009,
-    "last_market_update_utc": "2026-09-20T11:27:37.874789+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324174+00:00"
   },
   {
     "ticker": "DHI",
@@ -13437,7 +13437,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 162.92057499999999,
     "fundamental_target_price": 199.16479999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874795+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324182+00:00"
   },
   {
     "ticker": "BG",
@@ -13497,7 +13497,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 141.217416,
     "fundamental_target_price": 148.95730799999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.874800+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324189+00:00"
   },
   {
     "ticker": "FFIV",
@@ -13557,7 +13557,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 436.115943,
     "fundamental_target_price": 355.640076,
-    "last_market_update_utc": "2026-09-20T11:27:37.874806+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324197+00:00"
   },
   {
     "ticker": "ANET",
@@ -13617,7 +13617,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 241.042942,
     "fundamental_target_price": 90.86344199999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874811+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324204+00:00"
   },
   {
     "ticker": "IEX",
@@ -13677,7 +13677,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 254.50425,
     "fundamental_target_price": 207.585972,
-    "last_market_update_utc": "2026-09-20T11:27:37.874817+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324212+00:00"
   },
   {
     "ticker": "PRU",
@@ -13737,7 +13737,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 113.405388,
     "fundamental_target_price": 236.58457799999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.874823+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324220+00:00"
   },
   {
     "ticker": "ATO",
@@ -13797,7 +13797,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 188.186636,
     "fundamental_target_price": 149.011108,
-    "last_market_update_utc": "2026-09-20T11:27:37.874828+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324227+00:00"
   },
   {
     "ticker": "ODFL",
@@ -13857,7 +13857,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 230.553148,
     "fundamental_target_price": 140.015871,
-    "last_market_update_utc": "2026-09-20T11:27:37.874834+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324235+00:00"
   },
   {
     "ticker": "BALL",
@@ -13917,7 +13917,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 72.57186,
     "fundamental_target_price": 59.899986,
-    "last_market_update_utc": "2026-09-20T11:27:37.874839+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324242+00:00"
   },
   {
     "ticker": "SO",
@@ -13977,7 +13977,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 99.969606,
     "fundamental_target_price": 90.823788,
-    "last_market_update_utc": "2026-09-20T11:27:37.874845+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324250+00:00"
   },
   {
     "ticker": "PPL",
@@ -14037,7 +14037,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 40.927727,
     "fundamental_target_price": 37.378106,
-    "last_market_update_utc": "2026-09-20T11:27:37.874851+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324258+00:00"
   },
   {
     "ticker": "LHX",
@@ -14097,7 +14097,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 344.54057500000005,
     "fundamental_target_price": 212.52011499999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.874856+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324265+00:00"
   },
   {
     "ticker": "MSFT",
@@ -14157,7 +14157,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 572.90605,
     "fundamental_target_price": 334.89894,
-    "last_market_update_utc": "2026-09-20T11:27:37.874862+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324277+00:00"
   },
   {
     "ticker": "KLAC",
@@ -14217,7 +14217,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 233.7632,
     "fundamental_target_price": 91.33376,
-    "last_market_update_utc": "2026-09-20T11:27:37.874867+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324284+00:00"
   },
   {
     "ticker": "KR",
@@ -14277,7 +14277,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 70.272846,
     "fundamental_target_price": 106.229529,
-    "last_market_update_utc": "2026-09-20T11:27:37.874873+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324292+00:00"
   },
   {
     "ticker": "NDSN",
@@ -14337,7 +14337,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 349.71846000000005,
     "fundamental_target_price": 283.467744,
-    "last_market_update_utc": "2026-09-20T11:27:37.874878+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324300+00:00"
   },
   {
     "ticker": "COF",
@@ -14397,7 +14397,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 258.27155999999997,
     "fundamental_target_price": 320.30856,
-    "last_market_update_utc": "2026-09-20T11:27:37.874883+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324307+00:00"
   },
   {
     "ticker": "BIIB",
@@ -14457,7 +14457,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 236.86225800000003,
     "fundamental_target_price": 267.04971900000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.874889+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324315+00:00"
   },
   {
     "ticker": "FERG",
@@ -14517,7 +14517,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 288.436148,
     "fundamental_target_price": 241.40652899999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.874894+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324322+00:00"
   },
   {
     "ticker": "LOW",
@@ -14577,7 +14577,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 253.76334,
     "fundamental_target_price": 222.543825,
-    "last_market_update_utc": "2026-09-20T11:27:37.874900+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324330+00:00"
   },
   {
     "ticker": "KEY",
@@ -14637,7 +14637,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 26.021576,
     "fundamental_target_price": 28.501299999999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.874906+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324337+00:00"
   },
   {
     "ticker": "WBD",
@@ -14697,7 +14697,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 29.817875000000004,
     "fundamental_target_price": 53.214525,
-    "last_market_update_utc": "2026-09-20T11:27:37.874911+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324345+00:00"
   },
   {
     "ticker": "GOOGL",
@@ -14757,7 +14757,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 428.05036199999995,
     "fundamental_target_price": 148.51624800000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.874917+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324353+00:00"
   },
   {
     "ticker": "JCI",
@@ -14817,7 +14817,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 163.361874,
     "fundamental_target_price": 125.15568999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874922+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324360+00:00"
   },
   {
     "ticker": "HRL",
@@ -14877,7 +14877,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 26.125865999999995,
     "fundamental_target_price": 25.660602,
-    "last_market_update_utc": "2026-09-20T11:27:37.874928+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324368+00:00"
   },
   {
     "ticker": "AFL",
@@ -14937,7 +14937,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 118.534473,
     "fundamental_target_price": 137.979612,
-    "last_market_update_utc": "2026-09-20T11:27:37.874933+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324375+00:00"
   },
   {
     "ticker": "WTW",
@@ -14997,7 +14997,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 379.963374,
     "fundamental_target_price": 296.311848,
-    "last_market_update_utc": "2026-09-20T11:27:37.874939+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324383+00:00"
   },
   {
     "ticker": "VZ",
@@ -15057,7 +15057,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 51.584032,
     "fundamental_target_price": 91.299926,
-    "last_market_update_utc": "2026-09-20T11:27:37.874944+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324390+00:00"
   },
   {
     "ticker": "PHM",
@@ -15117,7 +15117,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 142.27124,
     "fundamental_target_price": 174.35445,
-    "last_market_update_utc": "2026-09-20T11:27:37.874950+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324398+00:00"
   },
   {
     "ticker": "TFC",
@@ -15177,7 +15177,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 54.91428,
     "fundamental_target_price": 66.396075,
-    "last_market_update_utc": "2026-09-20T11:27:37.874955+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324406+00:00"
   },
   {
     "ticker": "SPG",
@@ -15237,7 +15237,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 236.897584,
     "fundamental_target_price": 191.99364799999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.874961+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324413+00:00"
   },
   {
     "ticker": "RDDT",
@@ -15297,7 +15297,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 213.108462,
     "fundamental_target_price": 93.21661000000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.874967+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324422+00:00"
   },
   {
     "ticker": "ZBH",
@@ -15357,7 +15357,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 107.572983,
     "fundamental_target_price": 156.294159,
-    "last_market_update_utc": "2026-09-20T11:27:37.874973+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324429+00:00"
   },
   {
     "ticker": "MSI",
@@ -15417,7 +15417,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 526.83708,
     "fundamental_target_price": 370.6956,
-    "last_market_update_utc": "2026-09-20T11:27:37.874978+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324437+00:00"
   },
   {
     "ticker": "AMP",
@@ -15477,7 +15477,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 579.450872,
     "fundamental_target_price": 625.0243999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.874983+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324445+00:00"
   },
   {
     "ticker": "COO",
@@ -15537,7 +15537,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 81.49684900000001,
     "fundamental_target_price": 65.783427,
-    "last_market_update_utc": "2026-09-20T11:27:37.874989+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324453+00:00"
   },
   {
     "ticker": "SYK",
@@ -15597,7 +15597,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 382.73193799999996,
     "fundamental_target_price": 275.060162,
-    "last_market_update_utc": "2026-09-20T11:27:37.874994+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324461+00:00"
   },
   {
     "ticker": "DPZ",
@@ -15657,7 +15657,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 380.64528,
     "fundamental_target_price": 342.27378,
-    "last_market_update_utc": "2026-09-20T11:27:37.875000+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324468+00:00"
   },
   {
     "ticker": "RL",
@@ -15717,7 +15717,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 446.69128,
     "fundamental_target_price": 356.50311999999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.875005+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324476+00:00"
   },
   {
     "ticker": "VEEV",
@@ -15777,7 +15777,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 295.17157,
     "fundamental_target_price": 174.29702399999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.875011+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324484+00:00"
   },
   {
     "ticker": "FE",
@@ -15837,7 +15837,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 53.168136000000004,
     "fundamental_target_price": 61.54464300000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875016+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324491+00:00"
   },
   {
     "ticker": "MPWR",
@@ -15897,7 +15897,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1839.8287379999997,
     "fundamental_target_price": 447.3208299999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875021+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324499+00:00"
   },
   {
     "ticker": "Q",
@@ -15957,7 +15957,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 176.75358400000002,
     "fundamental_target_price": 113.02495400000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875027+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324507+00:00"
   },
   {
     "ticker": "VRSN",
@@ -16017,7 +16017,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 321.404832,
     "fundamental_target_price": 243.36105599999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.875033+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324515+00:00"
   },
   {
     "ticker": "SMCI",
@@ -16077,7 +16077,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 42.373177000000005,
     "fundamental_target_price": 89.247737,
-    "last_market_update_utc": "2026-09-20T11:27:37.875038+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324522+00:00"
   },
   {
     "ticker": "HSIC",
@@ -16137,7 +16137,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 98.189273,
     "fundamental_target_price": 106.77510900000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875044+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324544+00:00"
   },
   {
     "ticker": "AMZN",
@@ -16197,7 +16197,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 328.178445,
     "fundamental_target_price": 128.686278,
-    "last_market_update_utc": "2026-09-20T11:27:37.875049+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324553+00:00"
   },
   {
     "ticker": "CAT",
@@ -16257,7 +16257,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 975.588484,
     "fundamental_target_price": 495.770854,
-    "last_market_update_utc": "2026-09-20T11:27:37.875055+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324561+00:00"
   },
   {
     "ticker": "FDS",
@@ -16317,7 +16317,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 259.05148399999996,
     "fundamental_target_price": 285.23141599999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.875060+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324569+00:00"
   },
   {
     "ticker": "ABBV",
@@ -16377,7 +16377,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 276.59211,
     "fundamental_target_price": 251.305154,
-    "last_market_update_utc": "2026-09-20T11:27:37.875065+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324577+00:00"
   },
   {
     "ticker": "AON",
@@ -16437,7 +16437,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 389.51730399999997,
     "fundamental_target_price": 270.006313,
-    "last_market_update_utc": "2026-09-20T11:27:37.875071+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324584+00:00"
   },
   {
     "ticker": "HSY",
@@ -16497,7 +16497,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 205.52905,
     "fundamental_target_price": 159.02096,
-    "last_market_update_utc": "2026-09-20T11:27:37.875076+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324592+00:00"
   },
   {
     "ticker": "LRCX",
@@ -16557,7 +16557,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 370.872075,
     "fundamental_target_price": 141.21134999999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875081+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324599+00:00"
   },
   {
     "ticker": "FCX",
@@ -16617,7 +16617,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 72.046338,
     "fundamental_target_price": 61.500488000000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.875087+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324607+00:00"
   },
   {
     "ticker": "EXPD",
@@ -16677,7 +16677,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 177.71744,
     "fundamental_target_price": 170.35424,
-    "last_market_update_utc": "2026-09-20T11:27:37.875092+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324615+00:00"
   },
   {
     "ticker": "WRB",
@@ -16737,7 +16737,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 69.527184,
     "fundamental_target_price": 98.10274600000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875097+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324622+00:00"
   },
   {
     "ticker": "WFC",
@@ -16797,7 +16797,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 100.235577,
     "fundamental_target_price": 105.381861,
-    "last_market_update_utc": "2026-09-20T11:27:37.875103+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324630+00:00"
   },
   {
     "ticker": "PSX",
@@ -16857,7 +16857,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 229.938126,
     "fundamental_target_price": 224.071056,
-    "last_market_update_utc": "2026-09-20T11:27:37.875108+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324638+00:00"
   },
   {
     "ticker": "PLD",
@@ -16917,7 +16917,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 158.229414,
     "fundamental_target_price": 115.612812,
-    "last_market_update_utc": "2026-09-20T11:27:37.875113+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324645+00:00"
   },
   {
     "ticker": "HCA",
@@ -16977,7 +16977,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 451.494,
     "fundamental_target_price": 619.9739999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875118+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324653+00:00"
   },
   {
     "ticker": "ITW",
@@ -17037,7 +17037,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 301.8591,
     "fundamental_target_price": 252.77829599999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875124+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324660+00:00"
   },
   {
     "ticker": "TER",
@@ -17097,7 +17097,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 446.46601499999997,
     "fundamental_target_price": 163.127007,
-    "last_market_update_utc": "2026-09-20T11:27:37.875129+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324668+00:00"
   },
   {
     "ticker": "ICE",
@@ -17157,7 +17157,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 186.70682799999997,
     "fundamental_target_price": 114.62360799999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875134+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324675+00:00"
   },
   {
     "ticker": "GM",
@@ -17217,7 +17217,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 101.643632,
     "fundamental_target_price": 329.45104,
-    "last_market_update_utc": "2026-09-20T11:27:37.875140+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324683+00:00"
   },
   {
     "ticker": "STE",
@@ -17277,7 +17277,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 263.129644,
     "fundamental_target_price": 220.390167,
-    "last_market_update_utc": "2026-09-20T11:27:37.875145+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324690+00:00"
   },
   {
     "ticker": "AMD",
@@ -17337,7 +17337,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 613.868478,
     "fundamental_target_price": 189.69080399999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875150+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324698+00:00"
   },
   {
     "ticker": "DGX",
@@ -17397,7 +17397,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 245.86675199999996,
     "fundamental_target_price": 226.160418,
-    "last_market_update_utc": "2026-09-20T11:27:37.875156+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324705+00:00"
   },
   {
     "ticker": "CDNS",
@@ -17457,7 +17457,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 403.10643999999996,
     "fundamental_target_price": 168.33176999999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875161+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324712+00:00"
   },
   {
     "ticker": "EXC",
@@ -17517,7 +17517,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 48.881164000000005,
     "fundamental_target_price": 54.279432,
-    "last_market_update_utc": "2026-09-20T11:27:37.875166+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324720+00:00"
   },
   {
     "ticker": "RF",
@@ -17577,7 +17577,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 32.941818,
     "fundamental_target_price": 37.915488,
-    "last_market_update_utc": "2026-09-20T11:27:37.875172+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324727+00:00"
   },
   {
     "ticker": "BLK",
@@ -17637,7 +17637,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1320.823101,
     "fundamental_target_price": 836.3305079999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875177+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324735+00:00"
   },
   {
     "ticker": "ARE",
@@ -17697,7 +17697,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 52.99748999999999,
     "fundamental_target_price": 156.238875,
-    "last_market_update_utc": "2026-09-20T11:27:37.875182+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324742+00:00"
   },
   {
     "ticker": "MTB",
@@ -17757,7 +17757,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 257.252384,
     "fundamental_target_price": 281.020528,
-    "last_market_update_utc": "2026-09-20T11:27:37.875188+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324750+00:00"
   },
   {
     "ticker": "CIEN",
@@ -17817,7 +17817,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 504.1305,
     "fundamental_target_price": 156.68009999999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875193+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324757+00:00"
   },
   {
     "ticker": "CCI",
@@ -17877,7 +17877,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 95.068071,
     "fundamental_target_price": 73.919084,
-    "last_market_update_utc": "2026-09-20T11:27:37.875199+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324765+00:00"
   },
   {
     "ticker": "AME",
@@ -17937,7 +17937,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 278.061084,
     "fundamental_target_price": 188.060292,
-    "last_market_update_utc": "2026-09-20T11:27:37.875204+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324772+00:00"
   },
   {
     "ticker": "MRVL",
@@ -17997,7 +17997,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 285.003895,
     "fundamental_target_price": 88.68228500000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.875210+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324780+00:00"
   },
   {
     "ticker": "SYF",
@@ -18057,7 +18057,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 89.30260799999999,
     "fundamental_target_price": 140.187672,
-    "last_market_update_utc": "2026-09-20T11:27:37.875215+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324788+00:00"
   },
   {
     "ticker": "GS",
@@ -18117,7 +18117,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1141.6401119999998,
     "fundamental_target_price": 987.5103879999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875220+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324795+00:00"
   },
   {
     "ticker": "KKR",
@@ -18177,7 +18177,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 127.972467,
     "fundamental_target_price": 98.78841000000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875226+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324803+00:00"
   },
   {
     "ticker": "BEN",
@@ -18237,7 +18237,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 35.18149,
     "fundamental_target_price": 42.530358,
-    "last_market_update_utc": "2026-09-20T11:27:37.875231+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324810+00:00"
   },
   {
     "ticker": "EQIX",
@@ -18297,7 +18297,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1234.680964,
     "fundamental_target_price": 738.6537400000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875237+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324817+00:00"
   },
   {
     "ticker": "CBOE",
@@ -18357,7 +18357,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 315.148956,
     "fundamental_target_price": 184.81657199999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875242+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324825+00:00"
   },
   {
     "ticker": "TDG",
@@ -18417,7 +18417,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1522.7503199999999,
     "fundamental_target_price": 917.0898599999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875247+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324832+00:00"
   },
   {
     "ticker": "SHW",
@@ -18477,7 +18477,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 391.00800699999996,
     "fundamental_target_price": 234.19767799999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.875252+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324840+00:00"
   },
   {
     "ticker": "VTRS",
@@ -18537,7 +18537,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 18.50048,
     "fundamental_target_price": 50.830743999999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.875258+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324847+00:00"
   },
   {
     "ticker": "BKR",
@@ -18597,7 +18597,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 72.12965,
     "fundamental_target_price": 54.80685,
-    "last_market_update_utc": "2026-09-20T11:27:37.875263+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324855+00:00"
   },
   {
     "ticker": "CEG",
@@ -18657,7 +18657,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 348.318296,
     "fundamental_target_price": 226.01376,
-    "last_market_update_utc": "2026-09-20T11:27:37.875269+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324863+00:00"
   },
   {
     "ticker": "AEE",
@@ -18717,7 +18717,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 120.396276,
     "fundamental_target_price": 102.488022,
-    "last_market_update_utc": "2026-09-20T11:27:37.875275+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324870+00:00"
   },
   {
     "ticker": "HPQ",
@@ -18777,7 +18777,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 29.4576,
     "fundamental_target_price": 89.48582400000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875280+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324877+00:00"
   },
   {
     "ticker": "PFE",
@@ -18837,7 +18837,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 28.606475,
     "fundamental_target_price": 54.951175000000006,
-    "last_market_update_utc": "2026-09-20T11:27:37.875285+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324885+00:00"
   },
   {
     "ticker": "J",
@@ -18897,7 +18897,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 162.53464499999998,
     "fundamental_target_price": 153.07356399999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875291+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324892+00:00"
   },
   {
     "ticker": "NTRS",
@@ -18957,7 +18957,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 184.27846200000002,
     "fundamental_target_price": 169.012128,
-    "last_market_update_utc": "2026-09-20T11:27:37.875296+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324900+00:00"
   },
   {
     "ticker": "NWSA",
@@ -19017,7 +19017,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 36.161061,
     "fundamental_target_price": 30.611847000000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.875302+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324908+00:00"
   },
   {
     "ticker": "SPGI",
@@ -19077,7 +19077,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 520.281581,
     "fundamental_target_price": 297.905667,
-    "last_market_update_utc": "2026-09-20T11:27:37.875307+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324915+00:00"
   },
   {
     "ticker": "MS",
@@ -19137,7 +19137,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 236.618096,
     "fundamental_target_price": 181.970376,
-    "last_market_update_utc": "2026-09-20T11:27:37.875312+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324923+00:00"
   },
   {
     "ticker": "DDOG",
@@ -19197,7 +19197,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 285.177149,
     "fundamental_target_price": 53.25379300000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.875318+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324931+00:00"
   },
   {
     "ticker": "TGT",
@@ -19257,7 +19257,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 161.907624,
     "fundamental_target_price": 170.787384,
-    "last_market_update_utc": "2026-09-20T11:27:37.875323+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324938+00:00"
   },
   {
     "ticker": "SCHW",
@@ -19317,7 +19317,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 124.951257,
     "fundamental_target_price": 104.098725,
-    "last_market_update_utc": "2026-09-20T11:27:37.875329+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324946+00:00"
   },
   {
     "ticker": "WEC",
@@ -19377,7 +19377,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 121.61912000000001,
     "fundamental_target_price": 95.303624,
-    "last_market_update_utc": "2026-09-20T11:27:37.875334+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324954+00:00"
   },
   {
     "ticker": "MCK",
@@ -19437,7 +19437,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 980.719999,
     "fundamental_target_price": 1084.230859,
-    "last_market_update_utc": "2026-09-20T11:27:37.875339+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324961+00:00"
   },
   {
     "ticker": "CARR",
@@ -19497,7 +19497,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 77.814072,
     "fundamental_target_price": 49.087591,
-    "last_market_update_utc": "2026-09-20T11:27:37.875345+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324969+00:00"
   },
   {
     "ticker": "DOW",
@@ -19557,7 +19557,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 34.686208,
     "fundamental_target_price": 27.067136,
-    "last_market_update_utc": "2026-09-20T11:27:37.875350+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324976+00:00"
   },
   {
     "ticker": "DLTR",
@@ -19617,7 +19617,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 136.400818,
     "fundamental_target_price": 123.77135599999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875355+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324984+00:00"
   },
   {
     "ticker": "PH",
@@ -19677,7 +19677,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1160.979799,
     "fundamental_target_price": 727.71804,
-    "last_market_update_utc": "2026-09-20T11:27:37.875361+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324991+00:00"
   },
   {
     "ticker": "EBAY",
@@ -19737,7 +19737,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 116.150112,
     "fundamental_target_price": 96.223005,
-    "last_market_update_utc": "2026-09-20T11:27:37.875366+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.324999+00:00"
   },
   {
     "ticker": "PSKY",
@@ -19797,7 +19797,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 9.692549999999999,
     "fundamental_target_price": 117.764754,
-    "last_market_update_utc": "2026-09-20T11:27:37.875371+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325006+00:00"
   },
   {
     "ticker": "PFG",
@@ -19857,7 +19857,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 109.994236,
     "fundamental_target_price": 119.17695200000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875377+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325014+00:00"
   },
   {
     "ticker": "FTNT",
@@ -19917,7 +19917,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 162.29153599999998,
     "fundamental_target_price": 79.645384,
-    "last_market_update_utc": "2026-09-20T11:27:37.875382+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325022+00:00"
   },
   {
     "ticker": "PCAR",
@@ -19977,7 +19977,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 143.46735,
     "fundamental_target_price": 116.13311,
-    "last_market_update_utc": "2026-09-20T11:27:37.875388+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325029+00:00"
   },
   {
     "ticker": "DLR",
@@ -20037,7 +20037,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 223.31750599999998,
     "fundamental_target_price": 151.65394999999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875393+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325036+00:00"
   },
   {
     "ticker": "MKC",
@@ -20097,7 +20097,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 60.615911999999994,
     "fundamental_target_price": 52.319568,
-    "last_market_update_utc": "2026-09-20T11:27:37.875399+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325044+00:00"
   },
   {
     "ticker": "MRSH",
@@ -20157,7 +20157,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 207.1001,
     "fundamental_target_price": 161.61237400000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.875404+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325051+00:00"
   },
   {
     "ticker": "SOLV",
@@ -20217,7 +20217,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 93.927236,
     "fundamental_target_price": 90.13127,
-    "last_market_update_utc": "2026-09-20T11:27:37.875409+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325059+00:00"
   },
   {
     "ticker": "GPC",
@@ -20277,7 +20277,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 140.372128,
     "fundamental_target_price": 155.367616,
-    "last_market_update_utc": "2026-09-20T11:27:37.875415+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325066+00:00"
   },
   {
     "ticker": "MCD",
@@ -20337,7 +20337,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 315.393615,
     "fundamental_target_price": 223.268508,
-    "last_market_update_utc": "2026-09-20T11:27:37.875420+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325074+00:00"
   },
   {
     "ticker": "MET",
@@ -20397,7 +20397,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 105.05864400000002,
     "fundamental_target_price": 114.615642,
-    "last_market_update_utc": "2026-09-20T11:27:37.875426+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325082+00:00"
   },
   {
     "ticker": "PWR",
@@ -20457,7 +20457,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 770.022412,
     "fundamental_target_price": 362.09535900000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.875431+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325089+00:00"
   },
   {
     "ticker": "RVTY",
@@ -20517,7 +20517,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 125.24559599999999,
     "fundamental_target_price": 113.47370799999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875436+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325097+00:00"
   },
   {
     "ticker": "ESS",
@@ -20577,7 +20577,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 304.994367,
     "fundamental_target_price": 274.486572,
-    "last_market_update_utc": "2026-09-20T11:27:37.875441+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325104+00:00"
   },
   {
     "ticker": "RJF",
@@ -20637,7 +20637,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 185.99212799999998,
     "fundamental_target_price": 189.397467,
-    "last_market_update_utc": "2026-09-20T11:27:37.875447+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325112+00:00"
   },
   {
     "ticker": "WSM",
@@ -20697,7 +20697,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 248.09247799999997,
     "fundamental_target_price": 197.49152800000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.875452+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325120+00:00"
   },
   {
     "ticker": "COHR",
@@ -20757,7 +20757,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 415.348896,
     "fundamental_target_price": 193.891494,
-    "last_market_update_utc": "2026-09-20T11:27:37.875458+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325127+00:00"
   },
   {
     "ticker": "RSG",
@@ -20817,7 +20817,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 245.91638200000003,
     "fundamental_target_price": 197.944648,
-    "last_market_update_utc": "2026-09-20T11:27:37.875463+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325135+00:00"
   },
   {
     "ticker": "HD",
@@ -20877,7 +20877,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 377.49059,
     "fundamental_target_price": 272.37882,
-    "last_market_update_utc": "2026-09-20T11:27:37.875469+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325142+00:00"
   },
   {
     "ticker": "WAB",
@@ -20937,7 +20937,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 329.164182,
     "fundamental_target_price": 224.02512000000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.875474+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325150+00:00"
   },
   {
     "ticker": "EG",
@@ -20997,7 +20997,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 408.483075,
     "fundamental_target_price": 857.9477620000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875480+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325157+00:00"
   },
   {
     "ticker": "PEP",
@@ -21057,7 +21057,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 154.99890599999998,
     "fundamental_target_price": 133.652493,
-    "last_market_update_utc": "2026-09-20T11:27:37.875485+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325164+00:00"
   },
   {
     "ticker": "BA",
@@ -21117,7 +21117,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 274.84252499999997,
     "fundamental_target_price": 149.5938,
-    "last_market_update_utc": "2026-09-20T11:27:37.875491+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325172+00:00"
   },
   {
     "ticker": "EVRG",
@@ -21177,7 +21177,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 91.275876,
     "fundamental_target_price": 83.79865800000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.875496+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325179+00:00"
   },
   {
     "ticker": "XOM",
@@ -21237,7 +21237,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 170.90399900000003,
     "fundamental_target_price": 125.678307,
-    "last_market_update_utc": "2026-09-20T11:27:37.875502+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325187+00:00"
   },
   {
     "ticker": "AEP",
@@ -21297,7 +21297,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 143.9967,
     "fundamental_target_price": 118.27499999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875507+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325195+00:00"
   },
   {
     "ticker": "NVR",
@@ -21357,7 +21357,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 6781.971795,
     "fundamental_target_price": 7784.748715000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875513+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325203+00:00"
   },
   {
     "ticker": "SYY",
@@ -21417,7 +21417,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 90.30440499999999,
     "fundamental_target_price": 85.54142999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875519+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325210+00:00"
   },
   {
     "ticker": "MO",
@@ -21477,7 +21477,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 70.00274399999999,
     "fundamental_target_price": 102.76895999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875524+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325218+00:00"
   },
   {
     "ticker": "NOW",
@@ -21537,7 +21537,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 141.83916599999998,
     "fundamental_target_price": 99.09389,
-    "last_market_update_utc": "2026-09-20T11:27:37.875530+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325226+00:00"
   },
   {
     "ticker": "ED",
@@ -21597,7 +21597,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 110.28339100000001,
     "fundamental_target_price": 128.007699,
-    "last_market_update_utc": "2026-09-20T11:27:37.875535+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325234+00:00"
   },
   {
     "ticker": "LEN",
@@ -21657,7 +21657,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 86.22948600000001,
     "fundamental_target_price": 110.835438,
-    "last_market_update_utc": "2026-09-20T11:27:37.875540+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325241+00:00"
   },
   {
     "ticker": "O",
@@ -21717,7 +21717,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 68.165125,
     "fundamental_target_price": 56.1785,
-    "last_market_update_utc": "2026-09-20T11:27:37.875546+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325249+00:00"
   },
   {
     "ticker": "JKHY",
@@ -21777,7 +21777,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 191.52953199999996,
     "fundamental_target_price": 105.14827199999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875552+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325257+00:00"
   },
   {
     "ticker": "HWM",
@@ -21837,7 +21837,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 337.128781,
     "fundamental_target_price": 108.63413,
-    "last_market_update_utc": "2026-09-20T11:27:37.875558+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325265+00:00"
   },
   {
     "ticker": "LLY",
@@ -21897,7 +21897,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1315.557456,
     "fundamental_target_price": 593.8743119999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875563+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325273+00:00"
   },
   {
     "ticker": "KVUE",
@@ -21957,7 +21957,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 19.500843999999997,
     "fundamental_target_price": 19.560812,
-    "last_market_update_utc": "2026-09-20T11:27:37.875568+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325280+00:00"
   },
   {
     "ticker": "CMG",
@@ -22017,7 +22017,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 43.764336,
     "fundamental_target_price": 21.998592,
-    "last_market_update_utc": "2026-09-20T11:27:37.875574+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325287+00:00"
   },
   {
     "ticker": "PEG",
@@ -22077,7 +22077,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 85.46989,
     "fundamental_target_price": 53.336690000000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.875579+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325295+00:00"
   },
   {
     "ticker": "CDW",
@@ -22137,7 +22137,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 155.88474,
     "fundamental_target_price": 217.75102,
-    "last_market_update_utc": "2026-09-20T11:27:37.875594+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325302+00:00"
   },
   {
     "ticker": "HUBB",
@@ -22197,7 +22197,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 565.7180880000001,
     "fundamental_target_price": 375.02608,
-    "last_market_update_utc": "2026-09-20T11:27:37.875600+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325310+00:00"
   },
   {
     "ticker": "MA",
@@ -22257,7 +22257,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 670.8989430000001,
     "fundamental_target_price": 313.98974100000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.875606+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325317+00:00"
   },
   {
     "ticker": "HONA",
@@ -22317,7 +22317,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 213.000129,
     "fundamental_target_price": 160.20495,
-    "last_market_update_utc": "2026-09-20T11:27:37.875611+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325325+00:00"
   },
   {
     "ticker": "GE",
@@ -22377,7 +22377,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 404.91483200000005,
     "fundamental_target_price": 183.22472000000005,
-    "last_market_update_utc": "2026-09-20T11:27:37.875617+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325332+00:00"
   },
   {
     "ticker": "DELL",
@@ -22437,7 +22437,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 564.446366,
     "fundamental_target_price": 341.52962399999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.875622+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325340+00:00"
   },
   {
     "ticker": "PAYX",
@@ -22497,7 +22497,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 114.930753,
     "fundamental_target_price": 96.893331,
-    "last_market_update_utc": "2026-09-20T11:27:37.875628+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325347+00:00"
   },
   {
     "ticker": "JPM",
@@ -22557,7 +22557,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 374.56361599999997,
     "fundamental_target_price": 333.571064,
-    "last_market_update_utc": "2026-09-20T11:27:37.875634+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325355+00:00"
   },
   {
     "ticker": "AAPL",
@@ -22617,7 +22617,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 323.87363400000004,
     "fundamental_target_price": 209.51635600000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.875639+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325362+00:00"
   },
   {
     "ticker": "NI",
@@ -22677,7 +22677,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 49.858394000000004,
     "fundamental_target_price": 42.395777,
-    "last_market_update_utc": "2026-09-20T11:27:37.875645+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325370+00:00"
   },
   {
     "ticker": "ROK",
@@ -22737,7 +22737,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 478.622573,
     "fundamental_target_price": 312.993915,
-    "last_market_update_utc": "2026-09-20T11:27:37.875650+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325378+00:00"
   },
   {
     "ticker": "CSX",
@@ -22797,7 +22797,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 53.14045499999999,
     "fundamental_target_price": 43.085519999999995,
-    "last_market_update_utc": "2026-09-20T11:27:37.875656+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325385+00:00"
   },
   {
     "ticker": "FISV",
@@ -22857,7 +22857,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 61.6761,
     "fundamental_target_price": null,
-    "last_market_update_utc": "2026-09-20T11:27:37.875662+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325392+00:00"
   },
   {
     "ticker": "STLD",
@@ -22917,7 +22917,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 271.204024,
     "fundamental_target_price": 178.712898,
-    "last_market_update_utc": "2026-09-20T11:27:37.875667+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325400+00:00"
   },
   {
     "ticker": "STT",
@@ -22977,7 +22977,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 199.50501999999997,
     "fundamental_target_price": 204.12840799999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875673+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325407+00:00"
   },
   {
     "ticker": "DIS",
@@ -23037,7 +23037,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 128.183332,
     "fundamental_target_price": 99.42317100000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875679+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325415+00:00"
   },
   {
     "ticker": "XEL",
@@ -23097,7 +23097,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 91.757496,
     "fundamental_target_price": 71.010216,
-    "last_market_update_utc": "2026-09-20T11:27:37.875684+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325422+00:00"
   },
   {
     "ticker": "LH",
@@ -23157,7 +23157,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 341.501983,
     "fundamental_target_price": 324.830593,
-    "last_market_update_utc": "2026-09-20T11:27:37.875690+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325430+00:00"
   },
   {
     "ticker": "LITE",
@@ -23217,7 +23217,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1148.445,
     "fundamental_target_price": 289.40250000000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.875695+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325438+00:00"
   },
   {
     "ticker": "CNP",
@@ -23277,7 +23277,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 45.751411000000004,
     "fundamental_target_price": 37.72617,
-    "last_market_update_utc": "2026-09-20T11:27:37.875701+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325445+00:00"
   },
   {
     "ticker": "CL",
@@ -23337,7 +23337,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 98.951919,
     "fundamental_target_price": 74.602308,
-    "last_market_update_utc": "2026-09-20T11:27:37.875706+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325452+00:00"
   },
   {
     "ticker": "ABT",
@@ -23397,7 +23397,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 120.20296799999998,
     "fundamental_target_price": 99.60943499999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875712+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325460+00:00"
   },
   {
     "ticker": "ROST",
@@ -23457,7 +23457,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 269.95343799999995,
     "fundamental_target_price": 153.731816,
-    "last_market_update_utc": "2026-09-20T11:27:37.875717+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325468+00:00"
   },
   {
     "ticker": "IRM",
@@ -23517,7 +23517,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 146.20354600000002,
     "fundamental_target_price": 94.39950800000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875723+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325476+00:00"
   },
   {
     "ticker": "A",
@@ -23577,7 +23577,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 175.45018000000002,
     "fundamental_target_price": 105.52657,
-    "last_market_update_utc": "2026-09-20T11:27:37.875728+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325484+00:00"
   },
   {
     "ticker": "ES",
@@ -23637,7 +23637,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 73.586485,
     "fundamental_target_price": 102.43988999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875733+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325491+00:00"
   },
   {
     "ticker": "COR",
@@ -23697,7 +23697,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 369.307105,
     "fundamental_target_price": 331.44642500000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.875738+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325499+00:00"
   },
   {
     "ticker": "BF.B",
@@ -23757,7 +23757,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 28.258955999999998,
     "fundamental_target_price": 28.432701,
-    "last_market_update_utc": "2026-09-20T11:27:37.875744+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325507+00:00"
   },
   {
     "ticker": "ABNB",
@@ -23817,7 +23817,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 179.46561599999998,
     "fundamental_target_price": 105.28867799999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875749+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325514+00:00"
   },
   {
     "ticker": "ISRG",
@@ -23877,7 +23877,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 477.99345,
     "fundamental_target_price": 195.92781,
-    "last_market_update_utc": "2026-09-20T11:27:37.875755+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325522+00:00"
   },
   {
     "ticker": "PLTR",
@@ -23937,7 +23937,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 193.87239300000002,
     "fundamental_target_price": 31.919823000000008,
-    "last_market_update_utc": "2026-09-20T11:27:37.875760+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325543+00:00"
   },
   {
     "ticker": "TJX",
@@ -23997,7 +23997,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 169.802048,
     "fundamental_target_price": 100.15626400000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875766+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325551+00:00"
   },
   {
     "ticker": "ORLY",
@@ -24057,7 +24057,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 107.797085,
     "fundamental_target_price": 56.390223999999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.875771+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325559+00:00"
   },
   {
     "ticker": "WST",
@@ -24117,7 +24117,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 404.73428500000006,
     "fundamental_target_price": 156.658176,
-    "last_market_update_utc": "2026-09-20T11:27:37.875777+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325567+00:00"
   },
   {
     "ticker": "AXP",
@@ -24177,7 +24177,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 375.96463200000005,
     "fundamental_target_price": 268.299216,
-    "last_market_update_utc": "2026-09-20T11:27:37.875782+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325575+00:00"
   },
   {
     "ticker": "LNT",
@@ -24237,7 +24237,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 78.043154,
     "fundamental_target_price": 54.10412,
-    "last_market_update_utc": "2026-09-20T11:27:37.875788+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325583+00:00"
   },
   {
     "ticker": "CTVA",
@@ -24297,7 +24297,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 92.103638,
     "fundamental_target_price": 83.080416,
-    "last_market_update_utc": "2026-09-20T11:27:37.875794+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325590+00:00"
   },
   {
     "ticker": "SLB",
@@ -24357,7 +24357,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 62.036037,
     "fundamental_target_price": 39.302334,
-    "last_market_update_utc": "2026-09-20T11:27:37.875799+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325597+00:00"
   },
   {
     "ticker": "MCO",
@@ -24417,7 +24417,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 561.9066750000001,
     "fundamental_target_price": 255.36277000000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.875805+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325605+00:00"
   },
   {
     "ticker": "BNY",
@@ -24477,7 +24477,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 167.329084,
     "fundamental_target_price": 136.668844,
-    "last_market_update_utc": "2026-09-20T11:27:37.875810+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325612+00:00"
   },
   {
     "ticker": "VST",
@@ -24537,7 +24537,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 217.42559000000003,
     "fundamental_target_price": 127.23346000000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.875815+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325620+00:00"
   },
   {
     "ticker": "NSC",
@@ -24597,7 +24597,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 365.27230199999997,
     "fundamental_target_price": 274.143666,
-    "last_market_update_utc": "2026-09-20T11:27:37.875821+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325628+00:00"
   },
   {
     "ticker": "CME",
@@ -24657,7 +24657,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 283.06212700000003,
     "fundamental_target_price": 157.69117400000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.875827+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325637+00:00"
   },
   {
     "ticker": "INTC",
@@ -24717,7 +24717,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 115.78388000000001,
     "fundamental_target_price": 41.50056,
-    "last_market_update_utc": "2026-09-20T11:27:37.875832+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325644+00:00"
   },
   {
     "ticker": "YUM",
@@ -24777,7 +24777,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 173.33157100000003,
     "fundamental_target_price": 103.191137,
-    "last_market_update_utc": "2026-09-20T11:27:37.875838+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325652+00:00"
   },
   {
     "ticker": "EW",
@@ -24837,7 +24837,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 100.9577,
     "fundamental_target_price": 57.356199999999994,
-    "last_market_update_utc": "2026-09-20T11:27:37.875843+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325659+00:00"
   },
   {
     "ticker": "GLW",
@@ -24897,7 +24897,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 191.39372,
     "fundamental_target_price": 63.41730000000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875848+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325666+00:00"
   },
   {
     "ticker": "BX",
@@ -24957,7 +24957,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 144.04670000000002,
     "fundamental_target_price": 99.920485,
-    "last_market_update_utc": "2026-09-20T11:27:37.875853+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325674+00:00"
   },
   {
     "ticker": "CMS",
@@ -25017,7 +25017,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 79.58475,
     "fundamental_target_price": 67.93970399999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.875859+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325682+00:00"
   },
   {
     "ticker": "TAP",
@@ -25077,7 +25077,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 45.47745,
     "fundamental_target_price": 100.69515,
-    "last_market_update_utc": "2026-09-20T11:27:37.875864+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325689+00:00"
   },
   {
     "ticker": "V",
@@ -25137,7 +25137,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 419.365767,
     "fundamental_target_price": 197.024271,
-    "last_market_update_utc": "2026-09-20T11:27:37.875870+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325697+00:00"
   },
   {
     "ticker": "NDAQ",
@@ -25197,7 +25197,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 109.86191999999998,
     "fundamental_target_price": 57.98268,
-    "last_market_update_utc": "2026-09-20T11:27:37.875875+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325704+00:00"
   },
   {
     "ticker": "JNJ",
@@ -25257,7 +25257,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 275.642845,
     "fundamental_target_price": 199.92707199999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875880+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325712+00:00"
   },
   {
     "ticker": "TMO",
@@ -25317,7 +25317,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 638.085688,
     "fundamental_target_price": 428.72533,
-    "last_market_update_utc": "2026-09-20T11:27:37.875886+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325719+00:00"
   },
   {
     "ticker": "SRE",
@@ -25377,7 +25377,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 101.82286400000001,
     "fundamental_target_price": 77.661364,
-    "last_market_update_utc": "2026-09-20T11:27:37.875891+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325727+00:00"
   },
   {
     "ticker": "L",
@@ -25437,7 +25437,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": null,
     "fundamental_target_price": 110.37114,
-    "last_market_update_utc": "2026-09-20T11:27:37.875896+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325734+00:00"
   },
   {
     "ticker": "PANW",
@@ -25497,7 +25497,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 390.51406799999995,
     "fundamental_target_price": 101.71095199999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.875902+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325742+00:00"
   },
   {
     "ticker": "ETR",
@@ -25557,7 +25557,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 123.027963,
     "fundamental_target_price": 87.028151,
-    "last_market_update_utc": "2026-09-20T11:27:37.875907+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325749+00:00"
   },
   {
     "ticker": "NWS",
@@ -25617,7 +25617,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": null,
     "fundamental_target_price": 30.6117,
-    "last_market_update_utc": "2026-09-20T11:27:37.875912+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325757+00:00"
   },
   {
     "ticker": "ARES",
@@ -25677,7 +25677,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 147.49386,
     "fundamental_target_price": 74.27950000000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875918+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325764+00:00"
   },
   {
     "ticker": "AWK",
@@ -25737,7 +25737,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 140.36231999999998,
     "fundamental_target_price": 111.87057,
-    "last_market_update_utc": "2026-09-20T11:27:37.875924+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325772+00:00"
   },
   {
     "ticker": "DTE",
@@ -25797,7 +25797,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 156.859416,
     "fundamental_target_price": 117.98136000000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875929+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325780+00:00"
   },
   {
     "ticker": "META",
@@ -25857,7 +25857,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 754.803126,
     "fundamental_target_price": 408.24006299999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.875935+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325787+00:00"
   },
   {
     "ticker": "CRL",
@@ -25917,7 +25917,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 280.99899999999997,
     "fundamental_target_price": 226.12630000000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875940+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325795+00:00"
   },
   {
     "ticker": "PG",
@@ -25977,7 +25977,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 160.61539199999999,
     "fundamental_target_price": 118.76284000000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875945+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325802+00:00"
   },
   {
     "ticker": "ETN",
@@ -26037,7 +26037,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 475.558875,
     "fundamental_target_price": 265.69669500000003,
-    "last_market_update_utc": "2026-09-20T11:27:37.875950+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325810+00:00"
   },
   {
     "ticker": "ERIE",
@@ -26097,7 +26097,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": null,
     "fundamental_target_price": 183.25472,
-    "last_market_update_utc": "2026-09-20T11:27:37.875955+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325817+00:00"
   },
   {
     "ticker": "VMC",
@@ -26157,7 +26157,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 325.739989,
     "fundamental_target_price": 182.028853,
-    "last_market_update_utc": "2026-09-20T11:27:37.875960+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325824+00:00"
   },
   {
     "ticker": "GIS",
@@ -26217,7 +26217,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 37.776914,
     "fundamental_target_price": 73.620183,
-    "last_market_update_utc": "2026-09-20T11:27:37.875966+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325832+00:00"
   },
   {
     "ticker": "D",
@@ -26277,7 +26277,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 71.81827200000001,
     "fundamental_target_price": 64.049152,
-    "last_market_update_utc": "2026-09-20T11:27:37.875971+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325839+00:00"
   },
   {
     "ticker": "VRTX",
@@ -26337,7 +26337,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 569.548548,
     "fundamental_target_price": 323.08459199999993,
-    "last_market_update_utc": "2026-09-20T11:27:37.875976+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325847+00:00"
   },
   {
     "ticker": "DRI",
@@ -26397,7 +26397,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 231.042264,
     "fundamental_target_price": 189.76999999999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.875982+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325854+00:00"
   },
   {
     "ticker": "RMD",
@@ -26457,7 +26457,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 246.11563,
     "fundamental_target_price": 206.38273,
-    "last_market_update_utc": "2026-09-20T11:27:37.875987+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325862+00:00"
   },
   {
     "ticker": "GWW",
@@ -26517,7 +26517,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1332.569389,
     "fundamental_target_price": 973.2352520000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.875992+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325869+00:00"
   },
   {
     "ticker": "AES",
@@ -26577,7 +26577,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 15.000017999999999,
     "fundamental_target_price": 35.772573,
-    "last_market_update_utc": "2026-09-20T11:27:37.875998+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325876+00:00"
   },
   {
     "ticker": "MAR",
@@ -26637,7 +26637,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 380.626461,
     "fundamental_target_price": 201.83869799999997,
-    "last_market_update_utc": "2026-09-20T11:27:37.876004+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325884+00:00"
   },
   {
     "ticker": "TKO",
@@ -26697,7 +26697,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 231.15462699999998,
     "fundamental_target_price": 78.831038,
-    "last_market_update_utc": "2026-09-20T11:27:37.876009+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325890+00:00"
   },
   {
     "ticker": "NEE",
@@ -26757,7 +26757,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 98.38899900000001,
     "fundamental_target_price": 57.207951,
-    "last_market_update_utc": "2026-09-20T11:27:37.876014+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325898+00:00"
   },
   {
     "ticker": "F",
@@ -26817,7 +26817,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 15.853928,
     "fundamental_target_price": 32.131836,
-    "last_market_update_utc": "2026-09-20T11:27:37.876020+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325906+00:00"
   },
   {
     "ticker": "CTAS",
@@ -26877,7 +26877,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 216.30713,
     "fundamental_target_price": 117.51551400000001,
-    "last_market_update_utc": "2026-09-20T11:27:37.876025+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325913+00:00"
   },
   {
     "ticker": "MSCI",
@@ -26937,7 +26937,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 692.081478,
     "fundamental_target_price": 278.48286,
-    "last_market_update_utc": "2026-09-20T11:27:37.876030+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325921+00:00"
   },
   {
     "ticker": "PM",
@@ -26997,7 +26997,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 207.135044,
     "fundamental_target_price": 129.59629999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.876036+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325929+00:00"
   },
   {
     "ticker": "WAT",
@@ -27057,7 +27057,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 440.656632,
     "fundamental_target_price": 226.50995399999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.876042+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325937+00:00"
   },
   {
     "ticker": "GRMN",
@@ -27117,7 +27117,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 290.27203399999996,
     "fundamental_target_price": 165.774752,
-    "last_market_update_utc": "2026-09-20T11:27:37.876047+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325944+00:00"
   },
   {
     "ticker": "DE",
@@ -27177,7 +27177,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 685.20764,
     "fundamental_target_price": 449.476793,
-    "last_market_update_utc": "2026-09-20T11:27:37.876053+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325952+00:00"
   },
   {
     "ticker": "IDXX",
@@ -27237,7 +27237,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 698.93859,
     "fundamental_target_price": 295.690374,
-    "last_market_update_utc": "2026-09-20T11:27:37.876058+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325960+00:00"
   },
   {
     "ticker": "LIN",
@@ -27297,7 +27297,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 544.5253140000001,
     "fundamental_target_price": 295.568073,
-    "last_market_update_utc": "2026-09-20T11:27:37.876064+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325968+00:00"
   },
   {
     "ticker": "KHC",
@@ -27357,7 +27357,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 25.148200000000003,
     "fundamental_target_price": 44.548595,
-    "last_market_update_utc": "2026-09-20T11:27:37.876069+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325976+00:00"
   },
   {
     "ticker": "ECL",
@@ -27417,7 +27417,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 324.94228,
     "fundamental_target_price": 150.81119999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.876074+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325984+00:00"
   },
   {
     "ticker": "TSCO",
@@ -27477,7 +27477,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 35.630317,
     "fundamental_target_price": 26.127033,
-    "last_market_update_utc": "2026-09-20T11:27:37.876080+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325992+00:00"
   },
   {
     "ticker": "MNST",
@@ -27537,7 +27537,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 50.261540000000004,
     "fundamental_target_price": 19.517428000000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.876085+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.325999+00:00"
   },
   {
     "ticker": "KMB",
@@ -27597,7 +27597,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 118.60479999999998,
     "fundamental_target_price": 96.804608,
-    "last_market_update_utc": "2026-09-20T11:27:37.876091+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326007+00:00"
   },
   {
     "ticker": "PNW",
@@ -27657,7 +27657,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 105.84820799999999,
     "fundamental_target_price": 95.579352,
-    "last_market_update_utc": "2026-09-20T11:27:37.876096+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326015+00:00"
   },
   {
     "ticker": "COIN",
@@ -27717,7 +27717,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 198.96806399999997,
     "fundamental_target_price": 83.51267199999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.876102+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326023+00:00"
   },
   {
     "ticker": "AJG",
@@ -27777,7 +27777,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 291.559631,
     "fundamental_target_price": 166.125156,
-    "last_market_update_utc": "2026-09-20T11:27:37.876108+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326030+00:00"
   },
   {
     "ticker": "VMRK",
@@ -27837,7 +27837,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 73.96312999999999,
     "fundamental_target_price": 42.379475,
-    "last_market_update_utc": "2026-09-20T11:27:37.876113+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326038+00:00"
   },
   {
     "ticker": "MDLZ",
@@ -27897,7 +27897,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 69.12996799999999,
     "fundamental_target_price": 44.268671999999995,
-    "last_market_update_utc": "2026-09-20T11:27:37.876118+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326045+00:00"
   },
   {
     "ticker": "DHR",
@@ -27957,7 +27957,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 229.090512,
     "fundamental_target_price": 152.83776,
-    "last_market_update_utc": "2026-09-20T11:27:37.876123+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326052+00:00"
   },
   {
     "ticker": "HOOD",
@@ -28017,7 +28017,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 125.44360300000001,
     "fundamental_target_price": 43.971810999999995,
-    "last_market_update_utc": "2026-09-20T11:27:37.876129+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326060+00:00"
   },
   {
     "ticker": "CASY",
@@ -28077,7 +28077,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 939.0637800000001,
     "fundamental_target_price": 373.130415,
-    "last_market_update_utc": "2026-09-20T11:27:37.876134+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326067+00:00"
   },
   {
     "ticker": "MOS",
@@ -28137,7 +28137,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 26.467815,
     "fundamental_target_price": 34.55111,
-    "last_market_update_utc": "2026-09-20T11:27:37.876140+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326075+00:00"
   },
   {
     "ticker": "EL",
@@ -28197,7 +28197,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 107.038116,
     "fundamental_target_price": 77.822298,
-    "last_market_update_utc": "2026-09-20T11:27:37.876146+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326082+00:00"
   },
   {
     "ticker": "IBKR",
@@ -28257,7 +28257,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 105.734992,
     "fundamental_target_price": 42.419959999999996,
-    "last_market_update_utc": "2026-09-20T11:27:37.876151+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326090+00:00"
   },
   {
     "ticker": "CVNA",
@@ -28317,7 +28317,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 82.973916,
     "fundamental_target_price": 25.472485000000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.876156+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326097+00:00"
   },
   {
     "ticker": "AXON",
@@ -28377,7 +28377,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 693.4214489999999,
     "fundamental_target_price": 104.99041199999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.876162+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326104+00:00"
   },
   {
     "ticker": "CRWD",
@@ -28437,7 +28437,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 231.53315,
     "fundamental_target_price": 31.943689999999982,
-    "last_market_update_utc": "2026-09-20T11:27:37.876168+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326112+00:00"
   },
   {
     "ticker": "VTR",
@@ -28497,7 +28497,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 101.860668,
     "fundamental_target_price": 53.539137,
-    "last_market_update_utc": "2026-09-20T11:27:37.876173+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326119+00:00"
   },
   {
     "ticker": "TECH",
@@ -28557,7 +28557,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 70.727895,
     "fundamental_target_price": 36.57715,
-    "last_market_update_utc": "2026-09-20T11:27:37.876178+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326127+00:00"
   },
   {
     "ticker": "XYZ",
@@ -28617,7 +28617,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 98.145084,
     "fundamental_target_price": 50.251872,
-    "last_market_update_utc": "2026-09-20T11:27:37.876184+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326134+00:00"
   },
   {
     "ticker": "LYV",
@@ -28677,7 +28677,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 201.95399999999998,
     "fundamental_target_price": 83.48819999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.876189+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326142+00:00"
   },
   {
     "ticker": "MLM",
@@ -28737,7 +28737,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 661.5309269999999,
     "fundamental_target_price": 286.05768900000004,
-    "last_market_update_utc": "2026-09-20T11:27:37.876194+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326150+00:00"
   },
   {
     "ticker": "CHD",
@@ -28797,7 +28797,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 105.36966,
     "fundamental_target_price": 69.00470999999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.876200+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326158+00:00"
   },
   {
     "ticker": "FDXF",
@@ -28857,7 +28857,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 169.41121499999997,
     "fundamental_target_price": 85.33344,
-    "last_market_update_utc": "2026-09-20T11:27:37.876205+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326165+00:00"
   },
   {
     "ticker": "MTD",
@@ -28917,7 +28917,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1451.9391179999998,
     "fundamental_target_price": 881.683404,
-    "last_market_update_utc": "2026-09-20T11:27:37.876211+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326173+00:00"
   },
   {
     "ticker": "ADM",
@@ -28977,7 +28977,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 78.704222,
     "fundamental_target_price": 66.478077,
-    "last_market_update_utc": "2026-09-20T11:27:37.876217+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326181+00:00"
   },
   {
     "ticker": "HLT",
@@ -29037,7 +29037,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 352.84700200000003,
     "fundamental_target_price": 153.660684,
-    "last_market_update_utc": "2026-09-20T11:27:37.876223+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326189+00:00"
   },
   {
     "ticker": "PKG",
@@ -29097,7 +29097,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 260.50050000000005,
     "fundamental_target_price": 190.60665,
-    "last_market_update_utc": "2026-09-20T11:27:37.876228+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326196+00:00"
   },
   {
     "ticker": "KMI",
@@ -29157,7 +29157,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 36.05034,
     "fundamental_target_price": 15.31692,
-    "last_market_update_utc": "2026-09-20T11:27:37.876234+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326204+00:00"
   },
   {
     "ticker": "KO",
@@ -29217,7 +29217,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 94.69286399999999,
     "fundamental_target_price": 41.05823399999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.876239+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326212+00:00"
   },
   {
     "ticker": "CPT",
@@ -29277,7 +29277,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 117.379314,
     "fundamental_target_price": 56.94577199999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.876244+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326220+00:00"
   },
   {
     "ticker": "WY",
@@ -29337,7 +29337,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 31.001034,
     "fundamental_target_price": 11.55604,
-    "last_market_update_utc": "2026-09-20T11:27:37.876249+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326227+00:00"
   },
   {
     "ticker": "TTWO",
@@ -29397,7 +29397,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 286.890247,
     "fundamental_target_price": 110.543881,
-    "last_market_update_utc": "2026-09-20T11:27:37.876255+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326235+00:00"
   },
   {
     "ticker": "TSLA",
@@ -29457,7 +29457,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 390.08993599999997,
     "fundamental_target_price": 37.072176000000006,
-    "last_market_update_utc": "2026-09-20T11:27:37.876261+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326242+00:00"
   },
   {
     "ticker": "OKE",
@@ -29517,7 +29517,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 99.943839,
     "fundamental_target_price": 56.11284,
-    "last_market_update_utc": "2026-09-20T11:27:37.876266+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326250+00:00"
   },
   {
     "ticker": "FAST",
@@ -29577,7 +29577,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 48.52864,
     "fundamental_target_price": 26.848480000000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.876272+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326258+00:00"
   },
   {
     "ticker": "SBUX",
@@ -29637,7 +29637,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 112.22167400000001,
     "fundamental_target_price": 56.977938,
-    "last_market_update_utc": "2026-09-20T11:27:37.876277+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326265+00:00"
   },
   {
     "ticker": "WELL",
@@ -29697,7 +29697,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 261.581892,
     "fundamental_target_price": 88.37481399999999,
-    "last_market_update_utc": "2026-09-20T11:27:37.876283+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326273+00:00"
   },
   {
     "ticker": "IFF",
@@ -29757,7 +29757,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 95.65852999999998,
     "fundamental_target_price": 62.82826,
-    "last_market_update_utc": "2026-09-20T11:27:37.876288+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326281+00:00"
   },
   {
     "ticker": "APD",
@@ -29817,7 +29817,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 343.628562,
     "fundamental_target_price": 194.289023,
-    "last_market_update_utc": "2026-09-20T11:27:37.876294+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326288+00:00"
   },
   {
     "ticker": "COST",
@@ -29877,7 +29877,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 1072.239966,
     "fundamental_target_price": 356.22286,
-    "last_market_update_utc": "2026-09-20T11:27:37.876299+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326296+00:00"
   },
   {
     "ticker": "WMB",
@@ -29937,7 +29937,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 85.472705,
     "fundamental_target_price": 31.484090000000002,
-    "last_market_update_utc": "2026-09-20T11:27:37.876304+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326303+00:00"
   },
   {
     "ticker": "TRGP",
@@ -29997,7 +29997,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 313.108975,
     "fundamental_target_price": 104.53401999999998,
-    "last_market_update_utc": "2026-09-20T11:27:37.876310+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326311+00:00"
   },
   {
     "ticker": "WMT",
@@ -30057,7 +30057,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 127.721594,
     "fundamental_target_price": 43.60598,
-    "last_market_update_utc": "2026-09-20T11:27:37.876316+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326318+00:00"
   },
   {
     "ticker": "CLX",
@@ -30117,7 +30117,7 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 101.649438,
     "fundamental_target_price": 63.615816,
-    "last_market_update_utc": "2026-09-20T11:27:37.876321+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326325+00:00"
   },
   {
     "ticker": "MRNA",
@@ -30177,6 +30177,6 @@
     "qualified_strong_candidate": false,
     "analyst_target_price": 116.49822,
     "fundamental_target_price": 19.809355,
-    "last_market_update_utc": "2026-09-20T11:27:37.876326+00:00"
+    "last_market_update_utc": "2026-09-22T01:04:13.326333+00:00"
   }
 ]
