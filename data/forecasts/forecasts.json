@@ -232,6 +232,14 @@
         "actual_price": 245.16,
         "monthly_accuracy_pct": 91.16,
         "target_progress_pct": 35.35
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 225.81,
+        "actual_price": 239.9,
+        "monthly_accuracy_pct": 93.76,
+        "target_progress_pct": 28.53
       }
     ]
   },
@@ -468,6 +476,14 @@
         "actual_price": 931.24,
         "monthly_accuracy_pct": 86.56,
         "target_progress_pct": -12.41
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1080.35,
+        "actual_price": 878.84,
+        "monthly_accuracy_pct": 81.35,
+        "target_progress_pct": -20.03
       }
     ]
   },
@@ -704,6 +720,14 @@
         "actual_price": 73.7,
         "monthly_accuracy_pct": 93.68,
         "target_progress_pct": -1.37
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 79.0,
+        "actual_price": 72.02,
+        "monthly_accuracy_pct": 91.16,
+        "target_progress_pct": -4.74
       }
     ]
   },
@@ -940,6 +964,14 @@
         "actual_price": 231.09,
         "monthly_accuracy_pct": 97.71,
         "target_progress_pct": 3.51
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 237.17,
+        "actual_price": 229.33,
+        "monthly_accuracy_pct": 96.7,
+        "target_progress_pct": 1.61
       }
     ]
   },
@@ -1176,6 +1208,14 @@
         "actual_price": 178.81,
         "monthly_accuracy_pct": 84.36,
         "target_progress_pct": -32.15
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 212.53,
+        "actual_price": 172.64,
+        "monthly_accuracy_pct": 81.23,
+        "target_progress_pct": -39.89
       }
     ]
   },
@@ -1412,6 +1452,14 @@
         "actual_price": 58.63,
         "monthly_accuracy_pct": 91.95,
         "target_progress_pct": 26.83
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 54.44,
+        "actual_price": 55.13,
+        "monthly_accuracy_pct": 98.72,
+        "target_progress_pct": 12.67
       }
     ]
   },
@@ -1648,6 +1696,14 @@
         "actual_price": 86.58,
         "monthly_accuracy_pct": 98.3,
         "target_progress_pct": 3.34
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 88.25,
+        "actual_price": 85.71,
+        "monthly_accuracy_pct": 97.12,
+        "target_progress_pct": -0.43
       }
     ]
   },
@@ -1884,6 +1940,14 @@
         "actual_price": 330.17,
         "monthly_accuracy_pct": 94.57,
         "target_progress_pct": -1.38
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 350.38,
+        "actual_price": 325.15,
+        "monthly_accuracy_pct": 92.8,
+        "target_progress_pct": -4.11
       }
     ]
   },
@@ -2120,6 +2184,14 @@
         "actual_price": 98.18,
         "monthly_accuracy_pct": 75.68,
         "target_progress_pct": -79.56
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 130.0,
+        "actual_price": 95.48,
+        "monthly_accuracy_pct": 73.45,
+        "target_progress_pct": -87.2
       }
     ]
   },
@@ -2356,6 +2428,14 @@
         "actual_price": 210.5,
         "monthly_accuracy_pct": 97.87,
         "target_progress_pct": 1.6
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 215.51,
+        "actual_price": 211.41,
+        "monthly_accuracy_pct": 98.1,
+        "target_progress_pct": 3.23
       }
     ]
   },
@@ -2592,6 +2672,14 @@
         "actual_price": 193.15,
         "monthly_accuracy_pct": 68.12,
         "target_progress_pct": 89.57
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 146.87,
+        "actual_price": 192.98,
+        "monthly_accuracy_pct": 68.61,
+        "target_progress_pct": 89.28
       }
     ]
   },
@@ -2828,6 +2916,14 @@
         "actual_price": 174.11,
         "monthly_accuracy_pct": 98.05,
         "target_progress_pct": 2.56
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 177.94,
+        "actual_price": 175.11,
+        "monthly_accuracy_pct": 98.41,
+        "target_progress_pct": 4.65
       }
     ]
   },
@@ -3064,6 +3160,14 @@
         "actual_price": 36.13,
         "monthly_accuracy_pct": 83.82,
         "target_progress_pct": -46.04
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 43.2,
+        "actual_price": 36.01,
+        "monthly_accuracy_pct": 83.36,
+        "target_progress_pct": -47.0
       }
     ]
   },
@@ -3300,6 +3404,14 @@
         "actual_price": 926.44,
         "monthly_accuracy_pct": 95.55,
         "target_progress_pct": -5.46
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 971.65,
+        "actual_price": 921.2,
+        "monthly_accuracy_pct": 94.81,
+        "target_progress_pct": -7.3
       }
     ]
   },
@@ -3536,6 +3648,14 @@
         "actual_price": 78.42,
         "monthly_accuracy_pct": 99.46,
         "target_progress_pct": 11.58
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 78.17,
+        "actual_price": 79.38,
+        "monthly_accuracy_pct": 98.45,
+        "target_progress_pct": 15.84
       }
     ]
   },
@@ -3772,6 +3892,14 @@
         "actual_price": 38.32,
         "monthly_accuracy_pct": 84.56,
         "target_progress_pct": -64.23
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 45.39,
+        "actual_price": 38.01,
+        "monthly_accuracy_pct": 83.75,
+        "target_progress_pct": -67.52
       }
     ]
   },
@@ -4008,6 +4136,14 @@
         "actual_price": 532.64,
         "monthly_accuracy_pct": 98.95,
         "target_progress_pct": 5.61
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 539.25,
+        "actual_price": 552.09,
+        "monthly_accuracy_pct": 97.62,
+        "target_progress_pct": 20.43
       }
     ]
   },
@@ -4244,6 +4380,14 @@
         "actual_price": 103.37,
         "monthly_accuracy_pct": 95.72,
         "target_progress_pct": -10.1
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 108.17,
+        "actual_price": 104.05,
+        "monthly_accuracy_pct": 96.19,
+        "target_progress_pct": -7.14
       }
     ]
   },
@@ -4480,6 +4624,14 @@
         "actual_price": 291.87,
         "monthly_accuracy_pct": 95.62,
         "target_progress_pct": -8.51
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 305.78,
+        "actual_price": 288.95,
+        "monthly_accuracy_pct": 94.5,
+        "target_progress_pct": -12.54
       }
     ]
   },
@@ -4716,6 +4868,14 @@
         "actual_price": 53.45,
         "monthly_accuracy_pct": 86.48,
         "target_progress_pct": -41.52
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 61.93,
+        "actual_price": 53.44,
+        "monthly_accuracy_pct": 86.29,
+        "target_progress_pct": -41.58
       }
     ]
   },
@@ -4952,6 +5112,14 @@
         "actual_price": 55.65,
         "monthly_accuracy_pct": 95.64,
         "target_progress_pct": -7.8
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 58.3,
+        "actual_price": 55.93,
+        "monthly_accuracy_pct": 95.94,
+        "target_progress_pct": -5.85
       }
     ]
   },
@@ -5188,6 +5356,14 @@
         "actual_price": 131.6,
         "monthly_accuracy_pct": 98.04,
         "target_progress_pct": 0.04
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 134.43,
+        "actual_price": 130.45,
+        "monthly_accuracy_pct": 97.04,
+        "target_progress_pct": -4.35
       }
     ]
   },
@@ -5424,6 +5600,14 @@
         "actual_price": 769.93,
         "monthly_accuracy_pct": 78.95,
         "target_progress_pct": -34.26
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 978.47,
+        "actual_price": 771.19,
+        "monthly_accuracy_pct": 78.82,
+        "target_progress_pct": -33.99
       }
     ]
   },
@@ -5660,6 +5844,14 @@
         "actual_price": 287.14,
         "monthly_accuracy_pct": 89.42,
         "target_progress_pct": -21.19
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 321.91,
+        "actual_price": 278.25,
+        "monthly_accuracy_pct": 86.44,
+        "target_progress_pct": -29.23
       }
     ]
   },
@@ -5896,6 +6088,14 @@
         "actual_price": 92.32,
         "monthly_accuracy_pct": 84.45,
         "target_progress_pct": -29.34
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 109.63,
+        "actual_price": 87.81,
+        "monthly_accuracy_pct": 80.09,
+        "target_progress_pct": -39.6
       }
     ]
   },
@@ -6132,6 +6332,14 @@
         "actual_price": 178.4,
         "monthly_accuracy_pct": 99.81,
         "target_progress_pct": 8.27
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 179.52,
+        "actual_price": 172.11,
+        "monthly_accuracy_pct": 95.87,
+        "target_progress_pct": 2.89
       }
     ]
   },
@@ -6368,6 +6576,14 @@
         "actual_price": 26.46,
         "monthly_accuracy_pct": 89.44,
         "target_progress_pct": 71.08
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 23.96,
+        "actual_price": 25.9,
+        "monthly_accuracy_pct": 91.92,
+        "target_progress_pct": 57.59
       }
     ]
   },
@@ -6604,6 +6820,14 @@
         "actual_price": 499.63,
         "monthly_accuracy_pct": 94.41,
         "target_progress_pct": -10.56
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 530.28,
+        "actual_price": 519.86,
+        "monthly_accuracy_pct": 98.04,
+        "target_progress_pct": 3.36
       }
     ]
   },
@@ -6840,6 +7064,14 @@
         "actual_price": 60.97,
         "monthly_accuracy_pct": 99.38,
         "target_progress_pct": 7.68
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 61.49,
+        "actual_price": 59.46,
+        "monthly_accuracy_pct": 96.69,
+        "target_progress_pct": -0.05
       }
     ]
   },
@@ -7076,6 +7308,14 @@
         "actual_price": 406.67,
         "monthly_accuracy_pct": 99.88,
         "target_progress_pct": 9.4
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 407.92,
+        "actual_price": 401.43,
+        "monthly_accuracy_pct": 98.41,
+        "target_progress_pct": 4.23
       }
     ]
   },
@@ -7312,6 +7552,14 @@
         "actual_price": 161.26,
         "monthly_accuracy_pct": 89.16,
         "target_progress_pct": -41.45
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 181.16,
+        "actual_price": 161.25,
+        "monthly_accuracy_pct": 89.01,
+        "target_progress_pct": -41.48
       }
     ]
   },
@@ -7548,6 +7796,14 @@
         "actual_price": 189.16,
         "monthly_accuracy_pct": 99.39,
         "target_progress_pct": 7.77
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 190.8,
+        "actual_price": 187.31,
+        "monthly_accuracy_pct": 98.17,
+        "target_progress_pct": 4.99
       }
     ]
   },
@@ -7784,6 +8040,14 @@
         "actual_price": 119.75,
         "monthly_accuracy_pct": 96.09,
         "target_progress_pct": -9.7
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 124.81,
+        "actual_price": 120.18,
+        "monthly_accuracy_pct": 96.29,
+        "target_progress_pct": -7.95
       }
     ]
   },
@@ -8020,6 +8284,14 @@
         "actual_price": 78.08,
         "monthly_accuracy_pct": 95.12,
         "target_progress_pct": -10.84
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 82.23,
+        "actual_price": 75.37,
+        "monthly_accuracy_pct": 91.66,
+        "target_progress_pct": -24.9
       }
     ]
   },
@@ -8256,6 +8528,14 @@
         "actual_price": 92.58,
         "monthly_accuracy_pct": 93.7,
         "target_progress_pct": -20.19
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 98.96,
+        "actual_price": 92.36,
+        "monthly_accuracy_pct": 93.33,
+        "target_progress_pct": -21.26
       }
     ]
   },
@@ -8492,6 +8772,14 @@
         "actual_price": 44.14,
         "monthly_accuracy_pct": 89.61,
         "target_progress_pct": -24.27
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 49.37,
+        "actual_price": 44.39,
+        "monthly_accuracy_pct": 89.92,
+        "target_progress_pct": -22.61
       }
     ]
   },
@@ -8728,6 +9016,14 @@
         "actual_price": 45.19,
         "monthly_accuracy_pct": 91.68,
         "target_progress_pct": -20.12
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 49.39,
+        "actual_price": 44.86,
+        "monthly_accuracy_pct": 90.82,
+        "target_progress_pct": -22.52
       }
     ]
   },
@@ -8964,6 +9260,14 @@
         "actual_price": 214.7,
         "monthly_accuracy_pct": 88.66,
         "target_progress_pct": 37.43
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 193.4,
+        "actual_price": 203.8,
+        "monthly_accuracy_pct": 94.62,
+        "target_progress_pct": 23.42
       }
     ]
   },
@@ -9200,6 +9504,14 @@
         "actual_price": 32.0,
         "monthly_accuracy_pct": 97.84,
         "target_progress_pct": 5.22
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 32.85,
+        "actual_price": 32.31,
+        "monthly_accuracy_pct": 98.37,
+        "target_progress_pct": 6.71
       }
     ]
   },
@@ -9436,6 +9748,14 @@
         "actual_price": 71.27,
         "monthly_accuracy_pct": 92.39,
         "target_progress_pct": -33.04
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 77.25,
+        "actual_price": 70.35,
+        "monthly_accuracy_pct": 91.07,
+        "target_progress_pct": -39.81
       }
     ]
   },
@@ -9672,6 +9992,14 @@
         "actual_price": 251.67,
         "monthly_accuracy_pct": 90.55,
         "target_progress_pct": -11.93
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 278.8,
+        "actual_price": 245.2,
+        "monthly_accuracy_pct": 87.95,
+        "target_progress_pct": -17.13
       }
     ]
   },
@@ -9908,6 +10236,14 @@
         "actual_price": 124.0,
         "monthly_accuracy_pct": 90.36,
         "target_progress_pct": -20.82
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 137.55,
+        "actual_price": 124.85,
+        "monthly_accuracy_pct": 90.77,
+        "target_progress_pct": -18.87
       }
     ]
   },
@@ -10144,6 +10480,14 @@
         "actual_price": 281.87,
         "monthly_accuracy_pct": 96.68,
         "target_progress_pct": -6.71
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 291.99,
+        "actual_price": 283.31,
+        "monthly_accuracy_pct": 97.03,
+        "target_progress_pct": -4.21
       }
     ]
   },
@@ -10380,6 +10724,14 @@
         "actual_price": 246.74,
         "monthly_accuracy_pct": 90.27,
         "target_progress_pct": -7.75
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 274.42,
+        "actual_price": 240.7,
+        "monthly_accuracy_pct": 87.71,
+        "target_progress_pct": -11.49
       }
     ]
   },
@@ -10616,6 +10968,14 @@
         "actual_price": 195.6,
         "monthly_accuracy_pct": 96.49,
         "target_progress_pct": -10.54
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 202.99,
+        "actual_price": 203.95,
+        "monthly_accuracy_pct": 99.53,
+        "target_progress_pct": 13.77
       }
     ]
   },
@@ -10852,6 +11212,14 @@
         "actual_price": 134.47,
         "monthly_accuracy_pct": 80.74,
         "target_progress_pct": -28.04
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 167.14,
+        "actual_price": 128.23,
+        "monthly_accuracy_pct": 76.72,
+        "target_progress_pct": -35.24
       }
     ]
   },
@@ -11088,6 +11456,14 @@
         "actual_price": 34.1,
         "monthly_accuracy_pct": 88.72,
         "target_progress_pct": -25.2
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 38.53,
+        "actual_price": 34.05,
+        "monthly_accuracy_pct": 88.38,
+        "target_progress_pct": -25.6
       }
     ]
   },
@@ -11324,6 +11700,14 @@
         "actual_price": 181.36,
         "monthly_accuracy_pct": 98.81,
         "target_progress_pct": 16.55
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 179.48,
+        "actual_price": 185.27,
+        "monthly_accuracy_pct": 96.77,
+        "target_progress_pct": 28.29
       }
     ]
   },
@@ -11560,6 +11944,14 @@
         "actual_price": 149.34,
         "monthly_accuracy_pct": 92.32,
         "target_progress_pct": -30.0
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 162.0,
+        "actual_price": 147.31,
+        "monthly_accuracy_pct": 90.93,
+        "target_progress_pct": -36.55
       }
     ]
   },
@@ -11796,6 +12188,14 @@
         "actual_price": 406.2,
         "monthly_accuracy_pct": 94.88,
         "target_progress_pct": -8.45
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 429.0,
+        "actual_price": 399.84,
+        "monthly_accuracy_pct": 93.2,
+        "target_progress_pct": -13.74
       }
     ]
   },
@@ -12032,6 +12432,14 @@
         "actual_price": 196.63,
         "monthly_accuracy_pct": 95.44,
         "target_progress_pct": 0.72
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 206.81,
+        "actual_price": 190.81,
+        "monthly_accuracy_pct": 92.26,
+        "target_progress_pct": -4.29
       }
     ]
   },
@@ -12268,6 +12676,14 @@
         "actual_price": 377.51,
         "monthly_accuracy_pct": 99.36,
         "target_progress_pct": 11.38
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 376.04,
+        "actual_price": 369.01,
+        "monthly_accuracy_pct": 98.13,
+        "target_progress_pct": 4.83
       }
     ]
   },
@@ -12504,6 +12920,14 @@
         "actual_price": 382.45,
         "monthly_accuracy_pct": 91.17,
         "target_progress_pct": -19.68
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 420.43,
+        "actual_price": 382.71,
+        "monthly_accuracy_pct": 91.03,
+        "target_progress_pct": -19.48
       }
     ]
   },
@@ -12740,6 +13164,14 @@
         "actual_price": 76.97,
         "monthly_accuracy_pct": 82.69,
         "target_progress_pct": -96.49
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 93.2,
+        "actual_price": 75.6,
+        "monthly_accuracy_pct": 81.12,
+        "target_progress_pct": -105.56
       }
     ]
   },
@@ -12976,6 +13408,14 @@
         "actual_price": 101.31,
         "monthly_accuracy_pct": 88.68,
         "target_progress_pct": -34.62
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 114.46,
+        "actual_price": 96.1,
+        "monthly_accuracy_pct": 83.96,
+        "target_progress_pct": -52.53
       }
     ]
   },
@@ -13212,6 +13652,14 @@
         "actual_price": 187.33,
         "monthly_accuracy_pct": 98.61,
         "target_progress_pct": 3.67
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 190.3,
+        "actual_price": 190.9,
+        "monthly_accuracy_pct": 99.68,
+        "target_progress_pct": 12.18
       }
     ]
   },
@@ -13448,6 +13896,14 @@
         "actual_price": 115.79,
         "monthly_accuracy_pct": 88.01,
         "target_progress_pct": -34.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 131.83,
+        "actual_price": 118.6,
+        "monthly_accuracy_pct": 89.96,
+        "target_progress_pct": -26.73
       }
     ]
   },
@@ -13684,6 +14140,14 @@
         "actual_price": 358.5,
         "monthly_accuracy_pct": 88.91,
         "target_progress_pct": -24.17
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 404.19,
+        "actual_price": 357.73,
+        "monthly_accuracy_pct": 88.5,
+        "target_progress_pct": -24.75
       }
     ]
   },
@@ -13920,6 +14384,14 @@
         "actual_price": 356.45,
         "monthly_accuracy_pct": 71.61,
         "target_progress_pct": -30.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 500.12,
+        "actual_price": 332.0,
+        "monthly_accuracy_pct": 66.38,
+        "target_progress_pct": -37.4
       }
     ]
   },
@@ -14156,6 +14628,14 @@
         "actual_price": 135.49,
         "monthly_accuracy_pct": 89.76,
         "target_progress_pct": -40.08
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 151.18,
+        "actual_price": 133.08,
+        "monthly_accuracy_pct": 88.02,
+        "target_progress_pct": -47.89
       }
     ]
   },
@@ -14392,6 +14872,14 @@
         "actual_price": 102.86,
         "monthly_accuracy_pct": 84.7,
         "target_progress_pct": -67.17
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 121.63,
+        "actual_price": 103.75,
+        "monthly_accuracy_pct": 85.3,
+        "target_progress_pct": -63.47
       }
     ]
   },
@@ -14628,6 +15116,14 @@
         "actual_price": 342.08,
         "monthly_accuracy_pct": 99.66,
         "target_progress_pct": 10.01
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 341.96,
+        "actual_price": 331.21,
+        "monthly_accuracy_pct": 96.86,
+        "target_progress_pct": 2.69
       }
     ]
   },
@@ -14864,6 +15360,14 @@
         "actual_price": 26.8,
         "monthly_accuracy_pct": 92.92,
         "target_progress_pct": -36.14
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 28.88,
+        "actual_price": 27.07,
+        "monthly_accuracy_pct": 93.75,
+        "target_progress_pct": -30.0
       }
     ]
   },
@@ -15100,6 +15604,14 @@
         "actual_price": 109.85,
         "monthly_accuracy_pct": 97.46,
         "target_progress_pct": 1.77
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 112.98,
+        "actual_price": 107.39,
+        "monthly_accuracy_pct": 95.05,
+        "target_progress_pct": -4.94
       }
     ]
   },
@@ -15336,6 +15848,14 @@
         "actual_price": 253.71,
         "monthly_accuracy_pct": 99.97,
         "target_progress_pct": 9.95
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 254.13,
+        "actual_price": 254.06,
+        "monthly_accuracy_pct": 99.97,
+        "target_progress_pct": 10.48
       }
     ]
   },
@@ -15572,6 +16092,14 @@
         "actual_price": 72.61,
         "monthly_accuracy_pct": 90.74,
         "target_progress_pct": -31.77
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 80.16,
+        "actual_price": 70.53,
+        "monthly_accuracy_pct": 87.99,
+        "target_progress_pct": -43.49
       }
     ]
   },
@@ -15808,6 +16336,14 @@
         "actual_price": 53.68,
         "monthly_accuracy_pct": 79.33,
         "target_progress_pct": -62.75
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 67.81,
+        "actual_price": 54.65,
+        "monthly_accuracy_pct": 80.59,
+        "target_progress_pct": -57.72
       }
     ]
   },
@@ -16044,6 +16580,14 @@
         "actual_price": 468.11,
         "monthly_accuracy_pct": 84.92,
         "target_progress_pct": 55.03
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 407.74,
+        "actual_price": 454.63,
+        "monthly_accuracy_pct": 88.5,
+        "target_progress_pct": 45.04
       }
     ]
   },
@@ -16280,6 +16824,14 @@
         "actual_price": 98.41,
         "monthly_accuracy_pct": 95.39,
         "target_progress_pct": 39.02
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 94.19,
+        "actual_price": 98.76,
+        "monthly_accuracy_pct": 95.15,
+        "target_progress_pct": 41.34
       }
     ]
   },
@@ -16516,6 +17068,14 @@
         "actual_price": 47.23,
         "monthly_accuracy_pct": 92.37,
         "target_progress_pct": 39.5
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 43.97,
+        "actual_price": 49.15,
+        "monthly_accuracy_pct": 88.21,
+        "target_progress_pct": 56.51
       }
     ]
   },
@@ -16752,6 +17312,14 @@
         "actual_price": 279.29,
         "monthly_accuracy_pct": 83.96,
         "target_progress_pct": -32.08
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 333.55,
+        "actual_price": 266.13,
+        "monthly_accuracy_pct": 79.79,
+        "target_progress_pct": -42.31
       }
     ]
   },
@@ -16988,6 +17556,14 @@
         "actual_price": 59.47,
         "monthly_accuracy_pct": 96.2,
         "target_progress_pct": -7.54
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 61.92,
+        "actual_price": 59.22,
+        "monthly_accuracy_pct": 95.64,
+        "target_progress_pct": -9.41
       }
     ]
   },
@@ -17224,6 +17800,14 @@
         "actual_price": 29.48,
         "monthly_accuracy_pct": 70.03,
         "target_progress_pct": -134.63
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 42.16,
+        "actual_price": 28.6,
+        "monthly_accuracy_pct": 67.83,
+        "target_progress_pct": -144.72
       }
     ]
   },
@@ -17460,6 +18044,14 @@
         "actual_price": 90.8,
         "monthly_accuracy_pct": 91.04,
         "target_progress_pct": -39.52
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 99.87,
+        "actual_price": 93.41,
+        "monthly_accuracy_pct": 93.53,
+        "target_progress_pct": -25.01
       }
     ]
   },
@@ -17696,6 +18288,14 @@
         "actual_price": 109.99,
         "monthly_accuracy_pct": 70.4,
         "target_progress_pct": -96.33
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 156.57,
+        "actual_price": 110.11,
+        "monthly_accuracy_pct": 70.33,
+        "target_progress_pct": -96.06
       }
     ]
   },
@@ -17932,6 +18532,14 @@
         "actual_price": 157.03,
         "monthly_accuracy_pct": 85.22,
         "target_progress_pct": -91.52
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 184.48,
+        "actual_price": 159.1,
+        "monthly_accuracy_pct": 86.24,
+        "target_progress_pct": -83.78
       }
     ]
   },
@@ -18168,6 +18776,14 @@
         "actual_price": 60.67,
         "monthly_accuracy_pct": 99.08,
         "target_progress_pct": 5.33
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 61.32,
+        "actual_price": 62.38,
+        "monthly_accuracy_pct": 98.28,
+        "target_progress_pct": 19.78
       }
     ]
   },
@@ -18404,6 +19020,14 @@
         "actual_price": 267.22,
         "monthly_accuracy_pct": 90.71,
         "target_progress_pct": -20.92
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 295.24,
+        "actual_price": 272.0,
+        "monthly_accuracy_pct": 92.13,
+        "target_progress_pct": -15.57
       }
     ]
   },
@@ -18640,6 +19264,14 @@
         "actual_price": 298.81,
         "monthly_accuracy_pct": 96.15,
         "target_progress_pct": 31.66
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 288.14,
+        "actual_price": 302.3,
+        "monthly_accuracy_pct": 95.09,
+        "target_progress_pct": 38.44
       }
     ]
   },
@@ -18876,6 +19508,14 @@
         "actual_price": 212.99,
         "monthly_accuracy_pct": 100.0,
         "target_progress_pct": 10.07
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 213.31,
+        "actual_price": 212.64,
+        "monthly_accuracy_pct": 99.68,
+        "target_progress_pct": 9.26
       }
     ]
   },
@@ -19112,6 +19752,14 @@
         "actual_price": 239.6,
         "monthly_accuracy_pct": 90.11,
         "target_progress_pct": -31.22
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 266.39,
+        "actual_price": 247.88,
+        "monthly_accuracy_pct": 93.05,
+        "target_progress_pct": -18.28
       }
     ]
   },
@@ -19348,6 +19996,14 @@
         "actual_price": 13.13,
         "monthly_accuracy_pct": 85.67,
         "target_progress_pct": -12.29
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 15.4,
+        "actual_price": 12.23,
+        "monthly_accuracy_pct": 79.44,
+        "target_progress_pct": -20.79
       }
     ]
   },
@@ -19584,6 +20240,14 @@
         "actual_price": 167.22,
         "monthly_accuracy_pct": 96.18,
         "target_progress_pct": -14.41
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 174.07,
+        "actual_price": 171.25,
+        "monthly_accuracy_pct": 98.38,
+        "target_progress_pct": 0.56
       }
     ]
   },
@@ -19820,6 +20484,14 @@
         "actual_price": 532.73,
         "monthly_accuracy_pct": 92.58,
         "target_progress_pct": -18.81
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 576.52,
+        "actual_price": 531.33,
+        "monthly_accuracy_pct": 92.16,
+        "target_progress_pct": -19.75
       }
     ]
   },
@@ -20056,6 +20728,14 @@
         "actual_price": 72.58,
         "monthly_accuracy_pct": 97.71,
         "target_progress_pct": -0.76
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 74.4,
+        "actual_price": 72.87,
+        "monthly_accuracy_pct": 97.95,
+        "target_progress_pct": 1.08
       }
     ]
   },
@@ -20292,6 +20972,14 @@
         "actual_price": 23.46,
         "monthly_accuracy_pct": 90.73,
         "target_progress_pct": -45.9
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 25.89,
+        "actual_price": 23.6,
+        "monthly_accuracy_pct": 91.16,
+        "target_progress_pct": -42.62
       }
     ]
   },
@@ -20528,6 +21216,14 @@
         "actual_price": 24.82,
         "monthly_accuracy_pct": 77.58,
         "target_progress_pct": -39.69
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 32.1,
+        "actual_price": 24.16,
+        "monthly_accuracy_pct": 75.27,
+        "target_progress_pct": -44.18
       }
     ]
   },
@@ -20764,6 +21460,14 @@
         "actual_price": 57.16,
         "monthly_accuracy_pct": 99.59,
         "target_progress_pct": 10.57
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 57.08,
+        "actual_price": 56.7,
+        "monthly_accuracy_pct": 99.34,
+        "target_progress_pct": 8.36
       }
     ]
   },
@@ -21000,6 +21704,14 @@
         "actual_price": 183.72,
         "monthly_accuracy_pct": 94.43,
         "target_progress_pct": -10.95
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 194.95,
+        "actual_price": 187.06,
+        "monthly_accuracy_pct": 95.95,
+        "target_progress_pct": -4.55
       }
     ]
   },
@@ -21236,6 +21948,14 @@
         "actual_price": 70.4,
         "monthly_accuracy_pct": 97.12,
         "target_progress_pct": -6.47
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 72.58,
+        "actual_price": 71.33,
+        "monthly_accuracy_pct": 98.28,
+        "target_progress_pct": 0.96
       }
     ]
   },
@@ -21472,6 +22192,14 @@
         "actual_price": 167.59,
         "monthly_accuracy_pct": 94.13,
         "target_progress_pct": -17.79
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 178.32,
+        "actual_price": 168.77,
+        "monthly_accuracy_pct": 94.64,
+        "target_progress_pct": -14.65
       }
     ]
   },
@@ -21708,6 +22436,14 @@
         "actual_price": 1047.58,
         "monthly_accuracy_pct": 98.9,
         "target_progress_pct": 14.12
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1038.15,
+        "actual_price": 1029.64,
+        "monthly_accuracy_pct": 99.18,
+        "target_progress_pct": 7.41
       }
     ]
   },
@@ -21944,6 +22680,14 @@
         "actual_price": 198.4,
         "monthly_accuracy_pct": 97.58,
         "target_progress_pct": 16.54
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 194.2,
+        "actual_price": 192.68,
+        "monthly_accuracy_pct": 99.22,
+        "target_progress_pct": 7.98
       }
     ]
   },
@@ -22180,6 +22924,14 @@
         "actual_price": 403.95,
         "monthly_accuracy_pct": 91.86,
         "target_progress_pct": 35.6
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 374.4,
+        "actual_price": 395.44,
+        "monthly_accuracy_pct": 94.38,
+        "target_progress_pct": 28.34
       }
     ]
   },
@@ -22416,6 +23168,14 @@
         "actual_price": 15.39,
         "monthly_accuracy_pct": 96.3,
         "target_progress_pct": -4.31
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 16.01,
+        "actual_price": 15.05,
+        "monthly_accuracy_pct": 93.99,
+        "target_progress_pct": -12.44
       }
     ]
   },
@@ -22652,6 +23412,14 @@
         "actual_price": 73.04,
         "monthly_accuracy_pct": 95.61,
         "target_progress_pct": -20.15
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 76.48,
+        "actual_price": 73.24,
+        "monthly_accuracy_pct": 95.76,
+        "target_progress_pct": -18.33
       }
     ]
   },
@@ -22888,6 +23656,14 @@
         "actual_price": 344.33,
         "monthly_accuracy_pct": 93.14,
         "target_progress_pct": -11.0
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 370.58,
+        "actual_price": 328.75,
+        "monthly_accuracy_pct": 88.71,
+        "target_progress_pct": -23.63
       }
     ]
   },
@@ -23124,6 +23900,14 @@
         "actual_price": 23.5,
         "monthly_accuracy_pct": 89.4,
         "target_progress_pct": -35.74
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 26.33,
+        "actual_price": 23.44,
+        "monthly_accuracy_pct": 89.02,
+        "target_progress_pct": -36.72
       }
     ]
   },
@@ -23360,6 +24144,14 @@
         "actual_price": 49.24,
         "monthly_accuracy_pct": 99.79,
         "target_progress_pct": 10.94
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 49.22,
+        "actual_price": 50.73,
+        "monthly_accuracy_pct": 96.93,
+        "target_progress_pct": 24.75
       }
     ]
   },
@@ -23596,6 +24388,14 @@
         "actual_price": 99.31,
         "monthly_accuracy_pct": 99.32,
         "target_progress_pct": 6.47
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 100.13,
+        "actual_price": 101.27,
+        "monthly_accuracy_pct": 98.87,
+        "target_progress_pct": 16.96
       }
     ]
   },
@@ -23832,6 +24632,14 @@
         "actual_price": 235.31,
         "monthly_accuracy_pct": 83.04,
         "target_progress_pct": -37.93
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 284.12,
+        "actual_price": 228.78,
+        "monthly_accuracy_pct": 80.52,
+        "target_progress_pct": -44.36
       }
     ]
   },
@@ -24068,6 +24876,14 @@
         "actual_price": 796.34,
         "monthly_accuracy_pct": 93.61,
         "target_progress_pct": -13.33
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 852.47,
+        "actual_price": 790.74,
+        "monthly_accuracy_pct": 92.76,
+        "target_progress_pct": -15.71
       }
     ]
   },
@@ -24304,6 +25120,14 @@
         "actual_price": 98.5,
         "monthly_accuracy_pct": 84.74,
         "target_progress_pct": -13.9
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 116.75,
+        "actual_price": 90.46,
+        "monthly_accuracy_pct": 77.48,
+        "target_progress_pct": -24.06
       }
     ]
   },
@@ -24540,6 +25364,14 @@
         "actual_price": 74.26,
         "monthly_accuracy_pct": 97.08,
         "target_progress_pct": 0.37
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 76.67,
+        "actual_price": 73.85,
+        "monthly_accuracy_pct": 96.32,
+        "target_progress_pct": -1.33
       }
     ]
   },
@@ -24776,6 +25608,14 @@
         "actual_price": 67.98,
         "monthly_accuracy_pct": 92.74,
         "target_progress_pct": -18.01
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 73.44,
+        "actual_price": 69.4,
+        "monthly_accuracy_pct": 94.5,
+        "target_progress_pct": -10.58
       }
     ]
   },
@@ -25012,6 +25852,14 @@
         "actual_price": 60.57,
         "monthly_accuracy_pct": 88.72,
         "target_progress_pct": -43.13
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 68.38,
+        "actual_price": 59.75,
+        "monthly_accuracy_pct": 87.38,
+        "target_progress_pct": -48.79
       }
     ]
   },
@@ -25248,6 +26096,14 @@
         "actual_price": 346.52,
         "monthly_accuracy_pct": 93.1,
         "target_progress_pct": -15.95
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 372.94,
+        "actual_price": 350.92,
+        "monthly_accuracy_pct": 94.1,
+        "target_progress_pct": -11.53
       }
     ]
   },
@@ -25484,6 +26340,14 @@
         "actual_price": 152.62,
         "monthly_accuracy_pct": 96.6,
         "target_progress_pct": 31.54
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 147.78,
+        "actual_price": 158.01,
+        "monthly_accuracy_pct": 93.08,
+        "target_progress_pct": 54.41
       }
     ]
   },
@@ -25720,6 +26584,14 @@
         "actual_price": 77.87,
         "monthly_accuracy_pct": 99.88,
         "target_progress_pct": 9.47
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 78.08,
+        "actual_price": 77.78,
+        "monthly_accuracy_pct": 99.61,
+        "target_progress_pct": 8.9
       }
     ]
   },
@@ -25956,6 +26828,14 @@
         "actual_price": 62.67,
         "monthly_accuracy_pct": 95.64,
         "target_progress_pct": -4.08
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 65.68,
+        "actual_price": 64.01,
+        "monthly_accuracy_pct": 97.46,
+        "target_progress_pct": 2.35
       }
     ]
   },
@@ -26192,6 +27072,14 @@
         "actual_price": 129.58,
         "monthly_accuracy_pct": 99.99,
         "target_progress_pct": 10.36
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 129.7,
+        "actual_price": 131.35,
+        "monthly_accuracy_pct": 98.73,
+        "target_progress_pct": 23.45
       }
     ]
   },
@@ -26428,6 +27316,14 @@
         "actual_price": 432.2,
         "monthly_accuracy_pct": 97.19,
         "target_progress_pct": 14.69
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 421.83,
+        "actual_price": 413.16,
+        "monthly_accuracy_pct": 97.95,
+        "target_progress_pct": 5.57
       }
     ]
   },
@@ -26664,6 +27560,14 @@
         "actual_price": 23.85,
         "monthly_accuracy_pct": 93.62,
         "target_progress_pct": 49.86
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 22.45,
+        "actual_price": 23.97,
+        "monthly_accuracy_pct": 93.22,
+        "target_progress_pct": 53.19
       }
     ]
   },
@@ -26900,6 +27804,14 @@
         "actual_price": 1481.27,
         "monthly_accuracy_pct": 89.27,
         "target_progress_pct": -25.44
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1663.12,
+        "actual_price": 1439.07,
+        "monthly_accuracy_pct": 86.53,
+        "target_progress_pct": -33.75
       }
     ]
   },
@@ -27136,6 +28048,14 @@
         "actual_price": 118.88,
         "monthly_accuracy_pct": 97.28,
         "target_progress_pct": -6.91
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 122.36,
+        "actual_price": 121.47,
+        "monthly_accuracy_pct": 99.28,
+        "target_progress_pct": 6.45
       }
     ]
   },
@@ -27372,6 +28292,14 @@
         "actual_price": 165.8,
         "monthly_accuracy_pct": 84.55,
         "target_progress_pct": -101.18
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 196.31,
+        "actual_price": 163.45,
+        "monthly_accuracy_pct": 83.26,
+        "target_progress_pct": -109.83
       }
     ]
   },
@@ -27608,6 +28536,14 @@
         "actual_price": 295.54,
         "monthly_accuracy_pct": 89.44,
         "target_progress_pct": -33.75
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 331.04,
+        "actual_price": 293.55,
+        "monthly_accuracy_pct": 88.68,
+        "target_progress_pct": -36.24
       }
     ]
   },
@@ -27844,6 +28780,14 @@
         "actual_price": 12.96,
         "monthly_accuracy_pct": 88.34,
         "target_progress_pct": -35.54
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 14.7,
+        "actual_price": 13.09,
+        "monthly_accuracy_pct": 89.05,
+        "target_progress_pct": -32.1
       }
     ]
   },
@@ -28080,6 +29024,14 @@
         "actual_price": 132.81,
         "monthly_accuracy_pct": 94.33,
         "target_progress_pct": -23.47
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 140.97,
+        "actual_price": 135.12,
+        "monthly_accuracy_pct": 95.85,
+        "target_progress_pct": -13.72
       }
     ]
   },
@@ -28316,6 +29268,14 @@
         "actual_price": 234.12,
         "monthly_accuracy_pct": 95.28,
         "target_progress_pct": -0.64
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 246.56,
+        "actual_price": 232.14,
+        "monthly_accuracy_pct": 94.15,
+        "target_progress_pct": -2.3
       }
     ]
   },
@@ -28552,6 +29512,14 @@
         "actual_price": 119.77,
         "monthly_accuracy_pct": 87.53,
         "target_progress_pct": -38.28
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 137.11,
+        "actual_price": 120.85,
+        "monthly_accuracy_pct": 88.14,
+        "target_progress_pct": -35.23
       }
     ]
   },
@@ -28788,6 +29756,14 @@
         "actual_price": 690.81,
         "monthly_accuracy_pct": 76.59,
         "target_progress_pct": -25.5
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 905.99,
+        "actual_price": 639.01,
+        "monthly_accuracy_pct": 70.53,
+        "target_progress_pct": -33.84
       }
     ]
   },
@@ -29024,6 +30000,14 @@
         "actual_price": 224.92,
         "monthly_accuracy_pct": 86.33,
         "target_progress_pct": 29.29
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 198.74,
+        "actual_price": 229.68,
+        "monthly_accuracy_pct": 84.43,
+        "target_progress_pct": 32.94
       }
     ]
   },
@@ -29260,6 +30244,14 @@
         "actual_price": 79.12,
         "monthly_accuracy_pct": 97.99,
         "target_progress_pct": 21.91
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 77.66,
+        "actual_price": 80.74,
+        "monthly_accuracy_pct": 96.04,
+        "target_progress_pct": 34.11
       }
     ]
   },
@@ -29496,6 +30488,14 @@
         "actual_price": 75.15,
         "monthly_accuracy_pct": 93.44,
         "target_progress_pct": -29.52
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 80.53,
+        "actual_price": 75.93,
+        "monthly_accuracy_pct": 94.29,
+        "target_progress_pct": -23.64
       }
     ]
   },
@@ -29732,6 +30732,14 @@
         "actual_price": 65.77,
         "monthly_accuracy_pct": 99.97,
         "target_progress_pct": 8.77
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 66.01,
+        "actual_price": 66.03,
+        "monthly_accuracy_pct": 99.98,
+        "target_progress_pct": 9.43
       }
     ]
   },
@@ -29968,6 +30976,14 @@
         "actual_price": 207.31,
         "monthly_accuracy_pct": 94.12,
         "target_progress_pct": 19.83
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 196.52,
+        "actual_price": 205.35,
+        "monthly_accuracy_pct": 95.51,
+        "target_progress_pct": 17.97
       }
     ]
   },
@@ -30204,6 +31220,14 @@
         "actual_price": 271.04,
         "monthly_accuracy_pct": 98.21,
         "target_progress_pct": 3.84
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 276.61,
+        "actual_price": 266.9,
+        "monthly_accuracy_pct": 96.49,
+        "target_progress_pct": -1.02
       }
     ]
   },
@@ -30440,6 +31464,14 @@
         "actual_price": 141.73,
         "monthly_accuracy_pct": 97.07,
         "target_progress_pct": 21.43
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 137.96,
+        "actual_price": 146.51,
+        "monthly_accuracy_pct": 93.8,
+        "target_progress_pct": 35.14
       }
     ]
   },
@@ -30676,6 +31708,14 @@
         "actual_price": 97.83,
         "monthly_accuracy_pct": 93.72,
         "target_progress_pct": -21.45
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 104.54,
+        "actual_price": 97.48,
+        "monthly_accuracy_pct": 93.24,
+        "target_progress_pct": -23.14
       }
     ]
   },
@@ -30912,6 +31952,14 @@
         "actual_price": 99.09,
         "monthly_accuracy_pct": 96.17,
         "target_progress_pct": -6.2
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 103.23,
+        "actual_price": 97.1,
+        "monthly_accuracy_pct": 94.07,
+        "target_progress_pct": -14.32
       }
     ]
   },
@@ -31148,6 +32196,14 @@
         "actual_price": 52.45,
         "monthly_accuracy_pct": 93.64,
         "target_progress_pct": -33.13
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 56.08,
+        "actual_price": 54.3,
+        "monthly_accuracy_pct": 96.83,
+        "target_progress_pct": -10.6
       }
     ]
   },
@@ -31384,6 +32440,14 @@
         "actual_price": 27.75,
         "monthly_accuracy_pct": 80.51,
         "target_progress_pct": -80.03
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 34.52,
+        "actual_price": 27.87,
+        "monthly_accuracy_pct": 80.73,
+        "target_progress_pct": -78.42
       }
     ]
   },
@@ -31620,6 +32684,14 @@
         "actual_price": 285.65,
         "monthly_accuracy_pct": 99.24,
         "target_progress_pct": 13.71
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 283.95,
+        "actual_price": 288.9,
+        "monthly_accuracy_pct": 98.26,
+        "target_progress_pct": 19.26
       }
     ]
   },
@@ -31856,6 +32928,14 @@
         "actual_price": 113.27,
         "monthly_accuracy_pct": 87.67,
         "target_progress_pct": -55.73
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 129.38,
+        "actual_price": 113.07,
+        "monthly_accuracy_pct": 87.39,
+        "target_progress_pct": -56.55
       }
     ]
   },
@@ -32092,6 +33172,14 @@
         "actual_price": 444.06,
         "monthly_accuracy_pct": 84.32,
         "target_progress_pct": 52.85
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 384.86,
+        "actual_price": 444.71,
+        "monthly_accuracy_pct": 84.45,
+        "target_progress_pct": 53.32
       }
     ]
   },
@@ -32328,6 +33416,14 @@
         "actual_price": 59.69,
         "monthly_accuracy_pct": 86.44,
         "target_progress_pct": -59.17
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 69.16,
+        "actual_price": 59.2,
+        "monthly_accuracy_pct": 85.6,
+        "target_progress_pct": -62.8
       }
     ]
   },
@@ -32564,6 +33660,14 @@
         "actual_price": 194.09,
         "monthly_accuracy_pct": 98.98,
         "target_progress_pct": 3.86
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 196.33,
+        "actual_price": 195.8,
+        "monthly_accuracy_pct": 99.73,
+        "target_progress_pct": 9.31
       }
     ]
   },
@@ -32800,6 +33904,14 @@
         "actual_price": 37.14,
         "monthly_accuracy_pct": 94.42,
         "target_progress_pct": -13.36
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 39.41,
+        "actual_price": 37.13,
+        "monthly_accuracy_pct": 94.22,
+        "target_progress_pct": -13.47
       }
     ]
   },
@@ -33036,6 +34148,14 @@
         "actual_price": 101.37,
         "monthly_accuracy_pct": 90.29,
         "target_progress_pct": -33.64
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 112.46,
+        "actual_price": 100.97,
+        "monthly_accuracy_pct": 89.78,
+        "target_progress_pct": -35.24
       }
     ]
   },
@@ -33272,6 +34392,14 @@
         "actual_price": 34.21,
         "monthly_accuracy_pct": 92.58,
         "target_progress_pct": -38.96
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 37.0,
+        "actual_price": 34.26,
+        "monthly_accuracy_pct": 92.61,
+        "target_progress_pct": -38.06
       }
     ]
   },
@@ -33508,6 +34636,14 @@
         "actual_price": 40.83,
         "monthly_accuracy_pct": 99.72,
         "target_progress_pct": 10.81
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 40.8,
+        "actual_price": 39.5,
+        "monthly_accuracy_pct": 96.82,
+        "target_progress_pct": -1.07
       }
     ]
   },
@@ -33744,6 +34880,14 @@
         "actual_price": 116.27,
         "monthly_accuracy_pct": 89.19,
         "target_progress_pct": -60.46
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 130.52,
+        "actual_price": 116.63,
+        "monthly_accuracy_pct": 89.36,
+        "target_progress_pct": -58.66
       }
     ]
   },
@@ -33980,6 +35124,14 @@
         "actual_price": 137.69,
         "monthly_accuracy_pct": 97.29,
         "target_progress_pct": -7.02
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 141.7,
+        "actual_price": 139.61,
+        "monthly_accuracy_pct": 98.53,
+        "target_progress_pct": 1.62
       }
     ]
   },
@@ -34216,6 +35368,14 @@
         "actual_price": 337.03,
         "monthly_accuracy_pct": 92.28,
         "target_progress_pct": -39.35
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 365.65,
+        "actual_price": 344.23,
+        "monthly_accuracy_pct": 94.14,
+        "target_progress_pct": -26.68
       }
     ]
   },
@@ -34452,6 +35612,14 @@
         "actual_price": 279.12,
         "monthly_accuracy_pct": 96.25,
         "target_progress_pct": 18.08
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 269.83,
+        "actual_price": 276.48,
+        "monthly_accuracy_pct": 97.54,
+        "target_progress_pct": 15.77
       }
     ]
   },
@@ -34688,6 +35856,14 @@
         "actual_price": 383.89,
         "monthly_accuracy_pct": 98.17,
         "target_progress_pct": 19.12
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 377.58,
+        "actual_price": 389.54,
+        "monthly_accuracy_pct": 96.83,
+        "target_progress_pct": 26.54
       }
     ]
   },
@@ -34924,6 +36100,14 @@
         "actual_price": 63.98,
         "monthly_accuracy_pct": 95.29,
         "target_progress_pct": -8.22
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 67.27,
+        "actual_price": 64.15,
+        "monthly_accuracy_pct": 95.36,
+        "target_progress_pct": -7.25
       }
     ]
   },
@@ -35160,6 +36344,14 @@
         "actual_price": 352.79,
         "monthly_accuracy_pct": 98.8,
         "target_progress_pct": 16.11
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 349.12,
+        "actual_price": 359.79,
+        "monthly_accuracy_pct": 96.94,
+        "target_progress_pct": 26.17
       }
     ]
   },
@@ -35396,6 +36588,14 @@
         "actual_price": 214.94,
         "monthly_accuracy_pct": 85.73,
         "target_progress_pct": -60.16
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 251.11,
+        "actual_price": 217.39,
+        "monthly_accuracy_pct": 86.57,
+        "target_progress_pct": -55.36
       }
     ]
   },
@@ -35632,6 +36832,14 @@
         "actual_price": 107.29,
         "monthly_accuracy_pct": 97.81,
         "target_progress_pct": 15.35
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 105.27,
+        "actual_price": 105.96,
+        "monthly_accuracy_pct": 99.34,
+        "target_progress_pct": 11.93
       }
     ]
   },
@@ -35868,6 +37076,14 @@
         "actual_price": 22.67,
         "monthly_accuracy_pct": 94.69,
         "target_progress_pct": -28.18
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 23.97,
+        "actual_price": 22.91,
+        "monthly_accuracy_pct": 95.59,
+        "target_progress_pct": -20.91
       }
     ]
   },
@@ -36104,6 +37320,14 @@
         "actual_price": 619.91,
         "monthly_accuracy_pct": 99.01,
         "target_progress_pct": 5.9
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 627.31,
+        "actual_price": 618.6,
+        "monthly_accuracy_pct": 98.61,
+        "target_progress_pct": 5.07
       }
     ]
   },
@@ -36340,6 +37564,14 @@
         "actual_price": 213.75,
         "monthly_accuracy_pct": 95.62,
         "target_progress_pct": -11.39
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 223.89,
+        "actual_price": 218.49,
+        "monthly_accuracy_pct": 97.59,
+        "target_progress_pct": -1.01
       }
     ]
   },
@@ -36576,6 +37808,14 @@
         "actual_price": 86.85,
         "monthly_accuracy_pct": 93.59,
         "target_progress_pct": -9.4
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 93.03,
+        "actual_price": 85.37,
+        "monthly_accuracy_pct": 91.77,
+        "target_progress_pct": -14.11
       }
     ]
   },
@@ -36812,6 +38052,14 @@
         "actual_price": 32.89,
         "monthly_accuracy_pct": 86.81,
         "target_progress_pct": -51.16
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 37.95,
+        "actual_price": 33.5,
+        "monthly_accuracy_pct": 88.28,
+        "target_progress_pct": -43.7
       }
     ]
   },
@@ -37048,6 +38296,14 @@
         "actual_price": 70.35,
         "monthly_accuracy_pct": 99.39,
         "target_progress_pct": 14.44
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 70.0,
+        "actual_price": 69.57,
+        "monthly_accuracy_pct": 99.38,
+        "target_progress_pct": 6.88
       }
     ]
   },
@@ -37284,6 +38540,14 @@
         "actual_price": 363.62,
         "monthly_accuracy_pct": 96.32,
         "target_progress_pct": -0.29
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 378.56,
+        "actual_price": 360.87,
+        "monthly_accuracy_pct": 95.33,
+        "target_progress_pct": -2.2
       }
     ]
   },
@@ -37520,6 +38784,14 @@
         "actual_price": 18.96,
         "monthly_accuracy_pct": 90.24,
         "target_progress_pct": -47.88
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 21.04,
+        "actual_price": 18.98,
+        "monthly_accuracy_pct": 90.22,
+        "target_progress_pct": -47.31
       }
     ]
   },
@@ -37756,6 +39028,14 @@
         "actual_price": 80.72,
         "monthly_accuracy_pct": 96.01,
         "target_progress_pct": -13.33
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 84.18,
+        "actual_price": 80.56,
+        "monthly_accuracy_pct": 95.7,
+        "target_progress_pct": -14.46
       }
     ]
   },
@@ -37992,6 +39272,14 @@
         "actual_price": 732.53,
         "monthly_accuracy_pct": 95.22,
         "target_progress_pct": -14.37
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 770.49,
+        "actual_price": 721.66,
+        "monthly_accuracy_pct": 93.66,
+        "target_progress_pct": -21.59
       }
     ]
   },
@@ -38228,6 +39516,14 @@
         "actual_price": 143.82,
         "monthly_accuracy_pct": 94.72,
         "target_progress_pct": -8.89
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 152.15,
+        "actual_price": 139.49,
+        "monthly_accuracy_pct": 91.68,
+        "target_progress_pct": -18.96
       }
     ]
   },
@@ -38464,6 +39760,14 @@
         "actual_price": 280.01,
         "monthly_accuracy_pct": 96.45,
         "target_progress_pct": 28.67
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 270.81,
+        "actual_price": 277.68,
+        "monthly_accuracy_pct": 97.46,
+        "target_progress_pct": 24.16
       }
     ]
   },
@@ -38700,6 +40004,14 @@
         "actual_price": 155.75,
         "monthly_accuracy_pct": 97.47,
         "target_progress_pct": -5.24
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 159.99,
+        "actual_price": 156.54,
+        "monthly_accuracy_pct": 97.84,
+        "target_progress_pct": -2.22
       }
     ]
   },
@@ -38936,6 +40248,14 @@
         "actual_price": 193.76,
         "monthly_accuracy_pct": 97.58,
         "target_progress_pct": 20.2
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 189.51,
+        "actual_price": 191.75,
+        "monthly_accuracy_pct": 98.82,
+        "target_progress_pct": 15.7
       }
     ]
   },
@@ -39172,6 +40492,14 @@
         "actual_price": 476.92,
         "monthly_accuracy_pct": 80.95,
         "target_progress_pct": 72.73
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 401.51,
+        "actual_price": 478.07,
+        "monthly_accuracy_pct": 80.93,
+        "target_progress_pct": 73.68
       }
     ]
   },
@@ -39408,6 +40736,14 @@
         "actual_price": 94.17,
         "monthly_accuracy_pct": 98.38,
         "target_progress_pct": 15.98
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 92.85,
+        "actual_price": 92.63,
+        "monthly_accuracy_pct": 99.76,
+        "target_progress_pct": 9.67
       }
     ]
   },
@@ -39644,6 +40980,14 @@
         "actual_price": 219.32,
         "monthly_accuracy_pct": 97.3,
         "target_progress_pct": 21.5
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 213.93,
+        "actual_price": 224.99,
+        "monthly_accuracy_pct": 94.83,
+        "target_progress_pct": 32.87
       }
     ]
   },
@@ -39880,6 +41224,14 @@
         "actual_price": 428.43,
         "monthly_accuracy_pct": 97.03,
         "target_progress_pct": 24.51
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 416.73,
+        "actual_price": 428.26,
+        "monthly_accuracy_pct": 97.23,
+        "target_progress_pct": 24.31
       }
     ]
   },
@@ -40116,6 +41468,14 @@
         "actual_price": 434.03,
         "monthly_accuracy_pct": 96.99,
         "target_progress_pct": -3.1
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 448.29,
+        "actual_price": 432.49,
+        "monthly_accuracy_pct": 96.48,
+        "target_progress_pct": -4.59
       }
     ]
   },
@@ -40352,6 +41712,14 @@
         "actual_price": 254.69,
         "monthly_accuracy_pct": 94.55,
         "target_progress_pct": -7.4
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 269.99,
+        "actual_price": 256.29,
+        "monthly_accuracy_pct": 94.93,
+        "target_progress_pct": -5.54
       }
     ]
   },
@@ -40588,6 +41956,14 @@
         "actual_price": 34.18,
         "monthly_accuracy_pct": 96.95,
         "target_progress_pct": 28.04
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 33.21,
+        "actual_price": 34.62,
+        "monthly_accuracy_pct": 95.76,
+        "target_progress_pct": 35.8
       }
     ]
   },
@@ -40824,6 +42200,14 @@
         "actual_price": 145.19,
         "monthly_accuracy_pct": 93.9,
         "target_progress_pct": -11.67
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 154.95,
+        "actual_price": 145.95,
+        "monthly_accuracy_pct": 94.19,
+        "target_progress_pct": -9.94
       }
     ]
   },
@@ -41060,6 +42444,14 @@
         "actual_price": 70.51,
         "monthly_accuracy_pct": 99.76,
         "target_progress_pct": 8.34
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 70.96,
+        "actual_price": 69.16,
+        "monthly_accuracy_pct": 97.46,
+        "target_progress_pct": 5.1
       }
     ]
   },
@@ -41296,6 +42688,14 @@
         "actual_price": 63.43,
         "monthly_accuracy_pct": 87.74,
         "target_progress_pct": -48.61
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 72.41,
+        "actual_price": 63.36,
+        "monthly_accuracy_pct": 87.5,
+        "target_progress_pct": -49.07
       }
     ]
   },
@@ -41532,6 +42932,14 @@
         "actual_price": 84.17,
         "monthly_accuracy_pct": 88.9,
         "target_progress_pct": -38.95
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 94.84,
+        "actual_price": 83.67,
+        "monthly_accuracy_pct": 88.22,
+        "target_progress_pct": -41.28
       }
     ]
   },
@@ -41768,6 +43176,14 @@
         "actual_price": 82.32,
         "monthly_accuracy_pct": 86.03,
         "target_progress_pct": -85.84
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 95.8,
+        "actual_price": 83.63,
+        "monthly_accuracy_pct": 87.3,
+        "target_progress_pct": -76.42
       }
     ]
   },
@@ -42004,6 +43420,14 @@
         "actual_price": 111.87,
         "monthly_accuracy_pct": 81.6,
         "target_progress_pct": -62.72
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 137.36,
+        "actual_price": 110.78,
+        "monthly_accuracy_pct": 80.65,
+        "target_progress_pct": -65.85
       }
     ]
   },
@@ -42240,6 +43664,14 @@
         "actual_price": 165.33,
         "monthly_accuracy_pct": 96.48,
         "target_progress_pct": -11.78
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 171.58,
+        "actual_price": 164.75,
+        "monthly_accuracy_pct": 96.02,
+        "target_progress_pct": -13.89
       }
     ]
   },
@@ -42476,6 +43908,14 @@
         "actual_price": 609.24,
         "monthly_accuracy_pct": 94.42,
         "target_progress_pct": 34.88
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 578.0,
+        "actual_price": 592.94,
+        "monthly_accuracy_pct": 97.42,
+        "target_progress_pct": 22.28
       }
     ]
   },
@@ -42712,6 +44152,14 @@
         "actual_price": 41.24,
         "monthly_accuracy_pct": 88.39,
         "target_progress_pct": -56.39
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 46.72,
+        "actual_price": 41.16,
+        "monthly_accuracy_pct": 88.1,
+        "target_progress_pct": -57.37
       }
     ]
   },
@@ -42948,6 +44396,14 @@
         "actual_price": 217.23,
         "monthly_accuracy_pct": 92.24,
         "target_progress_pct": -25.57
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 235.88,
+        "actual_price": 214.13,
+        "monthly_accuracy_pct": 90.78,
+        "target_progress_pct": -31.61
       }
     ]
   },
@@ -43184,6 +44640,14 @@
         "actual_price": 57.39,
         "monthly_accuracy_pct": 88.7,
         "target_progress_pct": -45.03
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 64.81,
+        "actual_price": 58.73,
+        "monthly_accuracy_pct": 90.63,
+        "target_progress_pct": -34.94
       }
     ]
   },
@@ -43420,6 +44884,14 @@
         "actual_price": 54.04,
         "monthly_accuracy_pct": 96.07,
         "target_progress_pct": 47.55
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 52.04,
+        "actual_price": 54.9,
+        "monthly_accuracy_pct": 94.5,
+        "target_progress_pct": 63.16
       }
     ]
   },
@@ -43656,6 +45128,14 @@
         "actual_price": 50.35,
         "monthly_accuracy_pct": 89.83,
         "target_progress_pct": -38.44
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 56.14,
+        "actual_price": 50.37,
+        "monthly_accuracy_pct": 89.72,
+        "target_progress_pct": -38.27
       }
     ]
   },
@@ -43892,6 +45372,14 @@
         "actual_price": 295.33,
         "monthly_accuracy_pct": 96.38,
         "target_progress_pct": -15.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 306.75,
+        "actual_price": 298.31,
+        "monthly_accuracy_pct": 97.25,
+        "target_progress_pct": -8.67
       }
     ]
   },
@@ -44128,6 +45616,14 @@
         "actual_price": 214.75,
         "monthly_accuracy_pct": 73.89,
         "target_progress_pct": -61.6
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 291.39,
+        "actual_price": 206.42,
+        "monthly_accuracy_pct": 70.84,
+        "target_progress_pct": -69.4
       }
     ]
   },
@@ -44364,6 +45860,14 @@
         "actual_price": 288.71,
         "monthly_accuracy_pct": 97.94,
         "target_progress_pct": -1.79
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 295.18,
+        "actual_price": 289.04,
+        "monthly_accuracy_pct": 97.92,
+        "target_progress_pct": -1.14
       }
     ]
   },
@@ -44600,6 +46104,14 @@
         "actual_price": 157.37,
         "monthly_accuracy_pct": 97.83,
         "target_progress_pct": 21.25
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 154.25,
+        "actual_price": 156.19,
+        "monthly_accuracy_pct": 98.74,
+        "target_progress_pct": 17.31
       }
     ]
   },
@@ -44836,6 +46348,14 @@
         "actual_price": 175.88,
         "monthly_accuracy_pct": 99.25,
         "target_progress_pct": 3.98
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 177.37,
+        "actual_price": 175.31,
+        "monthly_accuracy_pct": 98.84,
+        "target_progress_pct": 1.21
       }
     ]
   },
@@ -45072,6 +46592,14 @@
         "actual_price": 51.7,
         "monthly_accuracy_pct": 80.81,
         "target_progress_pct": -84.92
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 64.08,
+        "actual_price": 51.23,
+        "monthly_accuracy_pct": 79.95,
+        "target_progress_pct": -88.55
       }
     ]
   },
@@ -45308,6 +46836,14 @@
         "actual_price": 138.77,
         "monthly_accuracy_pct": 90.89,
         "target_progress_pct": -15.89
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 153.07,
+        "actual_price": 141.1,
+        "monthly_accuracy_pct": 92.18,
+        "target_progress_pct": -11.64
       }
     ]
   },
@@ -45544,6 +47080,14 @@
         "actual_price": 107.81,
         "monthly_accuracy_pct": 94.4,
         "target_progress_pct": -29.1
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 114.33,
+        "actual_price": 107.39,
+        "monthly_accuracy_pct": 93.93,
+        "target_progress_pct": -31.69
       }
     ]
   },
@@ -45780,6 +47324,14 @@
         "actual_price": 123.21,
         "monthly_accuracy_pct": 87.59,
         "target_progress_pct": -49.32
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 140.9,
+        "actual_price": 124.26,
+        "monthly_accuracy_pct": 88.19,
+        "target_progress_pct": -45.75
       }
     ]
   },
@@ -46016,6 +47568,14 @@
         "actual_price": 525.68,
         "monthly_accuracy_pct": 97.76,
         "target_progress_pct": 24.79
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 514.77,
+        "actual_price": 532.02,
+        "monthly_accuracy_pct": 96.65,
+        "target_progress_pct": 32.79
       }
     ]
   },
@@ -46252,6 +47812,14 @@
         "actual_price": 162.15,
         "monthly_accuracy_pct": 95.6,
         "target_progress_pct": 38.21
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 155.51,
+        "actual_price": 161.47,
+        "monthly_accuracy_pct": 96.17,
+        "target_progress_pct": 35.42
       }
     ]
   },
@@ -46488,6 +48056,14 @@
         "actual_price": 57.78,
         "monthly_accuracy_pct": 99.85,
         "target_progress_pct": 9.27
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 57.94,
+        "actual_price": 57.79,
+        "monthly_accuracy_pct": 99.74,
+        "target_progress_pct": 9.38
       }
     ]
   },
@@ -46724,6 +48300,14 @@
         "actual_price": 100.96,
         "monthly_accuracy_pct": 96.85,
         "target_progress_pct": 30.49
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 97.99,
+        "actual_price": 101.04,
+        "monthly_accuracy_pct": 96.89,
+        "target_progress_pct": 31.02
       }
     ]
   },
@@ -46960,6 +48544,14 @@
         "actual_price": 224.19,
         "monthly_accuracy_pct": 99.31,
         "target_progress_pct": 14.48
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 222.94,
+        "actual_price": 226.86,
+        "monthly_accuracy_pct": 98.24,
+        "target_progress_pct": 21.91
       }
     ]
   },
@@ -47196,6 +48788,14 @@
         "actual_price": 15.35,
         "monthly_accuracy_pct": 88.57,
         "target_progress_pct": -56.95
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 17.35,
+        "actual_price": 15.27,
+        "monthly_accuracy_pct": 87.99,
+        "target_progress_pct": -59.66
       }
     ]
   },
@@ -47432,6 +49032,14 @@
         "actual_price": 81.49,
         "monthly_accuracy_pct": 95.79,
         "target_progress_pct": -5.49
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 85.25,
+        "actual_price": 79.35,
+        "monthly_accuracy_pct": 93.08,
+        "target_progress_pct": -14.61
       }
     ]
   },
@@ -47668,6 +49276,14 @@
         "actual_price": 186.95,
         "monthly_accuracy_pct": 91.49,
         "target_progress_pct": -39.69
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 204.61,
+        "actual_price": 193.92,
+        "monthly_accuracy_pct": 94.77,
+        "target_progress_pct": -19.7
       }
     ]
   },
@@ -47904,6 +49520,14 @@
         "actual_price": 92.75,
         "monthly_accuracy_pct": 93.17,
         "target_progress_pct": -21.07
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 99.71,
+        "actual_price": 92.48,
+        "monthly_accuracy_pct": 92.75,
+        "target_progress_pct": -22.3
       }
     ]
   },
@@ -48140,6 +49764,14 @@
         "actual_price": 25.76,
         "monthly_accuracy_pct": 97.41,
         "target_progress_pct": -1.13
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 26.49,
+        "actual_price": 25.28,
+        "monthly_accuracy_pct": 95.42,
+        "target_progress_pct": -8.87
       }
     ]
   },
@@ -48376,6 +50008,14 @@
         "actual_price": 193.05,
         "monthly_accuracy_pct": 88.78,
         "target_progress_pct": -31.96
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 217.89,
+        "actual_price": 189.15,
+        "monthly_accuracy_pct": 86.81,
+        "target_progress_pct": -38.63
       }
     ]
   },
@@ -48612,6 +50252,14 @@
         "actual_price": 95.45,
         "monthly_accuracy_pct": 99.95,
         "target_progress_pct": 9.98
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 95.6,
+        "actual_price": 94.75,
+        "monthly_accuracy_pct": 99.11,
+        "target_progress_pct": 4.52
       }
     ]
   },
@@ -48848,6 +50496,14 @@
         "actual_price": 430.01,
         "monthly_accuracy_pct": 89.28,
         "target_progress_pct": -7.86
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 483.72,
+        "actual_price": 409.29,
+        "monthly_accuracy_pct": 84.61,
+        "target_progress_pct": -14.45
       }
     ]
   },
@@ -49084,6 +50740,14 @@
         "actual_price": 79.1,
         "monthly_accuracy_pct": 97.18,
         "target_progress_pct": 16.27
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 77.15,
+        "actual_price": 79.7,
+        "monthly_accuracy_pct": 96.7,
+        "target_progress_pct": 18.19
       }
     ]
   },
@@ -49320,6 +50984,14 @@
         "actual_price": 43.74,
         "monthly_accuracy_pct": 95.0,
         "target_progress_pct": -15.93
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 46.11,
+        "actual_price": 43.85,
+        "monthly_accuracy_pct": 95.1,
+        "target_progress_pct": -14.69
       }
     ]
   },
@@ -49556,6 +51228,14 @@
         "actual_price": 33.89,
         "monthly_accuracy_pct": 92.13,
         "target_progress_pct": -20.94
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 36.86,
+        "actual_price": 33.45,
+        "monthly_accuracy_pct": 90.76,
+        "target_progress_pct": -25.61
       }
     ]
   },
@@ -49792,6 +51472,14 @@
         "actual_price": 457.36,
         "monthly_accuracy_pct": 99.9,
         "target_progress_pct": 10.59
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 457.59,
+        "actual_price": 458.89,
+        "monthly_accuracy_pct": 99.72,
+        "target_progress_pct": 12.3
       }
     ]
   },
@@ -50028,6 +51716,14 @@
         "actual_price": 57.14,
         "monthly_accuracy_pct": 95.15,
         "target_progress_pct": -7.66
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 60.18,
+        "actual_price": 57.22,
+        "monthly_accuracy_pct": 95.09,
+        "target_progress_pct": -7.18
       }
     ]
   },
@@ -50264,6 +51960,14 @@
         "actual_price": 133.89,
         "monthly_accuracy_pct": 98.44,
         "target_progress_pct": 2.44
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 136.22,
+        "actual_price": 134.36,
+        "monthly_accuracy_pct": 98.63,
+        "target_progress_pct": 4.13
       }
     ]
   },
@@ -50500,6 +52204,14 @@
         "actual_price": 105.68,
         "monthly_accuracy_pct": 88.98,
         "target_progress_pct": -70.17
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 118.9,
+        "actual_price": 106.32,
+        "monthly_accuracy_pct": 89.42,
+        "target_progress_pct": -66.24
       }
     ]
   },
@@ -50736,6 +52448,14 @@
         "actual_price": 344.91,
         "monthly_accuracy_pct": 99.84,
         "target_progress_pct": 9.15
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 346.24,
+        "actual_price": 336.91,
+        "monthly_accuracy_pct": 97.31,
+        "target_progress_pct": 1.52
       }
     ]
   },
@@ -50972,6 +52692,14 @@
         "actual_price": 21.77,
         "monthly_accuracy_pct": 80.56,
         "target_progress_pct": -89.22
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 27.06,
+        "actual_price": 21.9,
+        "monthly_accuracy_pct": 80.92,
+        "target_progress_pct": -86.77
       }
     ]
   },
@@ -51208,6 +52936,14 @@
         "actual_price": 87.71,
         "monthly_accuracy_pct": 96.61,
         "target_progress_pct": -0.63
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 91.01,
+        "actual_price": 86.04,
+        "monthly_accuracy_pct": 94.54,
+        "target_progress_pct": -6.15
       }
     ]
   },
@@ -51444,6 +53180,14 @@
         "actual_price": 28.8,
         "monthly_accuracy_pct": 85.07,
         "target_progress_pct": -54.19
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 33.91,
+        "actual_price": 28.2,
+        "monthly_accuracy_pct": 83.15,
+        "target_progress_pct": -61.8
       }
     ]
   },
@@ -51680,6 +53424,14 @@
         "actual_price": 3059.62,
         "monthly_accuracy_pct": 99.4,
         "target_progress_pct": 13.29
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 3045.77,
+        "actual_price": 3120.59,
+        "monthly_accuracy_pct": 97.54,
+        "target_progress_pct": 23.91
       }
     ]
   },
@@ -51916,6 +53668,14 @@
         "actual_price": 125.93,
         "monthly_accuracy_pct": 98.38,
         "target_progress_pct": -0.8
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 128.15,
+        "actual_price": 127.43,
+        "monthly_accuracy_pct": 99.44,
+        "target_progress_pct": 7.23
       }
     ]
   },
@@ -52152,6 +53912,14 @@
         "actual_price": 187.36,
         "monthly_accuracy_pct": 91.57,
         "target_progress_pct": 57.3
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 173.03,
+        "actual_price": 185.1,
+        "monthly_accuracy_pct": 93.02,
+        "target_progress_pct": 49.98
       }
     ]
   },
@@ -52388,6 +54156,14 @@
         "actual_price": 365.91,
         "monthly_accuracy_pct": 94.01,
         "target_progress_pct": -28.22
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 389.68,
+        "actual_price": 367.25,
+        "monthly_accuracy_pct": 94.24,
+        "target_progress_pct": -26.01
       }
     ]
   },
@@ -52624,6 +54400,14 @@
         "actual_price": 139.55,
         "monthly_accuracy_pct": 96.08,
         "target_progress_pct": -13.06
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 145.44,
+        "actual_price": 139.39,
+        "monthly_accuracy_pct": 95.84,
+        "target_progress_pct": -13.71
       }
     ]
   },
@@ -52860,6 +54644,14 @@
         "actual_price": 107.01,
         "monthly_accuracy_pct": 88.46,
         "target_progress_pct": -52.49
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 121.14,
+        "actual_price": 106.14,
+        "monthly_accuracy_pct": 87.62,
+        "target_progress_pct": -56.39
       }
     ]
   },
@@ -53096,6 +54888,14 @@
         "actual_price": 456.58,
         "monthly_accuracy_pct": 86.43,
         "target_progress_pct": 55.54
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 402.9,
+        "actual_price": 442.03,
+        "monthly_accuracy_pct": 90.29,
+        "target_progress_pct": 43.31
       }
     ]
   },
@@ -53332,6 +55132,14 @@
         "actual_price": 185.58,
         "monthly_accuracy_pct": 92.53,
         "target_progress_pct": -11.45
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 201.09,
+        "actual_price": 176.98,
+        "monthly_accuracy_pct": 88.01,
+        "target_progress_pct": -23.46
       }
     ]
   },
@@ -53568,6 +55376,14 @@
         "actual_price": 236.42,
         "monthly_accuracy_pct": 96.28,
         "target_progress_pct": 30.67
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 228.25,
+        "actual_price": 235.55,
+        "monthly_accuracy_pct": 96.8,
+        "target_progress_pct": 28.57
       }
     ]
   },
@@ -53804,6 +55620,14 @@
         "actual_price": 116.35,
         "monthly_accuracy_pct": 93.39,
         "target_progress_pct": -22.2
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 124.78,
+        "actual_price": 115.91,
+        "monthly_accuracy_pct": 92.89,
+        "target_progress_pct": -23.92
       }
     ]
   },
@@ -54040,6 +55864,14 @@
         "actual_price": 163.95,
         "monthly_accuracy_pct": 95.91,
         "target_progress_pct": -10.78
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 171.19,
+        "actual_price": 167.34,
+        "monthly_accuracy_pct": 97.75,
+        "target_progress_pct": -0.66
       }
     ]
   },
@@ -54276,6 +56108,14 @@
         "actual_price": 188.88,
         "monthly_accuracy_pct": 99.47,
         "target_progress_pct": 7.51
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 190.19,
+        "actual_price": 187.72,
+        "monthly_accuracy_pct": 98.7,
+        "target_progress_pct": 4.62
       }
     ]
   },
@@ -54512,6 +56352,14 @@
         "actual_price": 62.8,
         "monthly_accuracy_pct": 98.41,
         "target_progress_pct": 1.16
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 63.9,
+        "actual_price": 63.2,
+        "monthly_accuracy_pct": 98.91,
+        "target_progress_pct": 4.72
       }
     ]
   },
@@ -54748,6 +56596,14 @@
         "actual_price": 89.18,
         "monthly_accuracy_pct": 99.77,
         "target_progress_pct": 8.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 89.48,
+        "actual_price": 91.18,
+        "monthly_accuracy_pct": 98.1,
+        "target_progress_pct": 24.82
       }
     ]
   },
@@ -54984,6 +56840,14 @@
         "actual_price": 34.48,
         "monthly_accuracy_pct": 96.62,
         "target_progress_pct": -11.17
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 35.73,
+        "actual_price": 35.17,
+        "monthly_accuracy_pct": 98.43,
+        "target_progress_pct": 1.06
       }
     ]
   },
@@ -55220,6 +57084,14 @@
         "actual_price": 240.5,
         "monthly_accuracy_pct": 91.3,
         "target_progress_pct": -22.47
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 263.93,
+        "actual_price": 248.51,
+        "monthly_accuracy_pct": 94.16,
+        "target_progress_pct": -11.19
       }
     ]
   },
@@ -55456,6 +57328,14 @@
         "actual_price": 539.44,
         "monthly_accuracy_pct": 96.18,
         "target_progress_pct": 18.57
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 521.11,
+        "actual_price": 529.05,
+        "monthly_accuracy_pct": 98.48,
+        "target_progress_pct": 13.72
       }
     ]
   },
@@ -55692,6 +57572,14 @@
         "actual_price": 174.46,
         "monthly_accuracy_pct": 88.74,
         "target_progress_pct": -8.69
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 197.44,
+        "actual_price": 165.74,
+        "monthly_accuracy_pct": 83.94,
+        "target_progress_pct": -15.48
       }
     ]
   },
@@ -55928,6 +57816,14 @@
         "actual_price": 62.71,
         "monthly_accuracy_pct": 94.23,
         "target_progress_pct": 61.68
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 59.34,
+        "actual_price": 63.63,
+        "monthly_accuracy_pct": 92.77,
+        "target_progress_pct": 75.45
       }
     ]
   },
@@ -56164,6 +58060,14 @@
         "actual_price": 328.8,
         "monthly_accuracy_pct": 98.65,
         "target_progress_pct": 17.44
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 324.88,
+        "actual_price": 322.31,
+        "monthly_accuracy_pct": 99.21,
+        "target_progress_pct": 6.6
       }
     ]
   },
@@ -56400,6 +58304,14 @@
         "actual_price": 198.86,
         "monthly_accuracy_pct": 88.96,
         "target_progress_pct": -53.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 223.83,
+        "actual_price": 201.74,
+        "monthly_accuracy_pct": 90.13,
+        "target_progress_pct": -46.2
       }
     ]
   },
@@ -56636,6 +58548,14 @@
         "actual_price": 235.35,
         "monthly_accuracy_pct": 95.5,
         "target_progress_pct": 33.37
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 225.56,
+        "actual_price": 232.65,
+        "monthly_accuracy_pct": 96.85,
+        "target_progress_pct": 27.17
       }
     ]
   },
@@ -56872,6 +58792,14 @@
         "actual_price": 228.76,
         "monthly_accuracy_pct": 98.14,
         "target_progress_pct": 0.75
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 233.45,
+        "actual_price": 231.61,
+        "monthly_accuracy_pct": 99.21,
+        "target_progress_pct": 6.87
       }
     ]
   },
@@ -57108,6 +59036,14 @@
         "actual_price": 195.72,
         "monthly_accuracy_pct": 94.38,
         "target_progress_pct": -30.73
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 207.61,
+        "actual_price": 197.38,
+        "monthly_accuracy_pct": 95.07,
+        "target_progress_pct": -24.89
       }
     ]
   },
@@ -57344,6 +59280,14 @@
         "actual_price": 19.94,
         "monthly_accuracy_pct": 88.06,
         "target_progress_pct": -48.7
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 22.68,
+        "actual_price": 19.99,
+        "monthly_accuracy_pct": 88.15,
+        "target_progress_pct": -47.61
       }
     ]
   },
@@ -57579,6 +59523,14 @@
         "expected_price": 28.8,
         "actual_price": 30.95,
         "monthly_accuracy_pct": 92.55,
+        "target_progress_pct": 49.27
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 28.85,
+        "actual_price": 30.95,
+        "monthly_accuracy_pct": 92.71,
         "target_progress_pct": 49.27
       }
     ]
@@ -57816,6 +59768,14 @@
         "actual_price": 349.22,
         "monthly_accuracy_pct": 99.68,
         "target_progress_pct": 10.89
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 348.82,
+        "actual_price": 340.59,
+        "monthly_accuracy_pct": 97.64,
+        "target_progress_pct": 2.16
       }
     ]
   },
@@ -58052,6 +60012,14 @@
         "actual_price": 147.63,
         "monthly_accuracy_pct": 99.71,
         "target_progress_pct": 8.64
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 148.3,
+        "actual_price": 145.47,
+        "monthly_accuracy_pct": 98.09,
+        "target_progress_pct": 1.7
       }
     ]
   },
@@ -58288,6 +60256,14 @@
         "actual_price": 20.19,
         "monthly_accuracy_pct": 92.48,
         "target_progress_pct": -47.87
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 21.85,
+        "actual_price": 20.4,
+        "monthly_accuracy_pct": 93.35,
+        "target_progress_pct": -40.43
       }
     ]
   },
@@ -58524,6 +60500,14 @@
         "actual_price": 118.05,
         "monthly_accuracy_pct": 99.0,
         "target_progress_pct": 4.21
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 119.4,
+        "actual_price": 119.97,
+        "monthly_accuracy_pct": 99.52,
+        "target_progress_pct": 13.82
       }
     ]
   },
@@ -58760,6 +60744,14 @@
         "actual_price": 310.36,
         "monthly_accuracy_pct": 90.5,
         "target_progress_pct": -29.42
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 343.57,
+        "actual_price": 315.49,
+        "monthly_accuracy_pct": 91.83,
+        "target_progress_pct": -23.23
       }
     ]
   },
@@ -58996,6 +60988,14 @@
         "actual_price": 44.4,
         "monthly_accuracy_pct": 86.97,
         "target_progress_pct": -63.78
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 51.12,
+        "actual_price": 44.79,
+        "monthly_accuracy_pct": 87.61,
+        "target_progress_pct": -59.44
       }
     ]
   },
@@ -59232,6 +61232,14 @@
         "actual_price": 112.99,
         "monthly_accuracy_pct": 89.23,
         "target_progress_pct": -53.63
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 126.79,
+        "actual_price": 113.55,
+        "monthly_accuracy_pct": 89.56,
+        "target_progress_pct": -51.01
       }
     ]
   },
@@ -59468,6 +61476,14 @@
         "actual_price": 46.57,
         "monthly_accuracy_pct": 88.25,
         "target_progress_pct": -45.4
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 52.86,
+        "actual_price": 47.07,
+        "monthly_accuracy_pct": 89.05,
+        "target_progress_pct": -40.93
       }
     ]
   },
@@ -59704,6 +61720,14 @@
         "actual_price": 203.39,
         "monthly_accuracy_pct": 95.59,
         "target_progress_pct": -18.59
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 213.03,
+        "actual_price": 205.44,
+        "monthly_accuracy_pct": 96.44,
+        "target_progress_pct": -12.29
       }
     ]
   },
@@ -59940,6 +61964,14 @@
         "actual_price": 159.36,
         "monthly_accuracy_pct": 99.12,
         "target_progress_pct": 13.95
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 158.23,
+        "actual_price": 156.14,
+        "monthly_accuracy_pct": 98.68,
+        "target_progress_pct": 4.78
       }
     ]
   },
@@ -60176,6 +62208,14 @@
         "actual_price": 94.38,
         "monthly_accuracy_pct": 94.86,
         "target_progress_pct": -26.64
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 99.61,
+        "actual_price": 94.98,
+        "monthly_accuracy_pct": 95.35,
+        "target_progress_pct": -22.31
       }
     ]
   },
@@ -60412,6 +62452,14 @@
         "actual_price": 456.39,
         "monthly_accuracy_pct": 95.24,
         "target_progress_pct": -10.4
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 480.03,
+        "actual_price": 463.15,
+        "monthly_accuracy_pct": 96.48,
+        "target_progress_pct": -4.37
       }
     ]
   },
@@ -60648,6 +62696,14 @@
         "actual_price": 502.58,
         "monthly_accuracy_pct": 87.85,
         "target_progress_pct": -50.57
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 572.98,
+        "actual_price": 500.8,
+        "monthly_accuracy_pct": 87.4,
+        "target_progress_pct": -52.12
       }
     ]
   },
@@ -60884,6 +62940,14 @@
         "actual_price": 57.4,
         "monthly_accuracy_pct": 80.51,
         "target_progress_pct": -70.79
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 71.43,
+        "actual_price": 57.94,
+        "monthly_accuracy_pct": 81.12,
+        "target_progress_pct": -67.65
       }
     ]
   },
@@ -61120,6 +63184,14 @@
         "actual_price": 293.23,
         "monthly_accuracy_pct": 95.32,
         "target_progress_pct": -22.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 307.97,
+        "actual_price": 294.66,
+        "monthly_accuracy_pct": 95.68,
+        "target_progress_pct": -19.38
       }
     ]
   },
@@ -61356,6 +63428,14 @@
         "actual_price": 303.09,
         "monthly_accuracy_pct": 87.29,
         "target_progress_pct": -62.94
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 347.69,
+        "actual_price": 308.64,
+        "monthly_accuracy_pct": 88.77,
+        "target_progress_pct": -53.74
       }
     ]
   },
@@ -61592,6 +63672,14 @@
         "actual_price": 391.07,
         "monthly_accuracy_pct": 90.25,
         "target_progress_pct": 80.46
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 356.7,
+        "actual_price": 385.5,
+        "monthly_accuracy_pct": 91.93,
+        "target_progress_pct": 69.22
       }
     ]
   },
@@ -61828,6 +63916,14 @@
         "actual_price": 313.03,
         "monthly_accuracy_pct": 91.46,
         "target_progress_pct": 25.59
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 289.41,
+        "actual_price": 310.36,
+        "monthly_accuracy_pct": 92.76,
+        "target_progress_pct": 23.79
       }
     ]
   },
@@ -62064,6 +64160,14 @@
         "actual_price": 45.55,
         "monthly_accuracy_pct": 95.88,
         "target_progress_pct": -17.04
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 47.56,
+        "actual_price": 46.19,
+        "monthly_accuracy_pct": 97.12,
+        "target_progress_pct": -8.1
       }
     ]
   },
@@ -62300,6 +64404,14 @@
         "actual_price": 1249.2,
         "monthly_accuracy_pct": 97.95,
         "target_progress_pct": 4.54
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1279.24,
+        "actual_price": 1210.86,
+        "monthly_accuracy_pct": 94.65,
+        "target_progress_pct": -2.33
       }
     ]
   },
@@ -62536,6 +64648,14 @@
         "actual_price": 304.09,
         "monthly_accuracy_pct": 98.51,
         "target_progress_pct": 15.69
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 300.19,
+        "actual_price": 302.34,
+        "monthly_accuracy_pct": 99.28,
+        "target_progress_pct": 13.41
       }
     ]
   },
@@ -62772,6 +64892,14 @@
         "actual_price": 35.09,
         "monthly_accuracy_pct": 84.03,
         "target_progress_pct": -18.1
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 41.93,
+        "actual_price": 31.63,
+        "monthly_accuracy_pct": 75.44,
+        "target_progress_pct": -32.02
       }
     ]
   },
@@ -63008,6 +65136,14 @@
         "actual_price": 86.99,
         "monthly_accuracy_pct": 95.09,
         "target_progress_pct": -17.16
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 91.6,
+        "actual_price": 86.38,
+        "monthly_accuracy_pct": 94.3,
+        "target_progress_pct": -20.88
       }
     ]
   },
@@ -63244,6 +65380,14 @@
         "actual_price": 254.76,
         "monthly_accuracy_pct": 95.61,
         "target_progress_pct": -4.56
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 267.05,
+        "actual_price": 250.0,
+        "monthly_accuracy_pct": 93.62,
+        "target_progress_pct": -10.35
       }
     ]
   },
@@ -63480,6 +65624,14 @@
         "actual_price": 735.64,
         "monthly_accuracy_pct": 87.77,
         "target_progress_pct": -31.41
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 839.95,
+        "actual_price": 730.76,
+        "monthly_accuracy_pct": 87.0,
+        "target_progress_pct": -33.36
       }
     ]
   },
@@ -63716,6 +65868,14 @@
         "actual_price": 301.83,
         "monthly_accuracy_pct": 97.23,
         "target_progress_pct": -0.15
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 311.07,
+        "actual_price": 301.67,
+        "monthly_accuracy_pct": 96.98,
+        "target_progress_pct": -0.33
       }
     ]
   },
@@ -63952,6 +66112,14 @@
         "actual_price": 283.4,
         "monthly_accuracy_pct": 91.22,
         "target_progress_pct": 67.93
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 260.84,
+        "actual_price": 285.42,
+        "monthly_accuracy_pct": 90.58,
+        "target_progress_pct": 73.02
       }
     ]
   },
@@ -64188,6 +66356,14 @@
         "actual_price": 286.8,
         "monthly_accuracy_pct": 87.24,
         "target_progress_pct": -65.39
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 329.18,
+        "actual_price": 292.55,
+        "monthly_accuracy_pct": 88.87,
+        "target_progress_pct": -55.03
       }
     ]
   },
@@ -64424,6 +66600,14 @@
         "actual_price": 168.68,
         "monthly_accuracy_pct": 96.18,
         "target_progress_pct": -20.8
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 175.55,
+        "actual_price": 170.83,
+        "monthly_accuracy_pct": 97.31,
+        "target_progress_pct": -10.8
       }
     ]
   },
@@ -64660,6 +66844,14 @@
         "actual_price": 277.46,
         "monthly_accuracy_pct": 86.02,
         "target_progress_pct": -18.16
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 323.7,
+        "actual_price": 263.94,
+        "monthly_accuracy_pct": 81.54,
+        "target_progress_pct": -26.29
       }
     ]
   },
@@ -64896,6 +67088,14 @@
         "actual_price": 70.06,
         "monthly_accuracy_pct": 93.71,
         "target_progress_pct": -12.85
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 74.91,
+        "actual_price": 69.54,
+        "monthly_accuracy_pct": 92.83,
+        "target_progress_pct": -15.35
       }
     ]
   },
@@ -65132,6 +67332,14 @@
         "actual_price": 198.64,
         "monthly_accuracy_pct": 97.3,
         "target_progress_pct": 21.08
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 193.78,
+        "actual_price": 195.91,
+        "monthly_accuracy_pct": 98.9,
+        "target_progress_pct": 15.23
       }
     ]
   },
@@ -65368,6 +67576,14 @@
         "actual_price": 73.97,
         "monthly_accuracy_pct": 94.89,
         "target_progress_pct": 39.95
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 70.46,
+        "actual_price": 75.42,
+        "monthly_accuracy_pct": 92.97,
+        "target_progress_pct": 51.94
       }
     ]
   },
@@ -65604,6 +67820,14 @@
         "actual_price": 82.75,
         "monthly_accuracy_pct": 90.4,
         "target_progress_pct": -46.91
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 91.66,
+        "actual_price": 83.87,
+        "monthly_accuracy_pct": 91.5,
+        "target_progress_pct": -39.64
       }
     ]
   },
@@ -65840,6 +68064,14 @@
         "actual_price": 289.2,
         "monthly_accuracy_pct": 90.06,
         "target_progress_pct": 41.21
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 263.67,
+        "actual_price": 293.17,
+        "monthly_accuracy_pct": 88.81,
+        "target_progress_pct": 46.0
       }
     ]
   },
@@ -66076,6 +68308,14 @@
         "actual_price": 126.94,
         "monthly_accuracy_pct": 91.13,
         "target_progress_pct": -55.03
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 139.44,
+        "actual_price": 125.75,
+        "monthly_accuracy_pct": 90.18,
+        "target_progress_pct": -61.32
       }
     ]
   },
@@ -66312,6 +68552,14 @@
         "actual_price": 468.5,
         "monthly_accuracy_pct": 86.14,
         "target_progress_pct": 100.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 411.96,
+        "actual_price": 458.84,
+        "monthly_accuracy_pct": 88.62,
+        "target_progress_pct": 85.34
       }
     ]
   },
@@ -66548,6 +68796,14 @@
         "actual_price": 271.19,
         "monthly_accuracy_pct": 98.74,
         "target_progress_pct": 2.41
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 275.01,
+        "actual_price": 272.28,
+        "monthly_accuracy_pct": 99.01,
+        "target_progress_pct": 4.86
       }
     ]
   },
@@ -66784,6 +69040,14 @@
         "actual_price": 343.21,
         "monthly_accuracy_pct": 91.44,
         "target_progress_pct": -6.68
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 376.77,
+        "actual_price": 325.0,
+        "monthly_accuracy_pct": 86.26,
+        "target_progress_pct": -15.48
       }
     ]
   },
@@ -67020,6 +69284,14 @@
         "actual_price": 158.41,
         "monthly_accuracy_pct": 95.73,
         "target_progress_pct": -6.64
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 165.8,
+        "actual_price": 161.56,
+        "monthly_accuracy_pct": 97.44,
+        "target_progress_pct": 0.7
       }
     ]
   },
@@ -67256,6 +69528,14 @@
         "actual_price": 83.66,
         "monthly_accuracy_pct": 93.62,
         "target_progress_pct": -25.97
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 89.49,
+        "actual_price": 83.96,
+        "monthly_accuracy_pct": 93.82,
+        "target_progress_pct": -24.07
       }
     ]
   },
@@ -67492,6 +69772,14 @@
         "actual_price": 224.33,
         "monthly_accuracy_pct": 98.4,
         "target_progress_pct": -0.79
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 228.23,
+        "actual_price": 222.66,
+        "monthly_accuracy_pct": 97.56,
+        "target_progress_pct": -5.87
       }
     ]
   },
@@ -67728,6 +70016,14 @@
         "actual_price": 562.23,
         "monthly_accuracy_pct": 89.32,
         "target_progress_pct": 23.43
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 510.32,
+        "actual_price": 528.75,
+        "monthly_accuracy_pct": 96.39,
+        "target_progress_pct": 14.16
       }
     ]
   },
@@ -67964,6 +70260,14 @@
         "actual_price": 239.15,
         "monthly_accuracy_pct": 98.89,
         "target_progress_pct": 4.32
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 242.2,
+        "actual_price": 235.0,
+        "monthly_accuracy_pct": 97.03,
+        "target_progress_pct": -4.6
       }
     ]
   },
@@ -68200,6 +70504,14 @@
         "actual_price": 324.38,
         "monthly_accuracy_pct": 91.68,
         "target_progress_pct": 46.67
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 299.98,
+        "actual_price": 319.51,
+        "monthly_accuracy_pct": 93.49,
+        "target_progress_pct": 39.5
       }
     ]
   },
@@ -68436,6 +70748,14 @@
         "actual_price": 42.48,
         "monthly_accuracy_pct": 95.87,
         "target_progress_pct": -17.82
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 44.36,
+        "actual_price": 43.5,
+        "monthly_accuracy_pct": 98.06,
+        "target_progress_pct": -2.15
       }
     ]
   },
@@ -68672,6 +70992,14 @@
         "actual_price": 27.31,
         "monthly_accuracy_pct": 88.02,
         "target_progress_pct": -51.75
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 31.07,
+        "actual_price": 27.45,
+        "monthly_accuracy_pct": 88.34,
+        "target_progress_pct": -49.42
       }
     ]
   },
@@ -68908,6 +71236,14 @@
         "actual_price": 1120.78,
         "monthly_accuracy_pct": 98.04,
         "target_progress_pct": -0.74
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1144.72,
+        "actual_price": 1134.38,
+        "monthly_accuracy_pct": 99.1,
+        "target_progress_pct": 5.89
       }
     ]
   },
@@ -69144,6 +71480,14 @@
         "actual_price": 42.34,
         "monthly_accuracy_pct": 77.92,
         "target_progress_pct": -58.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 54.47,
+        "actual_price": 41.62,
+        "monthly_accuracy_pct": 76.41,
+        "target_progress_pct": -62.74
       }
     ]
   },
@@ -69380,6 +71724,14 @@
         "actual_price": 218.65,
         "monthly_accuracy_pct": 89.3,
         "target_progress_pct": -42.58
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 245.22,
+        "actual_price": 215.28,
+        "monthly_accuracy_pct": 87.79,
+        "target_progress_pct": -49.35
       }
     ]
   },
@@ -69616,6 +71968,14 @@
         "actual_price": 356.52,
         "monthly_accuracy_pct": 95.28,
         "target_progress_pct": 15.55
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 341.96,
+        "actual_price": 332.73,
+        "monthly_accuracy_pct": 97.3,
+        "target_progress_pct": 5.14
       }
     ]
   },
@@ -69852,6 +72212,14 @@
         "actual_price": 80.0,
         "monthly_accuracy_pct": 96.38,
         "target_progress_pct": 30.89
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 77.31,
+        "actual_price": 82.26,
+        "monthly_accuracy_pct": 93.59,
+        "target_progress_pct": 47.63
       }
     ]
   },
@@ -70088,6 +72456,14 @@
         "actual_price": 248.52,
         "monthly_accuracy_pct": 97.28,
         "target_progress_pct": 26.06
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 242.26,
+        "actual_price": 248.17,
+        "monthly_accuracy_pct": 97.56,
+        "target_progress_pct": 25.22
       }
     ]
   },
@@ -70324,6 +72700,14 @@
         "actual_price": 241.24,
         "monthly_accuracy_pct": 98.58,
         "target_progress_pct": 10.38
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 238.98,
+        "actual_price": 227.83,
+        "monthly_accuracy_pct": 95.34,
+        "target_progress_pct": 2.51
       }
     ]
   },
@@ -70560,6 +72944,14 @@
         "actual_price": 74.04,
         "monthly_accuracy_pct": 91.03,
         "target_progress_pct": -42.24
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 81.45,
+        "actual_price": 73.68,
+        "monthly_accuracy_pct": 90.47,
+        "target_progress_pct": -44.83
       }
     ]
   },
@@ -70796,6 +73188,14 @@
         "actual_price": 891.28,
         "monthly_accuracy_pct": 84.06,
         "target_progress_pct": -68.29
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1061.95,
+        "actual_price": 881.26,
+        "monthly_accuracy_pct": 82.99,
+        "target_progress_pct": -72.93
       }
     ]
   },
@@ -71032,6 +73432,14 @@
         "actual_price": 87.63,
         "monthly_accuracy_pct": 79.02,
         "target_progress_pct": -61.71
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 111.13,
+        "actual_price": 86.21,
+        "monthly_accuracy_pct": 77.57,
+        "target_progress_pct": -66.07
       }
     ]
   },
@@ -71268,6 +73676,14 @@
         "actual_price": 31.38,
         "monthly_accuracy_pct": 87.96,
         "target_progress_pct": -34.75
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 35.75,
+        "actual_price": 30.98,
+        "monthly_accuracy_pct": 86.67,
+        "target_progress_pct": -38.9
       }
     ]
   },
@@ -71504,6 +73920,14 @@
         "actual_price": 996.26,
         "monthly_accuracy_pct": 94.62,
         "target_progress_pct": -23.98
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1054.23,
+        "actual_price": 985.98,
+        "monthly_accuracy_pct": 93.53,
+        "target_progress_pct": -30.19
       }
     ]
   },
@@ -71740,6 +74164,14 @@
         "actual_price": 308.09,
         "monthly_accuracy_pct": 99.69,
         "target_progress_pct": 8.6
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 309.87,
+        "actual_price": 314.98,
+        "monthly_accuracy_pct": 98.35,
+        "target_progress_pct": 14.69
       }
     ]
   },
@@ -71976,6 +74408,14 @@
         "actual_price": 1134.24,
         "monthly_accuracy_pct": 95.98,
         "target_progress_pct": -14.41
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1183.26,
+        "actual_price": 1139.34,
+        "monthly_accuracy_pct": 96.29,
+        "target_progress_pct": -11.77
       }
     ]
   },
@@ -72212,6 +74652,14 @@
         "actual_price": 336.92,
         "monthly_accuracy_pct": 99.27,
         "target_progress_pct": 5.75
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 339.84,
+        "actual_price": 335.2,
+        "monthly_accuracy_pct": 98.63,
+        "target_progress_pct": 2.67
       }
     ]
   },
@@ -72448,6 +74896,14 @@
         "actual_price": 18.22,
         "monthly_accuracy_pct": 94.32,
         "target_progress_pct": 37.22
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 17.27,
+        "actual_price": 18.66,
+        "monthly_accuracy_pct": 91.94,
+        "target_progress_pct": 49.44
       }
     ]
   },
@@ -72684,6 +75140,14 @@
         "actual_price": 54.4,
         "monthly_accuracy_pct": 84.08,
         "target_progress_pct": -76.66
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 64.79,
+        "actual_price": 55.7,
+        "monthly_accuracy_pct": 85.96,
+        "target_progress_pct": -65.71
       }
     ]
   },
@@ -72920,6 +75384,14 @@
         "actual_price": 275.0,
         "monthly_accuracy_pct": 89.69,
         "target_progress_pct": -30.92
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 307.18,
+        "actual_price": 271.37,
+        "monthly_accuracy_pct": 88.34,
+        "target_progress_pct": -35.6
       }
     ]
   },
@@ -73156,6 +75628,14 @@
         "actual_price": 103.76,
         "monthly_accuracy_pct": 96.05,
         "target_progress_pct": -17.95
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 108.15,
+        "actual_price": 106.08,
+        "monthly_accuracy_pct": 98.09,
+        "target_progress_pct": -2.58
       }
     ]
   },
@@ -73392,6 +75872,14 @@
         "actual_price": 30.85,
         "monthly_accuracy_pct": 90.42,
         "target_progress_pct": -11.0
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 34.23,
+        "actual_price": 30.01,
+        "monthly_accuracy_pct": 87.67,
+        "target_progress_pct": -16.16
       }
     ]
   },
@@ -73628,6 +76116,14 @@
         "actual_price": 29.44,
         "monthly_accuracy_pct": 98.14,
         "target_progress_pct": 22.45
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 28.94,
+        "actual_price": 29.58,
+        "monthly_accuracy_pct": 97.78,
+        "target_progress_pct": 25.62
       }
     ]
   },
@@ -73864,6 +76360,14 @@
         "actual_price": 141.97,
         "monthly_accuracy_pct": 95.48,
         "target_progress_pct": -17.71
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 148.88,
+        "actual_price": 141.08,
+        "monthly_accuracy_pct": 94.76,
+        "target_progress_pct": -21.4
       }
     ]
   },
@@ -74100,6 +76604,14 @@
         "actual_price": 165.44,
         "monthly_accuracy_pct": 86.72,
         "target_progress_pct": -51.16
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 191.09,
+        "actual_price": 165.54,
+        "monthly_accuracy_pct": 86.63,
+        "target_progress_pct": -50.92
       }
     ]
   },
@@ -74336,6 +76848,14 @@
         "actual_price": 30.22,
         "monthly_accuracy_pct": 97.9,
         "target_progress_pct": -3.66
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 30.9,
+        "actual_price": 30.03,
+        "monthly_accuracy_pct": 97.17,
+        "target_progress_pct": -7.74
       }
     ]
   },
@@ -74572,6 +77092,14 @@
         "actual_price": 424.81,
         "monthly_accuracy_pct": 94.09,
         "target_progress_pct": -23.85
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 452.09,
+        "actual_price": 429.64,
+        "monthly_accuracy_pct": 95.03,
+        "target_progress_pct": -17.69
       }
     ]
   },
@@ -74808,6 +77336,14 @@
         "actual_price": 182.1,
         "monthly_accuracy_pct": 81.84,
         "target_progress_pct": -74.38
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 222.88,
+        "actual_price": 180.57,
+        "monthly_accuracy_pct": 81.02,
+        "target_progress_pct": -77.57
       }
     ]
   },
@@ -75044,6 +77580,14 @@
         "actual_price": 266.25,
         "monthly_accuracy_pct": 81.52,
         "target_progress_pct": 39.37
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 225.63,
+        "actual_price": 247.11,
+        "monthly_accuracy_pct": 90.48,
+        "target_progress_pct": 25.24
       }
     ]
   },
@@ -75280,6 +77824,14 @@
         "actual_price": 156.63,
         "monthly_accuracy_pct": 93.84,
         "target_progress_pct": -32.61
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 167.09,
+        "actual_price": 154.26,
+        "monthly_accuracy_pct": 92.32,
+        "target_progress_pct": -42.51
       }
     ]
   },
@@ -75516,6 +78068,14 @@
         "actual_price": 94.16,
         "monthly_accuracy_pct": 84.69,
         "target_progress_pct": -81.56
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 111.33,
+        "actual_price": 91.96,
+        "monthly_accuracy_pct": 82.6,
+        "target_progress_pct": -93.42
       }
     ]
   },
@@ -75752,6 +78312,14 @@
         "actual_price": 106.04,
         "monthly_accuracy_pct": 98.54,
         "target_progress_pct": 0.61
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 107.74,
+        "actual_price": 108.71,
+        "monthly_accuracy_pct": 99.1,
+        "target_progress_pct": 16.96
       }
     ]
   },
@@ -75988,6 +78556,14 @@
         "actual_price": 998.64,
         "monthly_accuracy_pct": 91.67,
         "target_progress_pct": 67.47
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 922.86,
+        "actual_price": 1004.84,
+        "monthly_accuracy_pct": 91.12,
+        "target_progress_pct": 72.09
       }
     ]
   },
@@ -76224,6 +78800,14 @@
         "actual_price": 54.96,
         "monthly_accuracy_pct": 89.69,
         "target_progress_pct": -29.82
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 61.4,
+        "actual_price": 55.0,
+        "monthly_accuracy_pct": 89.58,
+        "target_progress_pct": -29.57
       }
     ]
   },
@@ -76460,6 +79044,14 @@
         "actual_price": 29.66,
         "monthly_accuracy_pct": 98.3,
         "target_progress_pct": 2.97
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 30.23,
+        "actual_price": 29.93,
+        "monthly_accuracy_pct": 99.02,
+        "target_progress_pct": 6.62
       }
     ]
   },
@@ -76696,6 +79288,14 @@
         "actual_price": 124.41,
         "monthly_accuracy_pct": 93.01,
         "target_progress_pct": -30.54
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 133.93,
+        "actual_price": 124.18,
+        "monthly_accuracy_pct": 92.72,
+        "target_progress_pct": -31.55
       }
     ]
   },
@@ -76932,6 +79532,14 @@
         "actual_price": 961.75,
         "monthly_accuracy_pct": 98.07,
         "target_progress_pct": -0.47
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 982.1,
+        "actual_price": 963.34,
+        "monthly_accuracy_pct": 98.09,
+        "target_progress_pct": 0.42
       }
     ]
   },
@@ -77168,6 +79776,14 @@
         "actual_price": 122.91,
         "monthly_accuracy_pct": 82.84,
         "target_progress_pct": 134.39
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 105.02,
+        "actual_price": 120.28,
+        "monthly_accuracy_pct": 85.47,
+        "target_progress_pct": 116.26
       }
     ]
   },
@@ -77404,6 +80020,14 @@
         "actual_price": 7.26,
         "monthly_accuracy_pct": 64.74,
         "target_progress_pct": -97.56
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 11.24,
+        "actual_price": 6.91,
+        "monthly_accuracy_pct": 61.47,
+        "target_progress_pct": -107.05
       }
     ]
   },
@@ -77640,6 +80264,14 @@
         "actual_price": 108.96,
         "monthly_accuracy_pct": 91.5,
         "target_progress_pct": -32.42
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 119.26,
+        "actual_price": 108.81,
+        "monthly_accuracy_pct": 91.24,
+        "target_progress_pct": -33.05
       }
     ]
   },
@@ -77876,6 +80508,14 @@
         "actual_price": 181.91,
         "monthly_accuracy_pct": 88.14,
         "target_progress_pct": 37.52
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 163.1,
+        "actual_price": 169.13,
+        "monthly_accuracy_pct": 96.31,
+        "target_progress_pct": 18.8
       }
     ]
   },
@@ -78112,6 +80752,14 @@
         "actual_price": 110.81,
         "monthly_accuracy_pct": 87.29,
         "target_progress_pct": -63.08
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 127.11,
+        "actual_price": 110.82,
+        "monthly_accuracy_pct": 87.18,
+        "target_progress_pct": -63.03
       }
     ]
   },
@@ -78348,6 +80996,14 @@
         "actual_price": 174.47,
         "monthly_accuracy_pct": 91.25,
         "target_progress_pct": -51.12
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 191.41,
+        "actual_price": 175.97,
+        "monthly_accuracy_pct": 91.93,
+        "target_progress_pct": -45.61
       }
     ]
   },
@@ -78584,6 +81240,14 @@
         "actual_price": 45.71,
         "monthly_accuracy_pct": 87.13,
         "target_progress_pct": -178.43
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 52.49,
+        "actual_price": 46.35,
+        "monthly_accuracy_pct": 88.31,
+        "target_progress_pct": -160.5
       }
     ]
   },
@@ -78820,6 +81484,14 @@
         "actual_price": 186.54,
         "monthly_accuracy_pct": 98.71,
         "target_progress_pct": 2.53
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 189.21,
+        "actual_price": 188.35,
+        "monthly_accuracy_pct": 99.54,
+        "target_progress_pct": 8.25
       }
     ]
   },
@@ -79056,6 +81728,14 @@
         "actual_price": 87.86,
         "monthly_accuracy_pct": 93.64,
         "target_progress_pct": -17.86
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 93.99,
+        "actual_price": 85.81,
+        "monthly_accuracy_pct": 91.3,
+        "target_progress_pct": -27.41
       }
     ]
   },
@@ -79292,6 +81972,14 @@
         "actual_price": 133.51,
         "monthly_accuracy_pct": 94.56,
         "target_progress_pct": -14.7
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 141.42,
+        "actual_price": 133.96,
+        "monthly_accuracy_pct": 94.73,
+        "target_progress_pct": -13.26
       }
     ]
   },
@@ -79528,6 +82216,14 @@
         "actual_price": 242.5,
         "monthly_accuracy_pct": 93.52,
         "target_progress_pct": -37.76
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 259.57,
+        "actual_price": 242.97,
+        "monthly_accuracy_pct": 93.6,
+        "target_progress_pct": -36.42
       }
     ]
   },
@@ -79764,6 +82460,14 @@
         "actual_price": 100.27,
         "monthly_accuracy_pct": 99.42,
         "target_progress_pct": 12.84
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 99.85,
+        "actual_price": 100.76,
+        "monthly_accuracy_pct": 99.09,
+        "target_progress_pct": 15.21
       }
     ]
   },
@@ -80000,6 +82704,14 @@
         "actual_price": 642.21,
         "monthly_accuracy_pct": 99.88,
         "target_progress_pct": 9.29
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 644.4,
+        "actual_price": 631.86,
+        "monthly_accuracy_pct": 98.05,
+        "target_progress_pct": 3.89
       }
     ]
   },
@@ -80236,6 +82948,14 @@
         "actual_price": 154.71,
         "monthly_accuracy_pct": 84.48,
         "target_progress_pct": 64.46
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 134.2,
+        "actual_price": 152.64,
+        "monthly_accuracy_pct": 86.26,
+        "target_progress_pct": 59.02
       }
     ]
   },
@@ -80472,6 +83192,14 @@
         "actual_price": 269.66,
         "monthly_accuracy_pct": 95.45,
         "target_progress_pct": -23.75
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 282.8,
+        "actual_price": 269.43,
+        "monthly_accuracy_pct": 95.27,
+        "target_progress_pct": -24.36
       }
     ]
   },
@@ -80708,6 +83436,14 @@
         "actual_price": 157.37,
         "monthly_accuracy_pct": 86.61,
         "target_progress_pct": -62.34
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 181.95,
+        "actual_price": 156.78,
+        "monthly_accuracy_pct": 86.17,
+        "target_progress_pct": -64.09
       }
     ]
   },
@@ -80944,6 +83680,14 @@
         "actual_price": 252.03,
         "monthly_accuracy_pct": 91.1,
         "target_progress_pct": 62.67
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 231.72,
+        "actual_price": 250.16,
+        "monthly_accuracy_pct": 92.04,
+        "target_progress_pct": 57.91
       }
     ]
   },
@@ -81180,6 +83924,14 @@
         "actual_price": 250.6,
         "monthly_accuracy_pct": 84.92,
         "target_progress_pct": -21.3
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 296.12,
+        "actual_price": 232.9,
+        "monthly_accuracy_pct": 78.65,
+        "target_progress_pct": -33.37
       }
     ]
   },
@@ -81416,6 +84168,14 @@
         "actual_price": 229.65,
         "monthly_accuracy_pct": 98.56,
         "target_progress_pct": 19.36
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 226.66,
+        "actual_price": 231.54,
+        "monthly_accuracy_pct": 97.85,
+        "target_progress_pct": 24.64
       }
     ]
   },
@@ -81652,6 +84412,14 @@
         "actual_price": 308.24,
         "monthly_accuracy_pct": 94.62,
         "target_progress_pct": -28.09
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 326.11,
+        "actual_price": 309.63,
+        "monthly_accuracy_pct": 94.95,
+        "target_progress_pct": -25.04
       }
     ]
   },
@@ -81888,6 +84656,14 @@
         "actual_price": 287.76,
         "monthly_accuracy_pct": 99.88,
         "target_progress_pct": 9.5
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 288.49,
+        "actual_price": 286.82,
+        "monthly_accuracy_pct": 99.42,
+        "target_progress_pct": 7.68
       }
     ]
   },
@@ -82124,6 +84900,14 @@
         "actual_price": 381.35,
         "monthly_accuracy_pct": 98.39,
         "target_progress_pct": 0.73
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 388.11,
+        "actual_price": 389.1,
+        "monthly_accuracy_pct": 99.75,
+        "target_progress_pct": 12.46
       }
     ]
   },
@@ -82360,6 +85144,14 @@
         "actual_price": 128.38,
         "monthly_accuracy_pct": 92.28,
         "target_progress_pct": -65.19
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 139.23,
+        "actual_price": 131.49,
+        "monthly_accuracy_pct": 94.44,
+        "target_progress_pct": -43.27
       }
     ]
   },
@@ -82596,6 +85388,14 @@
         "actual_price": 188.73,
         "monthly_accuracy_pct": 87.19,
         "target_progress_pct": -56.31
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 216.79,
+        "actual_price": 190.21,
+        "monthly_accuracy_pct": 87.74,
+        "target_progress_pct": -52.77
       }
     ]
   },
@@ -82832,6 +85632,14 @@
         "actual_price": 81.57,
         "monthly_accuracy_pct": 98.59,
         "target_progress_pct": 0.26
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 82.82,
+        "actual_price": 83.3,
+        "monthly_accuracy_pct": 99.42,
+        "target_progress_pct": 15.21
       }
     ]
   },
@@ -83068,6 +85876,14 @@
         "actual_price": 174.68,
         "monthly_accuracy_pct": 92.86,
         "target_progress_pct": 42.63
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 163.31,
+        "actual_price": 178.98,
+        "monthly_accuracy_pct": 90.4,
+        "target_progress_pct": 54.68
       }
     ]
   },
@@ -83304,6 +86120,14 @@
         "actual_price": 124.29,
         "monthly_accuracy_pct": 98.27,
         "target_progress_pct": -1.09
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 126.63,
+        "actual_price": 127.14,
+        "monthly_accuracy_pct": 99.6,
+        "target_progress_pct": 13.7
       }
     ]
   },
@@ -83540,6 +86364,14 @@
         "actual_price": 5940.83,
         "monthly_accuracy_pct": 92.94,
         "target_progress_pct": -39.49
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 6399.35,
+        "actual_price": 5919.82,
+        "monthly_accuracy_pct": 92.51,
+        "target_progress_pct": -41.81
       }
     ]
   },
@@ -83776,6 +86608,14 @@
         "actual_price": 82.15,
         "monthly_accuracy_pct": 98.61,
         "target_progress_pct": 22.39
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 81.1,
+        "actual_price": 82.22,
+        "monthly_accuracy_pct": 98.62,
+        "target_progress_pct": 23.13
       }
     ]
   },
@@ -84012,6 +86852,14 @@
         "actual_price": 73.84,
         "monthly_accuracy_pct": 94.08,
         "target_progress_pct": 62.31
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 69.77,
+        "actual_price": 75.11,
+        "monthly_accuracy_pct": 92.35,
+        "target_progress_pct": 78.27
       }
     ]
   },
@@ -84248,6 +87096,14 @@
         "actual_price": 148.57,
         "monthly_accuracy_pct": 99.74,
         "target_progress_pct": 9.45
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 148.71,
+        "actual_price": 141.97,
+        "monthly_accuracy_pct": 95.47,
+        "target_progress_pct": 0.92
       }
     ]
   },
@@ -84484,6 +87340,14 @@
         "actual_price": 109.86,
         "monthly_accuracy_pct": 99.11,
         "target_progress_pct": 16.56
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 109.01,
+        "actual_price": 112.26,
+        "monthly_accuracy_pct": 97.02,
+        "target_progress_pct": 32.02
       }
     ]
   },
@@ -84720,6 +87584,14 @@
         "actual_price": 77.69,
         "monthly_accuracy_pct": 91.0,
         "target_progress_pct": -33.02
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 85.51,
+        "actual_price": 77.08,
+        "monthly_accuracy_pct": 90.15,
+        "target_progress_pct": -36.43
       }
     ]
   },
@@ -84956,6 +87828,14 @@
         "actual_price": 55.55,
         "monthly_accuracy_pct": 89.42,
         "target_progress_pct": -67.22
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 62.19,
+        "actual_price": 56.08,
+        "monthly_accuracy_pct": 90.17,
+        "target_progress_pct": -60.97
       }
     ]
   },
@@ -85192,6 +88072,14 @@
         "actual_price": 156.47,
         "monthly_accuracy_pct": 92.15,
         "target_progress_pct": -21.77
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 170.12,
+        "actual_price": 153.19,
+        "monthly_accuracy_pct": 90.05,
+        "target_progress_pct": -29.56
       }
     ]
   },
@@ -85428,6 +88316,14 @@
         "actual_price": 219.7,
         "monthly_accuracy_pct": 82.78,
         "target_progress_pct": -64.2
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 265.86,
+        "actual_price": 220.96,
+        "monthly_accuracy_pct": 83.11,
+        "target_progress_pct": -62.15
       }
     ]
   },
@@ -85664,6 +88560,14 @@
         "actual_price": 1251.61,
         "monthly_accuracy_pct": 93.65,
         "target_progress_pct": 36.85
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1178.99,
+        "actual_price": 1257.03,
+        "monthly_accuracy_pct": 93.38,
+        "target_progress_pct": 38.81
       }
     ]
   },
@@ -85900,6 +88804,14 @@
         "actual_price": 18.67,
         "monthly_accuracy_pct": 98.27,
         "target_progress_pct": -2.8
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 19.02,
+        "actual_price": 18.91,
+        "monthly_accuracy_pct": 99.43,
+        "target_progress_pct": 6.8
       }
     ]
   },
@@ -86136,6 +89048,14 @@
         "actual_price": 30.58,
         "monthly_accuracy_pct": 80.84,
         "target_progress_pct": -73.25
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 37.89,
+        "actual_price": 29.89,
+        "monthly_accuracy_pct": 78.88,
+        "target_progress_pct": -81.17
       }
     ]
   },
@@ -86372,6 +89292,14 @@
         "actual_price": 70.21,
         "monthly_accuracy_pct": 93.84,
         "target_progress_pct": -32.02
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 74.91,
+        "actual_price": 71.49,
+        "monthly_accuracy_pct": 95.44,
+        "target_progress_pct": -20.28
       }
     ]
   },
@@ -86608,6 +89536,14 @@
         "actual_price": 154.33,
         "monthly_accuracy_pct": 99.48,
         "target_progress_pct": 7.19
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 155.35,
+        "actual_price": 150.48,
+        "monthly_accuracy_pct": 96.87,
+        "target_progress_pct": -7.01
       }
     ]
   },
@@ -86844,6 +89780,14 @@
         "actual_price": 464.71,
         "monthly_accuracy_pct": 99.22,
         "target_progress_pct": 5.33
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 468.96,
+        "actual_price": 461.1,
+        "monthly_accuracy_pct": 98.32,
+        "target_progress_pct": 0.51
       }
     ]
   },
@@ -87080,6 +90024,14 @@
         "actual_price": 616.32,
         "monthly_accuracy_pct": 95.41,
         "target_progress_pct": 37.6
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 590.04,
+        "actual_price": 617.42,
+        "monthly_accuracy_pct": 95.36,
+        "target_progress_pct": 38.72
       }
     ]
   },
@@ -87316,6 +90268,14 @@
         "actual_price": 312.0,
         "monthly_accuracy_pct": 90.72,
         "target_progress_pct": -37.24
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 344.44,
+        "actual_price": 313.83,
+        "monthly_accuracy_pct": 91.11,
+        "target_progress_pct": -34.52
       }
     ]
   },
@@ -87552,6 +90512,14 @@
         "actual_price": 473.39,
         "monthly_accuracy_pct": 85.84,
         "target_progress_pct": -16.41
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 553.56,
+        "actual_price": 451.71,
+        "monthly_accuracy_pct": 81.6,
+        "target_progress_pct": -23.42
       }
     ]
   },
@@ -87788,6 +90756,14 @@
         "actual_price": 110.78,
         "monthly_accuracy_pct": 89.09,
         "target_progress_pct": -41.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 124.54,
+        "actual_price": 111.63,
+        "monthly_accuracy_pct": 89.63,
+        "target_progress_pct": -38.41
       }
     ]
   },
@@ -88024,6 +91000,14 @@
         "actual_price": 335.53,
         "monthly_accuracy_pct": 91.99,
         "target_progress_pct": -38.59
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 365.22,
+        "actual_price": 339.72,
+        "monthly_accuracy_pct": 93.02,
+        "target_progress_pct": -31.59
       }
     ]
   },
@@ -88260,6 +91244,14 @@
         "actual_price": 342.0,
         "monthly_accuracy_pct": 95.48,
         "target_progress_pct": 30.36
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 327.76,
+        "actual_price": 343.46,
+        "monthly_accuracy_pct": 95.21,
+        "target_progress_pct": 32.37
       }
     ]
   },
@@ -88496,6 +91488,14 @@
         "actual_price": 41.25,
         "monthly_accuracy_pct": 98.25,
         "target_progress_pct": -2.44
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 42.03,
+        "actual_price": 42.68,
+        "monthly_accuracy_pct": 98.45,
+        "target_progress_pct": 22.47
       }
     ]
   },
@@ -88732,6 +91732,14 @@
         "actual_price": 422.03,
         "monthly_accuracy_pct": 95.25,
         "target_progress_pct": -12.79
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 443.75,
+        "actual_price": 426.23,
+        "monthly_accuracy_pct": 96.05,
+        "target_progress_pct": -8.23
       }
     ]
   },
@@ -88968,6 +91976,14 @@
         "actual_price": 48.69,
         "monthly_accuracy_pct": 96.85,
         "target_progress_pct": -8.52
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 50.34,
+        "actual_price": 48.68,
+        "monthly_accuracy_pct": 96.71,
+        "target_progress_pct": -8.64
       }
     ]
   },
@@ -89204,6 +92220,14 @@
         "actual_price": 47.21,
         "monthly_accuracy_pct": 85.45,
         "target_progress_pct": -23.68
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 55.42,
+        "actual_price": 47.55,
+        "monthly_accuracy_pct": 85.8,
+        "target_progress_pct": -22.29
       }
     ]
   },
@@ -89440,6 +92464,14 @@
         "actual_price": 240.76,
         "monthly_accuracy_pct": 97.45,
         "target_progress_pct": -2.61
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 247.44,
+        "actual_price": 240.54,
+        "monthly_accuracy_pct": 97.21,
+        "target_progress_pct": -3.06
       }
     ]
   },
@@ -89676,6 +92708,14 @@
         "actual_price": 167.6,
         "monthly_accuracy_pct": 84.37,
         "target_progress_pct": -60.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 198.98,
+        "actual_price": 165.72,
+        "monthly_accuracy_pct": 83.28,
+        "target_progress_pct": -64.92
       }
     ]
   },
@@ -89912,6 +92952,14 @@
         "actual_price": 110.68,
         "monthly_accuracy_pct": 96.39,
         "target_progress_pct": 36.58
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 106.94,
+        "actual_price": 110.59,
+        "monthly_accuracy_pct": 96.59,
+        "target_progress_pct": 35.97
       }
     ]
   },
@@ -90148,6 +93196,14 @@
         "actual_price": 75.12,
         "monthly_accuracy_pct": 97.73,
         "target_progress_pct": -5.39
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 76.95,
+        "actual_price": 76.31,
+        "monthly_accuracy_pct": 99.17,
+        "target_progress_pct": 5.3
       }
     ]
   },
@@ -90384,6 +93440,14 @@
         "actual_price": 325.07,
         "monthly_accuracy_pct": 97.91,
         "target_progress_pct": -3.65
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 332.4,
+        "actual_price": 317.95,
+        "monthly_accuracy_pct": 95.65,
+        "target_progress_pct": -17.92
       }
     ]
   },
@@ -90620,6 +93684,14 @@
         "actual_price": 869.54,
         "monthly_accuracy_pct": 93.42,
         "target_progress_pct": -2.05
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 934.65,
+        "actual_price": 824.13,
+        "monthly_accuracy_pct": 88.18,
+        "target_progress_pct": -10.0
       }
     ]
   },
@@ -90856,6 +93928,14 @@
         "actual_price": 39.8,
         "monthly_accuracy_pct": 98.77,
         "target_progress_pct": 2.14
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 40.34,
+        "actual_price": 40.55,
+        "monthly_accuracy_pct": 99.48,
+        "target_progress_pct": 14.47
       }
     ]
   },
@@ -91092,6 +94172,14 @@
         "actual_price": 92.67,
         "monthly_accuracy_pct": 96.81,
         "target_progress_pct": 39.39
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 89.88,
+        "actual_price": 94.11,
+        "monthly_accuracy_pct": 95.3,
+        "target_progress_pct": 53.94
       }
     ]
   },
@@ -91328,6 +94416,14 @@
         "actual_price": 104.68,
         "monthly_accuracy_pct": 95.37,
         "target_progress_pct": -26.43
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 109.87,
+        "actual_price": 104.89,
+        "monthly_accuracy_pct": 95.47,
+        "target_progress_pct": -24.91
       }
     ]
   },
@@ -91564,6 +94660,14 @@
         "actual_price": 234.83,
         "monthly_accuracy_pct": 100.0,
         "target_progress_pct": 10.19
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 235.14,
+        "actual_price": 236.89,
+        "monthly_accuracy_pct": 99.25,
+        "target_progress_pct": 15.26
       }
     ]
   },
@@ -91800,6 +94904,14 @@
         "actual_price": 112.68,
         "monthly_accuracy_pct": 94.32,
         "target_progress_pct": -16.05
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 119.66,
+        "actual_price": 112.51,
+        "monthly_accuracy_pct": 94.02,
+        "target_progress_pct": -16.71
       }
     ]
   },
@@ -92036,6 +95148,14 @@
         "actual_price": 175.55,
         "monthly_accuracy_pct": 85.56,
         "target_progress_pct": 99.16
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 153.6,
+        "actual_price": 172.97,
+        "monthly_accuracy_pct": 87.39,
+        "target_progress_pct": 88.8
       }
     ]
   },
@@ -92272,6 +95392,14 @@
         "actual_price": 65.99,
         "monthly_accuracy_pct": 91.5,
         "target_progress_pct": -48.75
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 72.2,
+        "actual_price": 66.85,
+        "monthly_accuracy_pct": 92.59,
+        "target_progress_pct": -40.46
       }
     ]
   },
@@ -92508,6 +95636,14 @@
         "actual_price": 341.41,
         "monthly_accuracy_pct": 98.43,
         "target_progress_pct": 20.73
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 336.52,
+        "actual_price": 340.92,
+        "monthly_accuracy_pct": 98.69,
+        "target_progress_pct": 19.76
       }
     ]
   },
@@ -92744,6 +95880,14 @@
         "actual_price": 28.58,
         "monthly_accuracy_pct": 94.42,
         "target_progress_pct": 56.57
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 27.1,
+        "actual_price": 28.88,
+        "monthly_accuracy_pct": 93.41,
+        "target_progress_pct": 65.75
       }
     ]
   },
@@ -92980,6 +96124,14 @@
         "actual_price": 174.28,
         "monthly_accuracy_pct": 93.57,
         "target_progress_pct": -17.67
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 186.58,
+        "actual_price": 173.7,
+        "monthly_accuracy_pct": 93.1,
+        "target_progress_pct": -19.0
       }
     ]
   },
@@ -93216,6 +96368,14 @@
         "actual_price": 427.86,
         "monthly_accuracy_pct": 85.51,
         "target_progress_pct": 88.45
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 374.23,
+        "actual_price": 426.7,
+        "monthly_accuracy_pct": 85.98,
+        "target_progress_pct": 86.77
       }
     ]
   },
@@ -93452,6 +96612,14 @@
         "actual_price": 200.5,
         "monthly_accuracy_pct": 90.21,
         "target_progress_pct": 28.41
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 183.26,
+        "actual_price": 186.03,
+        "monthly_accuracy_pct": 98.49,
+        "target_progress_pct": 12.7
       }
     ]
   },
@@ -93688,6 +96856,14 @@
         "actual_price": 144.58,
         "monthly_accuracy_pct": 92.07,
         "target_progress_pct": 68.83
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 134.1,
+        "actual_price": 147.33,
+        "monthly_accuracy_pct": 90.13,
+        "target_progress_pct": 83.98
       }
     ]
   },
@@ -93924,6 +97100,14 @@
         "actual_price": 88.5,
         "monthly_accuracy_pct": 99.09,
         "target_progress_pct": 4.39
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 89.42,
+        "actual_price": 89.27,
+        "monthly_accuracy_pct": 99.83,
+        "target_progress_pct": 9.93
       }
     ]
   },
@@ -94160,6 +97344,14 @@
         "actual_price": 383.02,
         "monthly_accuracy_pct": 90.28,
         "target_progress_pct": 46.38
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 349.77,
+        "actual_price": 384.02,
+        "monthly_accuracy_pct": 90.21,
+        "target_progress_pct": 47.45
       }
     ]
   },
@@ -94396,6 +97588,14 @@
         "actual_price": 313.87,
         "monthly_accuracy_pct": 94.58,
         "target_progress_pct": -22.01
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 332.29,
+        "actual_price": 313.59,
+        "monthly_accuracy_pct": 94.37,
+        "target_progress_pct": -22.51
       }
     ]
   },
@@ -94632,6 +97832,14 @@
         "actual_price": 67.1,
         "monthly_accuracy_pct": 97.26,
         "target_progress_pct": -8.76
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 69.07,
+        "actual_price": 68.32,
+        "monthly_accuracy_pct": 98.91,
+        "target_progress_pct": 3.52
       }
     ]
   },
@@ -94867,6 +98075,14 @@
         "expected_price": 89.12,
         "actual_price": 12.88,
         "monthly_accuracy_pct": 14.45,
+        "target_progress_pct": -614.59
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 89.22,
+        "actual_price": 12.88,
+        "monthly_accuracy_pct": 14.44,
         "target_progress_pct": -614.59
       }
     ]
@@ -95104,6 +98320,14 @@
         "actual_price": 48.37,
         "monthly_accuracy_pct": 82.02,
         "target_progress_pct": -61.67
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 59.08,
+        "actual_price": 49.5,
+        "monthly_accuracy_pct": 83.78,
+        "target_progress_pct": -54.05
       }
     ]
   },
@@ -95340,6 +98564,14 @@
         "actual_price": 483.69,
         "monthly_accuracy_pct": 96.36,
         "target_progress_pct": -11.98
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 502.59,
+        "actual_price": 485.07,
+        "monthly_accuracy_pct": 96.51,
+        "target_progress_pct": -10.31
       }
     ]
   },
@@ -95576,6 +98808,14 @@
         "actual_price": 142.09,
         "monthly_accuracy_pct": 84.49,
         "target_progress_pct": -68.71
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 168.43,
+        "actual_price": 143.3,
+        "monthly_accuracy_pct": 85.08,
+        "target_progress_pct": -65.06
       }
     ]
   },
@@ -95812,6 +99052,14 @@
         "actual_price": 154.17,
         "monthly_accuracy_pct": 98.18,
         "target_progress_pct": 23.72
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 151.58,
+        "actual_price": 152.02,
+        "monthly_accuracy_pct": 99.71,
+        "target_progress_pct": 13.25
       }
     ]
   },
@@ -96048,6 +99296,14 @@
         "actual_price": 324.83,
         "monthly_accuracy_pct": 97.01,
         "target_progress_pct": -8.81
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 335.25,
+        "actual_price": 326.92,
+        "monthly_accuracy_pct": 97.51,
+        "target_progress_pct": -4.83
       }
     ]
   },
@@ -96284,6 +99540,14 @@
         "actual_price": 289.46,
         "monthly_accuracy_pct": 99.45,
         "target_progress_pct": 7.94
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 291.81,
+        "actual_price": 293.87,
+        "monthly_accuracy_pct": 99.29,
+        "target_progress_pct": 12.22
       }
     ]
   },
@@ -96520,6 +99784,14 @@
         "actual_price": 95.37,
         "monthly_accuracy_pct": 94.21,
         "target_progress_pct": -0.69
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 101.65,
+        "actual_price": 89.85,
+        "monthly_accuracy_pct": 88.39,
+        "target_progress_pct": -9.49
       }
     ]
   },
@@ -96756,6 +100028,14 @@
         "actual_price": 150.83,
         "monthly_accuracy_pct": 98.64,
         "target_progress_pct": 0.56
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 153.07,
+        "actual_price": 150.51,
+        "monthly_accuracy_pct": 98.33,
+        "target_progress_pct": -0.94
       }
     ]
   },
@@ -96992,6 +100272,14 @@
         "actual_price": 88.1,
         "monthly_accuracy_pct": 96.31,
         "target_progress_pct": -11.62
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 91.6,
+        "actual_price": 86.6,
+        "monthly_accuracy_pct": 94.54,
+        "target_progress_pct": -21.3
       }
     ]
   },
@@ -97228,6 +100516,14 @@
         "actual_price": 138.43,
         "monthly_accuracy_pct": 84.17,
         "target_progress_pct": -13.02
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 165.25,
+        "actual_price": 132.0,
+        "monthly_accuracy_pct": 79.88,
+        "target_progress_pct": -18.3
       }
     ]
   },
@@ -97464,6 +100760,14 @@
         "actual_price": 109.2,
         "monthly_accuracy_pct": 78.39,
         "target_progress_pct": -85.12
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 139.54,
+        "actual_price": 106.61,
+        "monthly_accuracy_pct": 76.4,
+        "target_progress_pct": -93.3
       }
     ]
   },
@@ -97700,6 +101004,14 @@
         "actual_price": 66.94,
         "monthly_accuracy_pct": 96.26,
         "target_progress_pct": -14.49
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 69.62,
+        "actual_price": 68.7,
+        "monthly_accuracy_pct": 98.68,
+        "target_progress_pct": 2.29
       }
     ]
   },
@@ -97936,6 +101248,14 @@
         "actual_price": 39.03,
         "monthly_accuracy_pct": 95.35,
         "target_progress_pct": -35.42
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 40.97,
+        "actual_price": 39.52,
+        "monthly_accuracy_pct": 96.47,
+        "target_progress_pct": -23.61
       }
     ]
   },
@@ -98172,6 +101492,14 @@
         "actual_price": 399.75,
         "monthly_accuracy_pct": 95.24,
         "target_progress_pct": 38.62
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 382.08,
+        "actual_price": 402.61,
+        "monthly_accuracy_pct": 94.63,
+        "target_progress_pct": 43.09
       }
     ]
   },
@@ -98408,6 +101736,14 @@
         "actual_price": 93.5,
         "monthly_accuracy_pct": 94.52,
         "target_progress_pct": -16.68
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 99.07,
+        "actual_price": 93.97,
+        "monthly_accuracy_pct": 94.85,
+        "target_progress_pct": -14.36
       }
     ]
   },
@@ -98644,6 +101980,14 @@
         "actual_price": 253.28,
         "monthly_accuracy_pct": 90.26,
         "target_progress_pct": -41.34
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 281.0,
+        "actual_price": 255.56,
+        "monthly_accuracy_pct": 90.95,
+        "target_progress_pct": -37.05
       }
     ]
   },
@@ -98880,6 +102224,14 @@
         "actual_price": 696.49,
         "monthly_accuracy_pct": 88.86,
         "target_progress_pct": 64.3
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 627.68,
+        "actual_price": 690.0,
+        "monthly_accuracy_pct": 90.07,
+        "target_progress_pct": 59.26
       }
     ]
   },
@@ -99116,6 +102468,14 @@
         "actual_price": 81.93,
         "monthly_accuracy_pct": 96.1,
         "target_progress_pct": -17.99
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 85.34,
+        "actual_price": 83.41,
+        "monthly_accuracy_pct": 97.74,
+        "target_progress_pct": -5.37
       }
     ]
   },
@@ -99352,6 +102712,14 @@
         "actual_price": 108.79,
         "monthly_accuracy_pct": 97.97,
         "target_progress_pct": -3.01
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 111.17,
+        "actual_price": 110.52,
+        "monthly_accuracy_pct": 99.41,
+        "target_progress_pct": 7.2
       }
     ]
   },
@@ -99588,6 +102956,14 @@
         "actual_price": 370.27,
         "monthly_accuracy_pct": 93.76,
         "target_progress_pct": 21.97
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 349.7,
+        "actual_price": 342.0,
+        "monthly_accuracy_pct": 97.8,
+        "target_progress_pct": 5.19
       }
     ]
   },
@@ -99824,6 +103200,14 @@
         "actual_price": 103.96,
         "monthly_accuracy_pct": 95.48,
         "target_progress_pct": -21.1
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 109.01,
+        "actual_price": 105.11,
+        "monthly_accuracy_pct": 96.42,
+        "target_progress_pct": -13.77
       }
     ]
   },
@@ -100060,6 +103444,14 @@
         "actual_price": 33.06,
         "monthly_accuracy_pct": 95.83,
         "target_progress_pct": -14.26
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 34.55,
+        "actual_price": 32.88,
+        "monthly_accuracy_pct": 95.18,
+        "target_progress_pct": -17.32
       }
     ]
   },
@@ -100296,6 +103688,14 @@
         "actual_price": 114.03,
         "monthly_accuracy_pct": 78.76,
         "target_progress_pct": -54.03
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 145.13,
+        "actual_price": 112.27,
+        "monthly_accuracy_pct": 77.36,
+        "target_progress_pct": -57.67
       }
     ]
   },
@@ -100532,6 +103932,14 @@
         "actual_price": 133.04,
         "monthly_accuracy_pct": 93.16,
         "target_progress_pct": -37.48
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 142.96,
+        "actual_price": 134.94,
+        "monthly_accuracy_pct": 94.39,
+        "target_progress_pct": -28.18
       }
     ]
   },
@@ -100768,6 +104176,14 @@
         "actual_price": 128.33,
         "monthly_accuracy_pct": 92.82,
         "target_progress_pct": -36.47
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 138.42,
+        "actual_price": 129.73,
+        "monthly_accuracy_pct": 93.72,
+        "target_progress_pct": -29.88
       }
     ]
   },
@@ -101004,6 +104420,14 @@
         "actual_price": 736.72,
         "monthly_accuracy_pct": 82.25,
         "target_progress_pct": 139.15
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 626.34,
+        "actual_price": 709.33,
+        "monthly_accuracy_pct": 86.75,
+        "target_progress_pct": 107.38
       }
     ]
   },
@@ -101240,6 +104664,14 @@
         "actual_price": 306.24,
         "monthly_accuracy_pct": 97.97,
         "target_progress_pct": 14.14
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 301.03,
+        "actual_price": 300.15,
+        "monthly_accuracy_pct": 99.71,
+        "target_progress_pct": 9.29
       }
     ]
   },
@@ -101476,6 +104908,14 @@
         "actual_price": 157.08,
         "monthly_accuracy_pct": 93.93,
         "target_progress_pct": 67.21
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 148.22,
+        "actual_price": 159.35,
+        "monthly_accuracy_pct": 92.49,
+        "target_progress_pct": 81.55
       }
     ]
   },
@@ -101712,6 +105152,14 @@
         "actual_price": 402.48,
         "monthly_accuracy_pct": 96.05,
         "target_progress_pct": -10.35
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 419.63,
+        "actual_price": 391.25,
+        "monthly_accuracy_pct": 93.24,
+        "target_progress_pct": -24.24
       }
     ]
   },
@@ -101948,6 +105396,14 @@
         "actual_price": 238.69,
         "monthly_accuracy_pct": 92.58,
         "target_progress_pct": -28.34
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 258.21,
+        "actual_price": 243.71,
+        "monthly_accuracy_pct": 94.39,
+        "target_progress_pct": -18.26
       }
     ]
   },
@@ -102184,6 +105640,14 @@
         "actual_price": 252.4,
         "monthly_accuracy_pct": 94.76,
         "target_progress_pct": -28.39
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 266.64,
+        "actual_price": 257.63,
+        "monthly_accuracy_pct": 96.62,
+        "target_progress_pct": -13.87
       }
     ]
   },
@@ -102420,6 +105884,14 @@
         "actual_price": 32.88,
         "monthly_accuracy_pct": 84.78,
         "target_progress_pct": -114.14
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 38.82,
+        "actual_price": 33.13,
+        "monthly_accuracy_pct": 85.34,
+        "target_progress_pct": -108.86
       }
     ]
   },
@@ -102656,6 +106128,14 @@
         "actual_price": 62.86,
         "monthly_accuracy_pct": 94.1,
         "target_progress_pct": -32.08
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 66.87,
+        "actual_price": 63.56,
+        "monthly_accuracy_pct": 95.05,
+        "target_progress_pct": -24.54
       }
     ]
   },
@@ -102892,6 +106372,14 @@
         "actual_price": 508.75,
         "monthly_accuracy_pct": 91.29,
         "target_progress_pct": -33.61
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 558.17,
+        "actual_price": 499.74,
+        "monthly_accuracy_pct": 89.53,
+        "target_progress_pct": -41.71
       }
     ]
   },
@@ -103128,6 +106616,14 @@
         "actual_price": 214.31,
         "monthly_accuracy_pct": 97.47,
         "target_progress_pct": -8.86
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 220.11,
+        "actual_price": 216.35,
+        "monthly_accuracy_pct": 98.29,
+        "target_progress_pct": -1.83
       }
     ]
   },
@@ -103364,6 +106860,14 @@
         "actual_price": 242.23,
         "monthly_accuracy_pct": 95.45,
         "target_progress_pct": 42.79
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 231.95,
+        "actual_price": 238.97,
+        "monthly_accuracy_pct": 96.97,
+        "target_progress_pct": 32.74
       }
     ]
   },
@@ -103600,6 +107104,14 @@
         "actual_price": 1331.17,
         "monthly_accuracy_pct": 98.75,
         "target_progress_pct": 2.89
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1349.83,
+        "actual_price": 1330.7,
+        "monthly_accuracy_pct": 98.58,
+        "target_progress_pct": 2.68
       }
     ]
   },
@@ -103836,6 +107348,14 @@
         "actual_price": 14.97,
         "monthly_accuracy_pct": 99.46,
         "target_progress_pct": 7.03
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 15.07,
+        "actual_price": 14.95,
+        "monthly_accuracy_pct": 99.2,
+        "target_progress_pct": 6.25
       }
     ]
   },
@@ -104072,6 +107592,14 @@
         "actual_price": 385.71,
         "monthly_accuracy_pct": 87.17,
         "target_progress_pct": 94.74
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 342.24,
+        "actual_price": 388.05,
+        "monthly_accuracy_pct": 86.62,
+        "target_progress_pct": 99.25
       }
     ]
   },
@@ -104308,6 +107836,14 @@
         "actual_price": 176.02,
         "monthly_accuracy_pct": 92.84,
         "target_progress_pct": -28.14
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 189.87,
+        "actual_price": 175.5,
+        "monthly_accuracy_pct": 92.43,
+        "target_progress_pct": -29.61
       }
     ]
   },
@@ -104544,6 +108080,14 @@
         "actual_price": 78.96,
         "monthly_accuracy_pct": 93.28,
         "target_progress_pct": -37.91
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 84.74,
+        "actual_price": 79.8,
+        "monthly_accuracy_pct": 94.17,
+        "target_progress_pct": -30.79
       }
     ]
   },
@@ -104780,6 +108324,14 @@
         "actual_price": 12.31,
         "monthly_accuracy_pct": 81.96,
         "target_progress_pct": -56.48
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 15.05,
+        "actual_price": 12.43,
+        "monthly_accuracy_pct": 82.59,
+        "target_progress_pct": -53.55
       }
     ]
   },
@@ -105016,6 +108568,14 @@
         "actual_price": 213.06,
         "monthly_accuracy_pct": 95.79,
         "target_progress_pct": 31.89
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 204.76,
+        "actual_price": 213.69,
+        "monthly_accuracy_pct": 95.64,
+        "target_progress_pct": 33.49
       }
     ]
   },
@@ -105252,6 +108812,14 @@
         "actual_price": 575.09,
         "monthly_accuracy_pct": 98.62,
         "target_progress_pct": 2.09
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 583.9,
+        "actual_price": 569.08,
+        "monthly_accuracy_pct": 97.46,
+        "target_progress_pct": -3.95
       }
     ]
   },
@@ -105488,6 +109056,14 @@
         "actual_price": 199.9,
         "monthly_accuracy_pct": 91.85,
         "target_progress_pct": 78.35
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 185.01,
+        "actual_price": 205.2,
+        "monthly_accuracy_pct": 89.09,
+        "target_progress_pct": 102.26
       }
     ]
   },
@@ -105724,6 +109300,14 @@
         "actual_price": 444.15,
         "monthly_accuracy_pct": 94.67,
         "target_progress_pct": 27.38
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 422.61,
+        "actual_price": 436.95,
+        "monthly_accuracy_pct": 96.61,
+        "target_progress_pct": 21.71
       }
     ]
   },
@@ -105960,6 +109544,14 @@
         "actual_price": 285.22,
         "monthly_accuracy_pct": 99.5,
         "target_progress_pct": 12.01
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 284.3,
+        "actual_price": 284.79,
+        "monthly_accuracy_pct": 99.83,
+        "target_progress_pct": 11.37
       }
     ]
   },
@@ -106196,6 +109788,14 @@
         "actual_price": 650.67,
         "monthly_accuracy_pct": 91.47,
         "target_progress_pct": -23.72
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 712.7,
+        "actual_price": 641.86,
+        "monthly_accuracy_pct": 90.06,
+        "target_progress_pct": -28.59
       }
     ]
   },
@@ -106432,6 +110032,14 @@
         "actual_price": 547.18,
         "monthly_accuracy_pct": 99.4,
         "target_progress_pct": 14.21
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 544.54,
+        "actual_price": 560.36,
+        "monthly_accuracy_pct": 97.1,
+        "target_progress_pct": 30.09
       }
     ]
   },
@@ -106668,6 +110276,14 @@
         "actual_price": 493.22,
         "monthly_accuracy_pct": 97.87,
         "target_progress_pct": 30.51
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 483.34,
+        "actual_price": 498.43,
+        "monthly_accuracy_pct": 96.88,
+        "target_progress_pct": 40.66
       }
     ]
   },
@@ -106904,6 +110520,14 @@
         "actual_price": 23.28,
         "monthly_accuracy_pct": 92.54,
         "target_progress_pct": -53.4
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 25.18,
+        "actual_price": 23.68,
+        "monthly_accuracy_pct": 94.05,
+        "target_progress_pct": -39.8
       }
     ]
   },
@@ -107140,6 +110764,14 @@
         "actual_price": 290.81,
         "monthly_accuracy_pct": 97.27,
         "target_progress_pct": 31.49
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 283.36,
+        "actual_price": 288.89,
+        "monthly_accuracy_pct": 98.05,
+        "target_progress_pct": 26.25
       }
     ]
   },
@@ -107376,6 +111008,14 @@
         "actual_price": 33.37,
         "monthly_accuracy_pct": 93.43,
         "target_progress_pct": -22.44
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 35.77,
+        "actual_price": 33.16,
+        "monthly_accuracy_pct": 92.7,
+        "target_progress_pct": -25.35
       }
     ]
   },
@@ -107612,6 +111252,14 @@
         "actual_price": 45.34,
         "monthly_accuracy_pct": 98.2,
         "target_progress_pct": 21.68
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 44.59,
+        "actual_price": 45.73,
+        "monthly_accuracy_pct": 97.45,
+        "target_progress_pct": 27.25
       }
     ]
   },
@@ -107848,6 +111496,14 @@
         "actual_price": 104.07,
         "monthly_accuracy_pct": 97.97,
         "target_progress_pct": -7.34
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 106.32,
+        "actual_price": 105.57,
+        "monthly_accuracy_pct": 99.3,
+        "target_progress_pct": 5.03
       }
     ]
   },
@@ -108084,6 +111740,14 @@
         "actual_price": 101.58,
         "monthly_accuracy_pct": 97.24,
         "target_progress_pct": 31.47
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 98.96,
+        "actual_price": 103.42,
+        "monthly_accuracy_pct": 95.49,
+        "target_progress_pct": 45.74
       }
     ]
   },
@@ -108320,6 +111984,14 @@
         "actual_price": 183.81,
         "monthly_accuracy_pct": 95.91,
         "target_progress_pct": -1.11
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 192.18,
+        "actual_price": 173.16,
+        "monthly_accuracy_pct": 90.11,
+        "target_progress_pct": -15.37
       }
     ]
   },
@@ -108556,6 +112228,14 @@
         "actual_price": 250.1,
         "monthly_accuracy_pct": 93.23,
         "target_progress_pct": -22.73
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 268.67,
+        "actual_price": 254.88,
+        "monthly_accuracy_pct": 94.87,
+        "target_progress_pct": -14.1
       }
     ]
   },
@@ -108792,6 +112472,14 @@
         "actual_price": 61.18,
         "monthly_accuracy_pct": 92.33,
         "target_progress_pct": -47.17
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 66.33,
+        "actual_price": 61.26,
+        "monthly_accuracy_pct": 92.35,
+        "target_progress_pct": -46.27
       }
     ]
   },
@@ -109028,6 +112716,14 @@
         "actual_price": 63.03,
         "monthly_accuracy_pct": 98.5,
         "target_progress_pct": 22.24
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 62.16,
+        "actual_price": 63.91,
+        "monthly_accuracy_pct": 97.18,
+        "target_progress_pct": 33.42
       }
     ]
   },
@@ -109264,6 +112960,14 @@
         "actual_price": 231.5,
         "monthly_accuracy_pct": 90.16,
         "target_progress_pct": 79.44
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 210.99,
+        "actual_price": 229.04,
+        "monthly_accuracy_pct": 91.44,
+        "target_progress_pct": 71.24
       }
     ]
   },
@@ -109500,6 +113204,14 @@
         "actual_price": 103.99,
         "monthly_accuracy_pct": 81.67,
         "target_progress_pct": -31.9
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 127.73,
+        "actual_price": 98.87,
+        "monthly_accuracy_pct": 77.41,
+        "target_progress_pct": -40.92
       }
     ]
   },
@@ -109736,6 +113448,14 @@
         "actual_price": 673.63,
         "monthly_accuracy_pct": 87.78,
         "target_progress_pct": -75.35
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 768.22,
+        "actual_price": 689.22,
+        "monthly_accuracy_pct": 89.72,
+        "target_progress_pct": -61.11
       }
     ]
   },
@@ -109972,6 +113692,14 @@
         "actual_price": 18.95,
         "monthly_accuracy_pct": 71.79,
         "target_progress_pct": -126.61
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 26.44,
+        "actual_price": 18.82,
+        "monthly_accuracy_pct": 71.18,
+        "target_progress_pct": -128.99
       }
     ]
   },
@@ -110208,6 +113936,14 @@
         "actual_price": 107.19,
         "monthly_accuracy_pct": 98.44,
         "target_progress_pct": 20.22
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 105.68,
+        "actual_price": 104.54,
+        "monthly_accuracy_pct": 98.93,
+        "target_progress_pct": 4.13
       }
     ]
   },
@@ -110444,6 +114180,14 @@
         "actual_price": 86.03,
         "monthly_accuracy_pct": 90.59,
         "target_progress_pct": -27.72
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 95.14,
+        "actual_price": 82.69,
+        "monthly_accuracy_pct": 86.91,
+        "target_progress_pct": -41.78
       }
     ]
   },
@@ -110680,6 +114424,14 @@
         "actual_price": 60.62,
         "monthly_accuracy_pct": 78.99,
         "target_progress_pct": -63.07
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 76.91,
+        "actual_price": 58.83,
+        "monthly_accuracy_pct": 76.49,
+        "target_progress_pct": -71.15
       }
     ]
   },
@@ -110916,6 +114668,14 @@
         "actual_price": 417.19,
         "monthly_accuracy_pct": 78.81,
         "target_progress_pct": -70.79
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 530.37,
+        "actual_price": 390.29,
+        "monthly_accuracy_pct": 73.59,
+        "target_progress_pct": -90.13
       }
     ]
   },
@@ -111152,6 +114912,14 @@
         "actual_price": 244.57,
         "monthly_accuracy_pct": 91.43,
         "target_progress_pct": 22.38
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 226.2,
+        "actual_price": 227.39,
+        "monthly_accuracy_pct": 99.47,
+        "target_progress_pct": 10.16
       }
     ]
   },
@@ -111388,6 +115156,14 @@
         "actual_price": 84.86,
         "monthly_accuracy_pct": 92.69,
         "target_progress_pct": -43.56
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 91.65,
+        "actual_price": 85.86,
+        "monthly_accuracy_pct": 93.68,
+        "target_progress_pct": -35.51
       }
     ]
   },
@@ -111624,6 +115400,14 @@
         "actual_price": 72.52,
         "monthly_accuracy_pct": 97.13,
         "target_progress_pct": 0.39
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 74.83,
+        "actual_price": 72.57,
+        "monthly_accuracy_pct": 96.98,
+        "target_progress_pct": 0.61
       }
     ]
   },
@@ -111860,6 +115644,14 @@
         "actual_price": 79.83,
         "monthly_accuracy_pct": 94.63,
         "target_progress_pct": -18.54
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 84.48,
+        "actual_price": 77.89,
+        "monthly_accuracy_pct": 92.2,
+        "target_progress_pct": -30.82
       }
     ]
   },
@@ -112096,6 +115888,14 @@
         "actual_price": 172.51,
         "monthly_accuracy_pct": 97.89,
         "target_progress_pct": -3.73
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 176.43,
+        "actual_price": 170.51,
+        "monthly_accuracy_pct": 96.64,
+        "target_progress_pct": -11.27
       }
     ]
   },
@@ -112332,6 +116132,14 @@
         "actual_price": 491.23,
         "monthly_accuracy_pct": 94.25,
         "target_progress_pct": -38.2
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 521.67,
+        "actual_price": 500.84,
+        "monthly_accuracy_pct": 96.01,
+        "target_progress_pct": -22.6
       }
     ]
   },
@@ -112568,6 +116376,14 @@
         "actual_price": 103.08,
         "monthly_accuracy_pct": 96.71,
         "target_progress_pct": 37.84
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 99.89,
+        "actual_price": 104.53,
+        "monthly_accuracy_pct": 95.35,
+        "target_progress_pct": 49.96
       }
     ]
   },
@@ -112804,6 +116620,14 @@
         "actual_price": 1639.04,
         "monthly_accuracy_pct": 80.08,
         "target_progress_pct": 140.06
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 1368.4,
+        "actual_price": 1622.29,
+        "monthly_accuracy_pct": 81.45,
+        "target_progress_pct": 132.08
       }
     ]
   },
@@ -113040,6 +116864,14 @@
         "actual_price": 82.93,
         "monthly_accuracy_pct": 96.59,
         "target_progress_pct": -13.91
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 85.95,
+        "actual_price": 82.61,
+        "monthly_accuracy_pct": 96.11,
+        "target_progress_pct": -16.56
       }
     ]
   },
@@ -113276,6 +117108,14 @@
         "actual_price": 342.98,
         "monthly_accuracy_pct": 91.31,
         "target_progress_pct": 74.95
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 315.9,
+        "actual_price": 345.12,
+        "monthly_accuracy_pct": 90.75,
+        "target_progress_pct": 79.99
       }
     ]
   },
@@ -113512,6 +117352,14 @@
         "actual_price": 232.58,
         "monthly_accuracy_pct": 96.89,
         "target_progress_pct": -17.41
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 240.26,
+        "actual_price": 236.0,
+        "monthly_accuracy_pct": 98.23,
+        "target_progress_pct": -4.66
       }
     ]
   },
@@ -113748,6 +117596,14 @@
         "actual_price": 32.82,
         "monthly_accuracy_pct": 97.09,
         "target_progress_pct": 29.71
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 31.93,
+        "actual_price": 34.2,
+        "monthly_accuracy_pct": 92.88,
+        "target_progress_pct": 58.58
       }
     ]
   },
@@ -113984,6 +117840,14 @@
         "actual_price": 92.0,
         "monthly_accuracy_pct": 96.91,
         "target_progress_pct": 34.75
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 89.33,
+        "actual_price": 93.9,
+        "monthly_accuracy_pct": 94.89,
+        "target_progress_pct": 51.55
       }
     ]
   },
@@ -114220,6 +118084,14 @@
         "actual_price": 98.19,
         "monthly_accuracy_pct": 91.53,
         "target_progress_pct": -48.58
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 107.4,
+        "actual_price": 98.59,
+        "monthly_accuracy_pct": 91.8,
+        "target_progress_pct": -45.98
       }
     ]
   },
@@ -114456,6 +118328,14 @@
         "actual_price": 19.38,
         "monthly_accuracy_pct": 82.87,
         "target_progress_pct": -101.68
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 23.42,
+        "actual_price": 19.61,
+        "monthly_accuracy_pct": 83.75,
+        "target_progress_pct": -95.25
       }
     ]
   },
@@ -114692,6 +118572,14 @@
         "actual_price": 209.38,
         "monthly_accuracy_pct": 96.03,
         "target_progress_pct": -16.27
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 218.3,
+        "actual_price": 205.28,
+        "monthly_accuracy_pct": 94.04,
+        "target_progress_pct": -28.84
       }
     ]
   },
@@ -114928,6 +118816,14 @@
         "actual_price": 362.44,
         "monthly_accuracy_pct": 99.75,
         "target_progress_pct": 8.89
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 364.04,
+        "actual_price": 354.72,
+        "monthly_accuracy_pct": 97.44,
+        "target_progress_pct": 0.68
       }
     ]
   },
@@ -115164,6 +119060,14 @@
         "actual_price": 90.65,
         "monthly_accuracy_pct": 93.65,
         "target_progress_pct": -36.27
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 96.89,
+        "actual_price": 93.31,
+        "monthly_accuracy_pct": 96.3,
+        "target_progress_pct": -16.08
       }
     ]
   },
@@ -115400,6 +119304,14 @@
         "actual_price": 50.38,
         "monthly_accuracy_pct": 99.95,
         "target_progress_pct": 9.91
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 50.47,
+        "actual_price": 51.02,
+        "monthly_accuracy_pct": 98.91,
+        "target_progress_pct": 18.04
       }
     ]
   },
@@ -115636,6 +119548,14 @@
         "actual_price": 96.88,
         "monthly_accuracy_pct": 91.21,
         "target_progress_pct": -44.59
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 106.34,
+        "actual_price": 97.52,
+        "monthly_accuracy_pct": 91.7,
+        "target_progress_pct": -40.83
       }
     ]
   },
@@ -115872,6 +119792,14 @@
         "actual_price": 234.63,
         "monthly_accuracy_pct": 97.75,
         "target_progress_pct": -4.09
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 240.32,
+        "actual_price": 234.85,
+        "monthly_accuracy_pct": 97.72,
+        "target_progress_pct": -3.5
       }
     ]
   },
@@ -116108,6 +120036,14 @@
         "actual_price": 90.29,
         "monthly_accuracy_pct": 97.04,
         "target_progress_pct": 30.05
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 87.8,
+        "actual_price": 90.68,
+        "monthly_accuracy_pct": 96.72,
+        "target_progress_pct": 33.03
       }
     ]
   },
@@ -116344,6 +120280,14 @@
         "actual_price": 296.6,
         "monthly_accuracy_pct": 97.15,
         "target_progress_pct": -12.03
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 305.6,
+        "actual_price": 299.59,
+        "monthly_accuracy_pct": 98.03,
+        "target_progress_pct": -4.33
       }
     ]
   },
@@ -116580,6 +120524,14 @@
         "actual_price": 978.01,
         "monthly_accuracy_pct": 94.64,
         "target_progress_pct": 51.68
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 929.16,
+        "actual_price": 989.11,
+        "monthly_accuracy_pct": 93.55,
+        "target_progress_pct": 60.9
       }
     ]
   },
@@ -116816,6 +120768,14 @@
         "actual_price": 69.22,
         "monthly_accuracy_pct": 91.96,
         "target_progress_pct": -45.27
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 75.36,
+        "actual_price": 71.28,
+        "monthly_accuracy_pct": 94.59,
+        "target_progress_pct": -26.35
       }
     ]
   },
@@ -117052,6 +121012,14 @@
         "actual_price": 282.55,
         "monthly_accuracy_pct": 95.84,
         "target_progress_pct": -16.08
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 295.19,
+        "actual_price": 294.9,
+        "monthly_accuracy_pct": 99.9,
+        "target_progress_pct": 10.4
       }
     ]
   },
@@ -117288,6 +121256,14 @@
         "actual_price": 117.87,
         "monthly_accuracy_pct": 91.22,
         "target_progress_pct": 92.5
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 108.44,
+        "actual_price": 118.81,
+        "monthly_accuracy_pct": 90.44,
+        "target_progress_pct": 100.6
       }
     ]
   },
@@ -117524,6 +121500,14 @@
         "actual_price": 86.2,
         "monthly_accuracy_pct": 91.63,
         "target_progress_pct": -70.94
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 94.15,
+        "actual_price": 87.09,
+        "monthly_accuracy_pct": 92.5,
+        "target_progress_pct": -61.74
       }
     ]
   },
@@ -117760,6 +121744,14 @@
         "actual_price": 236.5,
         "monthly_accuracy_pct": 45.98,
         "target_progress_pct": 99.14
+      },
+      {
+        "date": "2026-10-20",
+        "month_number": 1.41,
+        "expected_price": 154.17,
+        "actual_price": 218.01,
+        "monthly_accuracy_pct": 58.59,
+        "target_progress_pct": 78.98
       }
     ]
   }
