@@ -4,11 +4,17 @@ on:
   workflow_dispatch:
 
   schedule:
-    # Hafta içi 22:30 UTC = Türkiye saatiyle 01:30
+    # ABD'de Pazartesi-Cuma kapanışından sonra çalışır.
+    # 22:30 UTC = Türkiye saatiyle ertesi gün 01:30
     - cron: "30 22 * * 1-5"
 
 permissions:
   contents: write
+
+# Aynı anda iki güncellemenin çalışmasını engeller.
+concurrency:
+  group: sp500-daily-data-update
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -17,12 +23,14 @@ jobs:
     steps:
       - name: Projeyi indir
         uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
 
       - name: Python kur
         uses: actions/setup-python@v7
         with:
           python-version: "3.11"
-          cache: pip
+          cache: "pip"
 
       - name: Gerekli paketleri kur
         run: pip install -r requirements.txt
@@ -36,7 +44,19 @@ jobs:
       - name: Güncellenen verileri GitHub'a kaydet
         run: |
           git config user.name "sp500-analysis-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/latest_results.json data/history data/forecasts docs/latest_results.json
-          git diff --cached --quiet || git commit -m "Günlük piyasa fiyatları güncellendi"
-          git push
+          git config user.email "sp500-analysis-bot@users.noreply.github.com"
+
+          git add \
+            data/latest_results.json \
+            data/history \
+            data/forecasts \
+            docs/latest_results.json
+
+          if git diff --cached --quiet; then
+            echo "Kaydedilecek veri değişikliği bulunamadı."
+            exit 0
+          fi
+
+          git commit -m "Günlük piyasa fiyatları güncellendi"
+          git pull --rebase origin main
+          git push origin HEAD:main
