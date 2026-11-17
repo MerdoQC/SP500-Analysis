@@ -41,9 +41,14 @@ def refresh_market_prices(rows: list[dict]) -> list[dict]:
     tickers = [row["yf_ticker"] for row in rows]
     prices = yf.download(tickers, period="5d", interval="1d", auto_adjust=False, progress=False, threads=True)
     close = prices["Close"] if isinstance(prices.columns, pd.MultiIndex) else prices[["Close"]]
-    latest = close.ffill().iloc[-1]
+    # Do not forward-fill stale prices across trading sessions.
+    # Only accept a quote from the latest available market session.
+    latest_session = close.index.max()
+    latest = close.loc[latest_session]
     if not isinstance(latest, pd.Series):
         latest = pd.Series({tickers[0]: latest})
+    price_date = pd.Timestamp(latest_session).date().isoformat()
+    updated_at = datetime.now(timezone.utc).isoformat()
     refreshed = []
     for row in rows:
         item = dict(row)
@@ -54,13 +59,14 @@ def refresh_market_prices(rows: list[dict]) -> list[dict]:
         # İlk snapshot'taki mutlak hedefleri fiyat değişince kaybetmemek için sabitle.
         item.setdefault("analyst_target_price", _target_from_upside(old_price, analyst_upside))
         item.setdefault("fundamental_target_price", _target_from_upside(old_price, fundamental_upside))
-        if new_price is not None:
+        if new_price is not None and np.isfinite(new_price) and new_price > 0:
             item["current_price"] = round(new_price, 4)
+            item["last_price_date"] = price_date
+            item["last_market_update_utc"] = updated_at
             if item.get("analyst_target_price"):
                 item["analyst_upside_pct"] = round((item["analyst_target_price"] / new_price - 1) * 100, 2)
             if item.get("fundamental_target_price"):
                 item["fundamental_upside_pct"] = round((item["fundamental_target_price"] / new_price - 1) * 100, 2)
-        item["last_market_update_utc"] = datetime.now(timezone.utc).isoformat()
         refreshed.append(item)
     return refreshed
 
@@ -152,12 +158,18 @@ def run_refresh():
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
     rows = json.loads(LATEST_JSON.read_text(encoding="utf-8"))
     refreshed = refresh_market_prices(rows)
+    refreshed_at = next((row.get("last_market_update_utc") for row in refreshed if row.get("last_market_update_utc")), None)
     timestamp = datetime.now(timezone.utc)
     snapshot = HISTORY_DIR / f"{timestamp:%Y-%m-%d}.json"
     payload = json.dumps(refreshed, ensure_ascii=False, indent=2)
     LATEST_JSON.write_text(payload, encoding="utf-8")
     snapshot.write_text(payload, encoding="utf-8")
-    current_prices = {row["ticker"]: row["current_price"] for row in refreshed if row.get("current_price") is not None}
+    # Never score a forecast against an old price when a ticker download fails.
+    current_prices = {
+        row["ticker"]: row["current_price"] for row in refreshed
+        if row.get("last_market_update_utc") == refreshed_at
+        and row.get("current_price") is not None
+    }
     update_forecast_tracking(FORECAST_FILE, current_prices, timestamp.date())
     return {"status": "completed", "company_count": len(refreshed), "updated_at": timestamp.isoformat()}
 
