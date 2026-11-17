@@ -2,6 +2,10 @@ name: Günlük S&P 500 Fiyat Güncellemesi
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'backend/update_data.py'
 
   schedule:
     # ABD'de Pazartesi-Cuma kapanışından sonra çalışır.
