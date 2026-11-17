@@ -158,7 +158,14 @@ def run_refresh():
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
     rows = json.loads(LATEST_JSON.read_text(encoding="utf-8"))
     refreshed = refresh_market_prices(rows)
-    refreshed_at = next((row.get("last_market_update_utc") for row in refreshed if row.get("last_market_update_utc")), None)
+    # A successful HTTP request does not guarantee fresh quotes. Reject empty updates.
+    previous_stamps = {row["ticker"]: row.get("last_market_update_utc") for row in rows}
+    updated = [row for row in refreshed if row.get("last_market_update_utc") != previous_stamps.get(row["ticker"])]
+    if not updated:
+        raise RuntimeError("No valid market prices were refreshed; keeping published data unchanged")
+    if len(updated) < max(1, int(len(rows) * 0.80)):
+        raise RuntimeError(f"Only {len(updated)}/{len(rows)} prices refreshed; refusing partial publication")
+    refreshed_at = updated[0]["last_market_update_utc"]
     timestamp = datetime.now(timezone.utc)
     snapshot = HISTORY_DIR / f"{timestamp:%Y-%m-%d}.json"
     payload = json.dumps(refreshed, ensure_ascii=False, indent=2)
